@@ -5,7 +5,7 @@
     "process": "eboot.bin",
     "mods": [
         {
-            "name": "Enable Dev Menu",
+            "name": "Abilita Menu Dev",
             "type": "checkbox",
             "memory": [
                 {
@@ -16,7 +16,7 @@
             ]
         },
         {
-            "name": "Infinite Silencer Ammo",
+            "name": "Munizioni Silenziatore Infinite",
             "type": "checkbox",
             "memory": [
                 {
@@ -27,7 +27,7 @@
             ]
         },
         {
-            "name": "Infinite Items",
+            "name": "Elementi Infiniti",
             "type": "checkbox",
             "memory": [
                 {
