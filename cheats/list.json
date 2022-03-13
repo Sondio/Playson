@@ -1,0 +1,28 @@
+{
+    "cheats": [
+        {
+            "name": "The Last of Us™ Part II",
+            "title": "CUSA10249",
+            "version": "01.00",
+            "url": "CUSA10249_01.00.json"
+        },
+        {
+            "name": "The Last of Us™ Part II",
+            "title": "CUSA10249",
+            "version": "01.07",
+            "url": "CUSA10249_01.07.json"
+        },
+        {
+            "name": "Marvel's Avengers",
+            "title": "CUSA14030",
+            "version": "01.12",
+            "url": "CUSA14026_01.12.json"
+        },
+        {
+            "name": "Horizon Zero Dawn™: Complete Edition",
+            "title": "CUSA10211",
+            "version": "01.52",
+            "url": "CUSA10211_01.52.json"
+        }
+    ]
+}
