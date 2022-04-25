@@ -1,10 +1,10 @@
 {
     "Playson": [
         {
-			"latestVersion": "2.1",
+			"latestVersion": "2.6",
 			"latestVersionCode": 2,
 			"releaseNotes": [
-				"- Correzioni generali - GoldHen aggiornato alla versione 2.2.2"
+				"- Correzioni generali - GoldHen aggiornato alla versione 2.2.2 - Aggiunta modalità audio/vibrazione"
 			]
         }		
     ]
