@@ -1,7 +1,9 @@
 {
     "part": [
         {
-            "num": "22"
+            "name": "PKG",
+            "num": "22",
+            "ext": ".z"
         }
     ],
     "pkgs": [
