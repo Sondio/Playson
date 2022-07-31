@@ -3,8 +3,8 @@
         {
             "name": "Apollo Save Tool",
             "title": "APOL00004",
-            "version": "1.1.0",
-            "url": "Apollo-Save-Tool_1.1.0.pkg",
+            "version": "1.2.0",
+            "url": "Apollo-Save-Tool_1.2.0.pkg",
             "info": "https://github.com/bucanero/apollo-ps4"
         },
         {
@@ -62,6 +62,13 @@
             "version": "1.33",
             "url": "PS4-Tools_1.33.pkg",
             "info": "https://pkg-zone.com/details/XDPX20004"
+        },
+        {
+            "name": "Icon Mask",
+            "title": "LAPY20007",
+            "version": "1.06",
+            "url": "Icon-Mask_1.06.pkg",
+            "info": "https://pkg-zone.com/details/LAPY20007"
         }
     ]
 }
