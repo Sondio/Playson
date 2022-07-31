@@ -1,5 +1,9 @@
 {
-    "part": "22",
+    "part": [
+        {
+            "num": "22"
+        }
+    ],
     "pkgs": [
         {
             "name": "Apollo Save Tool",
