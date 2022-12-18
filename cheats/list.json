@@ -29,6 +29,12 @@
             "title": "CUSA10211",
             "version": "01.52",
             "url": "CUSA10211_01.52.json"
+        },
+        {
+            "name": "God Of War: Ragnarok",
+            "title": "CUSA34390",
+            "version": "02.04",
+            "url": "CUSA34390_02.04.json"
         }
     ]
 }
