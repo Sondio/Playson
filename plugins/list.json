@@ -1,1 +1,10 @@
-
+{
+    "plugins": [
+        {
+            "name": "GoldHEN Plugins",
+            "plugin": "0",
+            "version": "0.0",
+            "info": "https://github.com/GoldHEN/GoldHEN_Plugins_Repository"
+        }
+    ]
+}
