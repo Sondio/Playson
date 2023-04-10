@@ -1,10 +1,32 @@
 {
-    "plugins": [
+    "repo": [
         {
             "name": "GoldHEN Plugins",
-            "plugin": "0",
-            "version": "0.0",
+            "plugin": "5",
+            "version": "1.155",
             "info": "https://github.com/GoldHEN/GoldHEN_Plugins_Repository"
+        }
+    ],
+    "plugins": [
+        {
+            "name": "afr.prx",
+            "hash": "5d39326745ecd0d4d674de5513481e50"
+        },
+        {
+            "name": "button_swap.prx",
+            "hash": "627f73ee282853731806885f4bfa719b"
+        },
+        {
+            "name": "fliprate_remover.prx",
+            "hash": "2fa11aad5cc39b8ff83b425ad0019955"
+        },
+        {
+            "name": "game_patch.prx",
+            "hash": "4648e7120e59490bc5fe18ab1a942946"
+        },
+        {
+            "name": "no_share_watermark.prx",
+            "hash": "524d26d311d1adb24b28d86b6b2eac6b"
         }
     ]
 }
