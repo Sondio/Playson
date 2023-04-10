@@ -2,7 +2,6 @@
     "repo": [
         {
             "name": "GoldHEN Plugins",
-            "plugin": "5",
             "version": "1.155",
             "info": "https://github.com/GoldHEN/GoldHEN_Plugins_Repository"
         }
