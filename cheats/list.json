@@ -53,6 +53,12 @@
             "title": "CUSA34390",
             "version": "02.04",
             "url": "CUSA34390_02.04.json"
+        },
+        {
+            "name": "Kena: Bridge of Spirits",
+            "title": "CUSA25000",
+            "version": "02.08",
+            "url": "CUSA25000_02.08.json"
         }
     ]
 }
