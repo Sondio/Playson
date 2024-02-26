@@ -1,0 +1,124 @@
+{
+  "name": "Kena: Bridge of Spirits",
+  "id": "CUSA25000",
+  "version": "02.08",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "Infinite Health (MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7BE2FD1",
+          "on": "C5EA5CC04981FCA800000074374983FC3874194981FCE0000000740A4983FB107513C5FA1117E9F5F22BFAF84983FF0474F40F57C0C5FA1107E9E2F22BFAC707003C1C46E9D7F22BFA",
+          "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+          "offset": "1EA22E9",
+          "on": "E9E30CD405909090",
+          "off": "C5EA5CC0C5FA1107"
+        },
+        {
+          "offset": "1F138C7",
+          "on": "909090909090",
+          "off": "FF90C0080000"
+        }
+      ]
+    },
+    {
+      "name": "One Hit Kill (Enable MC)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7BE2FF1",
+          "on": "7509",
+          "off": "7513"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Shield",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "2045250",
+          "on": "909090909090",
+          "off": "FF9040040000"
+        }
+      ]
+    },
+    {
+      "name": "Max Rot/Level",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7BE3028",
+          "on": "C7872C02000064000000E9F08532FA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1F0B621",
+          "on": "E9027ACD0590",
+          "off": "89872C020000"
+        }
+      ]
+    },
+    {
+      "name": "Instant Rot",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1EA1EA4",
+          "on": "C5FA1108",
+          "off": "C5FA1100"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Skills",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7BE306B",
+          "on": "C5F82EC1C700003C1C46E92EEE2BFA",
+          "off": "000000000000000000000000000000"
+        },
+        {
+          "offset": "1EA1EA0",
+          "on": "E9C611D405909090",
+          "off": "C5F82EC1C5FA1100"
+        }
+      ]
+    },
+    {
+      "name": "Gems On Spent",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "7BE3056",
+          "on": "488D44DF08440100E95B0C6AFA",
+          "off": "00000000000000000000000000"
+        },
+        {
+          "offset": "2283CB9",
+          "on": "E998F39505",
+          "off": "488D44DF08"
+        }
+      ]
+    },
+    {
+      "name": "Gems On Gain",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "1E7AFDE",
+          "on": "44011B",
+          "off": "44893B"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "Sondio"
+  ]
+}
