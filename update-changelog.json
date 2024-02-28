@@ -1,7 +1,7 @@
 {
     "Playson": [
         {
-			"latestVersion": "3.7.10",
+			"latestVersion": "3.7.11",
 			"latestVersionCode": 3,
 			"releaseNotes": [
 				"- Added RPI support - Added double touch - General corrections - Graphic corrections - Audio corrections - Goldhen version 2.4B16.2 - Added Tools - Added PSFREE 1.4.0b"
