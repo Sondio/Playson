@@ -1,0 +1,4389 @@
+{
+    "themes": [
+        {
+            "CONTENT_ID": "UP8812-CUSA05210_00-0000000000000152",
+            "NAME": "10 3D Images - Super Skylines",
+            "TITLE_ID": "CUSA05210"
+        },
+        {
+            "CONTENT_ID": "UP8812-CUSA05210_00-0000000000000095",
+            "NAME": "10 Images - 1800s Japanese Trade - Dynamic",
+            "TITLE_ID": "CUSA05210"
+        },
+        {
+            "CONTENT_ID": "UP8812-CUSA05210_00-0000000000000094",
+            "NAME": "10 Images - 1800s Japanese Work - Dynamic",
+            "TITLE_ID": "CUSA05210"
+        },
+        {
+            "CONTENT_ID": "UP8812-CUSA05210_00-0000000000000093",
+            "NAME": "10 Images - Japanese Landscapes - Dynamic",
+            "TITLE_ID": "CUSA05210"
+        },
+        {
+            "CONTENT_ID": "UP8812-CUSA05210_00-0000000000000129",
+            "NAME": "10 Images - Japanese Sights - Dynamic",
+            "TITLE_ID": "CUSA05210"
+        },
+        {
+            "CONTENT_ID": "HP0177-CUSA14326_00-13KTHEME00000000",
+            "NAME": "13 SENTINELS - AEGIS RIM - Theme A",
+            "TITLE_ID": "CUSA14326"
+        },
+        {
+            "CONTENT_ID": "EP8943-CUSA06594_00-DP3DBLACKHESC17D",
+            "NAME": "3D Black Hole Escape - Slide N Go",
+            "TITLE_ID": "CUSA06594"
+        },
+        {
+            "CONTENT_ID": "UP2131-CUSA01736_00-DP3DJACKOLANT16D",
+            "NAME": "3D Jack OLantern - Dynamic",
+            "TITLE_ID": "CUSA01736"
+        },
+        {
+            "CONTENT_ID": "UP2131-CUSA01736_00-DP3DPOSEIDNAQ15D",
+            "NAME": "3D Poseidons Aquarium - Dynamic",
+            "TITLE_ID": "CUSA01736"
+        },
+        {
+            "CONTENT_ID": "UP2131-CUSA01736_00-DP3DINTERRETA16D",
+            "NAME": "3D Retaliation Rampage Interactive - Dynamic",
+            "TITLE_ID": "CUSA01736"
+        },
+        {
+            "CONTENT_ID": "UP1450-CUSA05440_00-3ON3THEMECBTEN01",
+            "NAME": "3ON3 CBT",
+            "TITLE_ID": "CUSA05440"
+        },
+        {
+            "CONTENT_ID": "EP0031-CUSA07998_00-4GOTHEME00000004",
+            "NAME": "4 Goddesses Online - Chosen Ones CPUs",
+            "TITLE_ID": "CUSA07998"
+        },
+        {
+            "CONTENT_ID": "EP0031-CUSA07998_00-4GOTHEME00000005",
+            "NAME": "4 Goddesses Online - Chosen Ones CPU Candidates",
+            "TITLE_ID": "CUSA07998"
+        },
+        {
+            "CONTENT_ID": "EP0031-CUSA07998_00-4GOTHEME00000002",
+            "NAME": "4 Goddesses Online - Goddesses Advent",
+            "TITLE_ID": "CUSA07998"
+        },
+        {
+            "CONTENT_ID": "EP0031-CUSA07998_00-4GOTHEME00000003",
+            "NAME": "4 Goddesses Online - Pixel",
+            "TITLE_ID": "CUSA07998"
+        },
+        {
+            "CONTENT_ID": "UP4312-CUSA02383_00-DYNAMIC0326THEME",
+            "NAME": "4K - Abstract Waves - Dynamic",
+            "TITLE_ID": "CUSA02383"
+        },
+        {
+            "CONTENT_ID": "EP8070-CUSA17557_00-ETH0000000003769",
+            "NAME": "4K - Valentine Date",
+            "TITLE_ID": "CUSA17557"
+        },
+        {
+            "CONTENT_ID": "EP8070-CUSA17557_00-ETH0000000003770",
+            "NAME": "4K - Valentine Mystery",
+            "TITLE_ID": "CUSA17557"
+        },
+        {
+            "CONTENT_ID": "EP8070-CUSA17557_00-ETH0000000003771",
+            "NAME": "4K - Valentine Stars",
+            "TITLE_ID": "CUSA17557"
+        },
+        {
+            "CONTENT_ID": "EP8070-CUSA17557_00-ETH0000000003772",
+            "NAME": "4K - Valentine Tree",
+            "TITLE_ID": "CUSA17557"
+        },
+        {
+            "CONTENT_ID": "UP2136-CUSA02727_00-KODOSCEADPS40442",
+            "NAME": "4k Autumn Forest - Dynamic",
+            "TITLE_ID": "CUSA02727"
+        },
+        {
+            "CONTENT_ID": "UP5641-CUSA16631_00-ERIKGAMESTHAV012",
+            "NAME": "4K Brain Breaker - Horror Dark Jungle - Dynamic",
+            "TITLE_ID": "CUSA16631"
+        },
+        {
+            "CONTENT_ID": "EP3351-CUSA08250_00-4KBEAUTIFULEYES0",
+            "NAME": "4K Series - Beautiful Eyes Dynamic",
+            "TITLE_ID": "CUSA08250"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA01501_00-ETH0000000003828",
+            "NAME": "4ThePlayers - Dynamisches Design",
+            "TITLE_ID": "CUSA01501"
+        },
+        {
+            "CONTENT_ID": "JP0741-CUSA14527_00-THEME00000000000",
+            "NAME": "A Good Librarian Like a Good Shepherd - Library Party",
+            "TITLE_ID": "CUSA14527"
+        },
+        {
+            "CONTENT_ID": "UP3686-CUSA08274_00-UTH0000000007273",
+            "NAME": "A Hole New World",
+            "TITLE_ID": "CUSA08274"
+        },
+        {
+            "CONTENT_ID": "UP1063-CUSA07943_00-CUSTOM000PSV0002",
+            "NAME": "A Rose in the Twilight",
+            "TITLE_ID": "CUSA07943"
+        },
+        {
+            "CONTENT_ID": "UP0571-CUSA09703_00-UTH0000000007377",
+            "NAME": "ACA - NEOGEO 1st Anniversary",
+            "TITLE_ID": "CUSA09703"
+        },
+        {
+            "CONTENT_ID": "EP0700-CUSA07202_00-ACE7GETHEME00002",
+            "NAME": "Ace Combat 7 - Dynamic Theme 2",
+            "TITLE_ID": "CUSA07202"
+        },
+        {
+            "CONTENT_ID": "EP0700-CUSA07202_00-ACE7GETHEME00003",
+            "NAME": "Ace Combat 7 - Theme 2",
+            "TITLE_ID": "CUSA07202"
+        },
+        {
+            "CONTENT_ID": "UP0576-CUSA03783_00-UTH0000000007237",
+            "NAME": "ADK Damashii",
+            "TITLE_ID": "CUSA03783"
+        },
+        {
+            "CONTENT_ID": "UP8812-CUSA05210_00-0000000000000132",
+            "NAME": "Afloat in the Great Wave off Kanagawa With Upgraded Icons",
+            "TITLE_ID": "CUSA05210"
+        },
+        {
+            "CONTENT_ID": "UP2047-CUSA03132_00-UTH0000000007290",
+            "NAME": "Agents of Mayhem",
+            "TITLE_ID": "CUSA03132"
+        },
+        {
+            "CONTENT_ID": "UP2047-CUSA10216_00-UTH0000000007419",
+            "NAME": "Agony",
+            "TITLE_ID": "CUSA10216"
+        },
+        {
+            "CONTENT_ID": "HP9008-CUSA03605_00-AICHANTHEME00036",
+            "NAME": "Ai-chan - Greek Goddess Series - Aphrodite - Dynamic",
+            "TITLE_ID": "CUSA03605"
+        },
+        {
+            "CONTENT_ID": "HP9008-CUSA03605_00-AICHANTHEME00034",
+            "NAME": "Ai-chan - Greek Goddess Series - Hebe - Dynamic",
+            "TITLE_ID": "CUSA03605"
+        },
+        {
+            "CONTENT_ID": "HP9008-CUSA03605_00-AICHANTHEME00035",
+            "NAME": "Ai-chan - Walk with PlayStation - Dynamic",
+            "TITLE_ID": "CUSA03605"
+        },
+        {
+            "CONTENT_ID": "JP0741-CUSA17068_00-AIBEYATM01ZZZZZZ",
+            "NAME": "Aibeya",
+            "TITLE_ID": "CUSA17068"
+        },
+        {
+            "CONTENT_ID": "JP0741-CUSA16229_00-AIKAGITM01ZZZZZZ",
+            "NAME": "Aikagi Kimi to Isshoni Pack - With You",
+            "TITLE_ID": "CUSA16229"
+        },
+        {
+            "CONTENT_ID": "UP0964-CUSA07747_00-AKASHPROMOTHEME2",
+            "NAME": "Akash - Path of the Five Decisions, Decisions - Dynamic",
+            "TITLE_ID": "CUSA07747"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA04181_00-ANDYNAMICTHEME01",
+            "NAME": "ALIENATION",
+            "TITLE_ID": "CUSA04181"
+        },
+        {
+            "CONTENT_ID": "JP0536-CUSA12600_00-THEME00000000003",
+            "NAME": "Alliance Alive HD Remastered - Rainy World",
+            "TITLE_ID": "CUSA12600"
+        },
+        {
+            "CONTENT_ID": "UP4478-CUSA01744_00-2016061512150004",
+            "NAME": "Amazing Dark Moon - Dynamic",
+            "TITLE_ID": "CUSA01744"
+        },
+        {
+            "CONTENT_ID": "EP1545-CUSA08167_00-ETH0000000001191",
+            "NAME": "Ancient Amuletor Theme - Become One of Them",
+            "TITLE_ID": "CUSA08167"
+        },
+        {
+            "CONTENT_ID": "UP2166-CUSA01684_00-ANIMALOFFICE0001",
+            "NAME": "Animal Office",
+            "TITLE_ID": "CUSA01684"
+        },
+        {
+            "CONTENT_ID": "EP2402-CUSA05624_00-ETH0000000000808",
+            "NAME": "Anime Cyberpunk Girl",
+            "TITLE_ID": "CUSA05624"
+        },
+        {
+            "CONTENT_ID": "EP8943-CUSA06594_00-STOKESREALMET17D",
+            "NAME": "Anne Stokes - Realm Of Enchantment - Dynamic",
+            "TITLE_ID": "CUSA06594"
+        },
+        {
+            "CONTENT_ID": "EP8943-CUSA06594_00-STOKESREALMET17D",
+            "NAME": "Anne Stokes - Realm of Enchantment - Slide N' Go",
+            "TITLE_ID": "CUSA06594"
+        },
+        {
+            "CONTENT_ID": "EP4476-CUSA11273_00-KODOSCEEDPS40368",
+            "NAME": "Apocalyptic Mechanic Robot Sci-Fi War in City Traffic  - Dynamic",
+            "TITLE_ID": "CUSA11273"
+        },
+        {
+            "CONTENT_ID": "IP9100-CUSA00001_00-PLAYROOM0THEME01",
+            "NAME": "AR Bots",
+            "TITLE_ID": "CUSA00001"
+        },
+        {
+            "CONTENT_ID": "UP2131-CUSA01736_00-ROCHAARNATVIL18D",
+            "NAME": "Ar-Nat - Village",
+            "TITLE_ID": "CUSA01736"
+        },
+        {
+            "CONTENT_ID": "EP4529-CUSA11646_00-ETH0000000002571",
+            "NAME": "Arca's Path - VR",
+            "TITLE_ID": "CUSA11646"
+        },
+        {
+            "CONTENT_ID": "UP8805-CUSA03855_00-ARCHITECTURAL000",
+            "NAME": "Architectural Perspectives - Dynamic",
+            "TITLE_ID": "CUSA03855"
+        },
+        {
+            "CONTENT_ID": "EP2911-CUSA12772_00-ETH0000000003412",
+            "NAME": "Arise - Hope",
+            "TITLE_ID": "CUSA12772"
+        },
+        {
+            "CONTENT_ID": "EP2911-CUSA12772_00-ETH0000000003651",
+            "NAME": "Arise - Warmth",
+            "TITLE_ID": "CUSA12772"
+        },
+        {
+            "CONTENT_ID": "JP0506-CUSA09411_00-AC20THATHEME0001",
+            "NAME": "Armored Core - 20th Anniversary",
+            "TITLE_ID": "CUSA09411"
+        },
+        {
+            "CONTENT_ID": "EP0001-CUSA09303_00-ACDNEWTHEME12345",
+            "NAME": "Assassin's Creed - Odyssey - Vista",
+            "TITLE_ID": "CUSA09303"
+        },
+        {
+            "CONTENT_ID": "UP0001-CUSA09311_00-ETH0000000002140",
+            "NAME": "Assassin's Creed - Odyssey",
+            "TITLE_ID": "CUSA09311"
+        },
+        {
+            "CONTENT_ID": "JP0001-CUSA05640_00-ACOJPNTHEME00000",
+            "NAME": "Assassin's Creed - Origins (Japanese)",
+            "TITLE_ID": "CUSA05640"
+        },
+        {
+            "CONTENT_ID": "EP0001-CUSA05625_00-ETH0000000001349",
+            "NAME": "Assassin's Creed - Origins - Dynamic",
+            "TITLE_ID": "CUSA05625"
+        },
+        {
+            "CONTENT_ID": "UP4108-CUSA07592_00-UTH0000000007238",
+            "NAME": "Atelier Firis - Special",
+            "TITLE_ID": "CUSA07592"
+        },
+        {
+            "CONTENT_ID": "UP4108-CUSA04926_00-UTH0000000007105",
+            "NAME": "Atelier Sophie - Theme B-1",
+            "TITLE_ID": "CUSA04926"
+        },
+        {
+            "CONTENT_ID": "EP4060-CUSA17619_00-THEME00000000001",
+            "NAME": "Azur Lane - Crosswave",
+            "TITLE_ID": "CUSA17619"
+        },
+        {
+            "CONTENT_ID": "UP0964-CUSA04642_00-VEVAZUREEARTH001",
+            "NAME": "Azure Earth Orbital Remastered - Dynamic",
+            "TITLE_ID": "CUSA04642"
+        },
+        {
+            "CONTENT_ID": "UP2135-CUSA02537_00-BACK2BEDTHEMEPS4",
+            "NAME": "Back to Bed - Dynamic",
+            "TITLE_ID": "CUSA02537"
+        },
+        {
+            "CONTENT_ID": "EP1018-CUSA00135_00-ETH0000000000079",
+            "NAME": "Batman - Arkham Knight - Hero & Villain - PS Plus Exclusive",
+            "TITLE_ID": "CUSA00135"
+        },
+        {
+            "CONTENT_ID": "UP1018-CUSA00133_00-UTH0000000000010",
+            "NAME": "Batman - Arkham Knight - Pre-Order",
+            "TITLE_ID": "CUSA00133"
+        },
+        {
+            "CONTENT_ID": "EP1018-CUSA00135_00-ETH0000000000019",
+            "NAME": "Batman - Arkham Knight",
+            "TITLE_ID": "CUSA00135"
+        },
+        {
+            "CONTENT_ID": "EP1018-CUSA04607_00-ETH0000000000373",
+            "NAME": "Batman - Return to Arkham",
+            "TITLE_ID": "CUSA04607"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA01769_00-ETH0000000000358",
+            "NAME": "Batman vs. Superman - Dawn of Justice",
+            "TITLE_ID": "CUSA01769"
+        },
+        {
+            "CONTENT_ID": "JP0177-CUSA03162_00-THEMESET00000003",
+            "NAME": "Battlefield Valkyria - Key Visual A",
+            "TITLE_ID": "CUSA03162"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA01501_00-ETH0000000000629",
+            "NAME": "Bearnard's Season Tour",
+            "TITLE_ID": "CUSA01501"
+        },
+        {
+            "CONTENT_ID": "UP3686-CUSA08273_00-UTH0000000007274",
+            "NAME": "Bit Dungeon Plus",
+            "TITLE_ID": "CUSA08273"
+        },
+        {
+            "CONTENT_ID": "EP8925-CUSA08902_00-ETH0000000002566",
+            "NAME": "Bleed",
+            "TITLE_ID": "CUSA08902"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA00207_00-BLOODBORNETHEME2",
+            "NAME": "Bloodborne - City of Yharnam",
+            "TITLE_ID": "CUSA00207"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA00207_00-BLOODBORNETHEME1",
+            "NAME": "Bloodborne - Nightmares",
+            "TITLE_ID": "CUSA00207"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA00207_00-ETH0000000000078",
+            "NAME": "Bloodborne - Platinum",
+            "TITLE_ID": "CUSA00207"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA00207_00-ETH0000000000261",
+            "NAME": "Bloodborne - The Hunter's Dream",
+            "TITLE_ID": "CUSA00207"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA00207_00-ETH0000000000231",
+            "NAME": "Bloodborne - The Old Hunters",
+            "TITLE_ID": "CUSA00207"
+        },
+        {
+            "CONTENT_ID": "UT0027-CUSA01672_00-DYNAMICBLCDTHEME",
+            "NAME": "Blue Code - Dynamic",
+            "TITLE_ID": "CUSA01672"
+        },
+        {
+            "CONTENT_ID": "JP0177-CUSA10419_00-BBOBTTHEME000000",
+            "NAME": "Border Break - Amazing Trees",
+            "TITLE_ID": "CUSA10419"
+        },
+        {
+            "CONTENT_ID": "JP0177-CUSA05764_00-BBTHEME000000002",
+            "NAME": "BORDER BREAK - Main Visual",
+            "TITLE_ID": "CUSA05764"
+        },
+        {
+            "CONTENT_ID": "UP1001-CUSA01401_00-UTH0000000000011",
+            "NAME": "Borderlands - The Handsome Collection",
+            "TITLE_ID": "CUSA01401"
+        },
+        {
+            "CONTENT_ID": "EP0953-CUSA05330_00-ETH0000000001710",
+            "NAME": "Brawlhalla - Asgard",
+            "TITLE_ID": "CUSA05330"
+        },
+        {
+            "CONTENT_ID": "EP4312-CUSA07658_00-ETH0000000001540",
+            "NAME": "BRIKS - Abduzad Dark Elf Hero HD v2",
+            "TITLE_ID": "CUSA07658"
+        },
+        {
+            "CONTENT_ID": "EP4312-CUSA07658_00-ETH0000000001140",
+            "NAME": "BRIKS - Anime Chika - Dynamic HD",
+            "TITLE_ID": "CUSA07658"
+        },
+        {
+            "CONTENT_ID": "EP4312-CUSA10636_00-ETH0000000002900",
+            "NAME": "BRIKS 2 - Aika Anime - Dynamic",
+            "TITLE_ID": "CUSA10636"
+        },
+        {
+            "CONTENT_ID": "EP4312-CUSA10636_00-ETH0000000002166",
+            "NAME": "BRIKS 2 - Nora - Futbol",
+            "TITLE_ID": "CUSA10636"
+        },
+        {
+            "CONTENT_ID": "UP2166-CUSA08964_00-BAFBSTHEME000001",
+            "NAME": "Butter & Friends - Babysitter Sim",
+            "TITLE_ID": "CUSA08964"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA01454_00-CODAWPS4THEME001",
+            "NAME": "Call of Duty - Advanced Warfare",
+            "TITLE_ID": "CUSA01454"
+        },
+        {
+            "CONTENT_ID": "EP0002-CUSA02624_00-BLACKOPS3PAK1THM",
+            "NAME": "Call of Duty - Black Ops 3 - DLC 1 - Awakening",
+            "TITLE_ID": "CUSA02624"
+        },
+        {
+            "CONTENT_ID": "EP0002-CUSA02624_00-BLACKOPS3PAK2THM",
+            "NAME": "Call of Duty - Black Ops 3 - DLC 2 - Eclipse",
+            "TITLE_ID": "CUSA02624"
+        },
+        {
+            "CONTENT_ID": "EP0002-CUSA02624_00-BLACKOPS3PAK3THM",
+            "NAME": "Call of Duty - Black Ops 3 - DLC 3 - Stalingrad",
+            "TITLE_ID": "CUSA02624"
+        },
+        {
+            "CONTENT_ID": "EP0002-CUSA02624_00-BLACKOPS3PAK4THM",
+            "NAME": "Call of Duty - Black Ops 3 - DLC 4 - Salvation",
+            "TITLE_ID": "CUSA02624"
+        },
+        {
+            "CONTENT_ID": "EP0002-CUSA02624_00-BLACKOPS3BETATHM",
+            "NAME": "Call of Duty - Black Ops 3 - Morg City",
+            "TITLE_ID": "CUSA02624"
+        },
+        {
+            "CONTENT_ID": "EP0002-CUSA02624_00-BLACKOPS3SPTHEME",
+            "NAME": "Call of Duty - Black Ops 3 - Skyjacked",
+            "TITLE_ID": "CUSA02624"
+        },
+        {
+            "CONTENT_ID": "UP0002-CUSA02290_00-CODBO3ZHDTHEME02",
+            "NAME": "Call of Duty - Black Ops 3 - Zombies Celebration - Dynamic",
+            "TITLE_ID": "CUSA02290"
+        },
+        {
+            "CONTENT_ID": "JP9201-CUSA03327_00-CODBO3ZHDTHEME01",
+            "NAME": "Call of Duty - Black Ops 3 - Zombies Chronicles - Dynamic",
+            "TITLE_ID": "CUSA03327"
+        },
+        {
+            "CONTENT_ID": "EP0002-CUSA02624_00-ETH0000000000041",
+            "NAME": "Call of Duty - Black Ops 3",
+            "TITLE_ID": "CUSA02624"
+        },
+        {
+            "CONTENT_ID": "EP0002-CUSA12443_00-CODBO4THEME00001",
+            "NAME": "Call of Duty - Black Ops 4 - Dynamic",
+            "TITLE_ID": "CUSA12443"
+        },
+        {
+            "CONTENT_ID": "UP0002-CUSA11100_00-CODBO4THEME00002",
+            "NAME": "Call of Duty - Black Ops 4 - Launch",
+            "TITLE_ID": "CUSA11100"
+        },
+        {
+            "CONTENT_ID": "UP0002-CUSA03134_00-CODENDOWMENT0000",
+            "NAME": "Call of Duty - Endowment",
+            "TITLE_ID": "CUSA03134"
+        },
+        {
+            "CONTENT_ID": "UP0002-CUSA04762_00-CODIWPREORDRTHM1",
+            "NAME": "Call of Duty - Infinite Warfare - Dynamic",
+            "TITLE_ID": "CUSA04762"
+        },
+        {
+            "CONTENT_ID": "UP0002-CUSA08829_00-CODMWTHEMEPRE001",
+            "NAME": "Call of Duty - Modern Warfare - Dynamic Reveal",
+            "TITLE_ID": "CUSA08829"
+        },
+        {
+            "CONTENT_ID": "UP0002-CUSA08829_00-CODMWTHMLAUNCH01",
+            "NAME": "Call of Duty - Modern Warfare - Going Dark Launch",
+            "TITLE_ID": "CUSA08829"
+        },
+        {
+            "CONTENT_ID": "UP0002-CUSA03522_00-CODMWRTHEME00001",
+            "NAME": "Call of Duty - Modern Warfare Remastered - Dynamic",
+            "TITLE_ID": "CUSA03522"
+        },
+        {
+            "CONTENT_ID": "UP0002-CUSA05969_00-CODWWIITHEME0001",
+            "NAME": "Call of Duty - WW2 - Dynamic",
+            "TITLE_ID": "CUSA05969"
+        },
+        {
+            "CONTENT_ID": "UP0002-CUSA05969_00-CODWWIITHEME0002",
+            "NAME": "Call of Duty - WW2 - Launch - Dynamic",
+            "TITLE_ID": "CUSA05969"
+        },
+        {
+            "CONTENT_ID": "EP0177-CUSA15036_00-ETH0000000002922",
+            "NAME": "Catherine - Full Body - Exclusive Pre-Order",
+            "TITLE_ID": "CUSA15036"
+        },
+        {
+            "CONTENT_ID": "JP0005-CUSA10772_00-THEME00000000004",
+            "NAME": "Catherine - Full Body - Katherine - Dynamic",
+            "TITLE_ID": "CUSA10772"
+        },
+        {
+            "CONTENT_ID": "JP0005-CUSA10772_00-THEME00000000009",
+            "NAME": "Catherine - Full Body - Official - Static",
+            "TITLE_ID": "CUSA10772"
+        },
+        {
+            "CONTENT_ID": "UP0001-CUSA92782_00-CATHERINE0100000",
+            "NAME": "Catherine - It's A Golden Show",
+            "TITLE_ID": "CUSA92782"
+        },
+        {
+            "CONTENT_ID": "US0045-CUSA01751_00-UTH0000000007124",
+            "NAME": "Champions - Static",
+            "TITLE_ID": "CUSA01751"
+        },
+        {
+            "CONTENT_ID": "UP4396-CUSA04449_00-DYNAMICTHEME0125",
+            "NAME": "Cherry Blossom Lake",
+            "TITLE_ID": "CUSA04449"
+        },
+        {
+            "CONTENT_ID": "UP2131-CUSA01736_00-DPCLOUDFLIGHT15D",
+            "NAME": "Cloud Flight - Dynamic",
+            "TITLE_ID": "CUSA01736"
+        },
+        {
+            "CONTENT_ID": "JP0700-CUSA09824_00-CODEVEINTHEME009",
+            "NAME": "CODE VEIN - Christmas",
+            "TITLE_ID": "CUSA09824"
+        },
+        {
+            "CONTENT_ID": "UP3443-CUSA11282_00-00000000CODE51TH",
+            "NAME": "Code51 Mech Arena",
+            "TITLE_ID": "CUSA11282"
+        },
+        {
+            "CONTENT_ID": "EP8908-CUSA05911_00-HAMPRDC000000002",
+            "NAME": "CONTRA",
+            "TITLE_ID": "CUSA05911"
+        },
+        {
+            "CONTENT_ID": "EP4040-CUSA11454_00-ETH0000000002849",
+            "NAME": "Control - The Black Rock Quarry",
+            "TITLE_ID": "CUSA11454"
+        },
+        {
+            "CONTENT_ID": "EP4040-CUSA11454_00-ETH0000000002848",
+            "NAME": "Control - The Explorer",
+            "TITLE_ID": "CUSA11454"
+        },
+        {
+            "CONTENT_ID": "EP4040-CUSA11454_00-CONTROLTHEMEPREO",
+            "NAME": "Control - The Shifting Place - Dynamic",
+            "TITLE_ID": "CUSA11454"
+        },
+        {
+            "CONTENT_ID": "JP0404-CUSA08426_00-CUSTOM000PS40003",
+            "NAME": "Coven & Labyrinth of Refrain - Theme 2",
+            "TITLE_ID": "CUSA08426"
+        },
+        {
+            "CONTENT_ID": "EP0002-CUSA07399_00-CRASHNSANETHEME3",
+            "NAME": "Crash Bandicoot - N. Sane Trilogy - Bear It",
+            "TITLE_ID": "CUSA07399"
+        },
+        {
+            "CONTENT_ID": "EP0002-CUSA07399_00-CRASHNSANETHEME4",
+            "NAME": "Crash Bandicoot - N. Sane Trilogy - Coco",
+            "TITLE_ID": "CUSA07399"
+        },
+        {
+            "CONTENT_ID": "UP0002-CUSA07402_00-CRASHNSANETHEME5",
+            "NAME": "Crash Bandicoot - N. Sane Trilogy - Launch",
+            "TITLE_ID": "CUSA07402"
+        },
+        {
+            "CONTENT_ID": "EP0002-CUSA07399_00-CRASHNSANETHEME2",
+            "NAME": "Crash Bandicoot - N. Sane Trilogy - Sunset Vista",
+            "TITLE_ID": "CUSA07399"
+        },
+        {
+            "CONTENT_ID": "UP0002-CUSA07402_00-CRASHNSANETHEME1",
+            "NAME": "Crash Bandicoot - N. Sane Trilogy",
+            "TITLE_ID": "CUSA07402"
+        },
+        {
+            "CONTENT_ID": "UP0002-CUSA13795_00-CTRTHEME00000002",
+            "NAME": "Crash Team Racing Nitro-Fueled - Coco Park",
+            "TITLE_ID": "CUSA13795"
+        },
+        {
+            "CONTENT_ID": "EP0002-CUSA14876_00-CTRTHEME00000001",
+            "NAME": "Crash Team Racing Nitro-Fueled - Starting Line",
+            "TITLE_ID": "CUSA14876"
+        },
+        {
+            "CONTENT_ID": "EP4947-CUSA15257_00-ETH0000000003209",
+            "NAME": "CRYSTAR - 0 Ver",
+            "TITLE_ID": "CUSA15257"
+        },
+        {
+            "CONTENT_ID": "JP0536-CUSA09268_00-CRYSTARTEEMA0011",
+            "NAME": "CRYSTAR - Crista (Crystar Ver.)",
+            "TITLE_ID": "CUSA09268"
+        },
+        {
+            "CONTENT_ID": "EP4947-CUSA15257_00-ETH0000000003269",
+            "NAME": "CRYSTAR - Revenger Ver",
+            "TITLE_ID": "CUSA15257"
+        },
+        {
+            "CONTENT_ID": "EP4947-CUSA15257_00-ETH0000000003270",
+            "NAME": "CRYSTAR - Trickstar Ver",
+            "TITLE_ID": "CUSA15257"
+        },
+        {
+            "CONTENT_ID": "EP0031-CUSA07998_00-4GOTHEME00000001",
+            "NAME": "Cyberdimension Neptunia 4 Goddesses Online - Neptune Special",
+            "TITLE_ID": "CUSA07998"
+        },
+        {
+            "CONTENT_ID": "EP4497-CUSA16579_00-ETH0000000003114",
+            "NAME": "Cyberpunk 2077 - Mercenary of the Dark Future",
+            "TITLE_ID": "CUSA16579"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA11966_00-DEDYNAMICTHEME01",
+            "NAME": "Dark Eclipse - Dynamic",
+            "TITLE_ID": "CUSA11966"
+        },
+        {
+            "CONTENT_ID": "EP0700-CUSA08495_00-ETH0000000002208",
+            "NAME": "Dark Souls - Remastered - A Game of Chess",
+            "TITLE_ID": "CUSA08495"
+        },
+        {
+            "CONTENT_ID": "EP0700-CUSA08495_00-ETH0000000001987",
+            "NAME": "Dark Souls - Remastered",
+            "TITLE_ID": "CUSA08495"
+        },
+        {
+            "CONTENT_ID": "JP0506-CUSA01576_00-DARKSOULS2THEME1",
+            "NAME": "Dark Souls II - Scholar of the First Sin",
+            "TITLE_ID": "CUSA01576"
+        },
+        {
+            "CONTENT_ID": "EP0700-CUSA03365_00-DS3THEME00000000",
+            "NAME": "Dark Souls III - Inventory",
+            "TITLE_ID": "CUSA03365"
+        },
+        {
+            "CONTENT_ID": "EP0700-CUSA03365_00-ETH0000000000274",
+            "NAME": "Dark Souls III - Only Embers Remain Dynamic",
+            "TITLE_ID": "CUSA03365"
+        },
+        {
+            "CONTENT_ID": "EP0700-CUSA03365_00-DS3DLC2THEME0000",
+            "NAME": "Dark Souls III - The Ringed City",
+            "TITLE_ID": "CUSA03365"
+        },
+        {
+            "CONTENT_ID": "UP0700-CUSA03388_00-DS3THEME00000004",
+            "NAME": "Dark Souls III - Transitory Lands",
+            "TITLE_ID": "CUSA03388"
+        },
+        {
+            "CONTENT_ID": "EP0700-CUSA03365_00-ETH0000000000343",
+            "NAME": "Dark Souls III",
+            "TITLE_ID": "CUSA03365"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA08966_00-DAYSGONECTLKEY02",
+            "NAME": "Days Gone - Broken Road - Dynamic",
+            "TITLE_ID": "CUSA08966"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA09175_00-DGDEACVSHORDETHM",
+            "NAME": "Days Gone - Deacon vs The Horde - Dynamic",
+            "TITLE_ID": "CUSA09175"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA08966_00-DAYSGONEPREORDER",
+            "NAME": "Days Gone - Pre-Order - Dynamic",
+            "TITLE_ID": "CUSA08966"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA08966_00-DAYSGONECTLKEY03",
+            "NAME": "Days Gone - Proposal - Dynamic",
+            "TITLE_ID": "CUSA08966"
+        },
+        {
+            "CONTENT_ID": "JA0014-CUSA04681_00-THEME00100000000",
+            "NAME": "DAZN - 1st Anniversary",
+            "TITLE_ID": "CUSA04681"
+        },
+        {
+            "CONTENT_ID": "JP9002-CUSA01666_00-DEADPOOL21808241",
+            "NAME": "Deadpool 2 - PS Plus - Theme 01",
+            "TITLE_ID": "CUSA01666"
+        },
+        {
+            "CONTENT_ID": "JP9002-CUSA01666_00-DEADPOOL21808242",
+            "NAME": "Deadpool 2 - PS Plus - Theme 02",
+            "TITLE_ID": "CUSA01666"
+        },
+        {
+            "CONTENT_ID": "UP4395-CUSA05092_00-UTH0000000007177",
+            "NAME": "Dear Esther - Landmark Edition - Dynamic",
+            "TITLE_ID": "CUSA05092"
+        },
+        {
+            "CONTENT_ID": "JP0031-CUSA09163_00-DLC0000000000012",
+            "NAME": "Death end re-Quest - Another (Japanese)",
+            "TITLE_ID": "CUSA09163"
+        },
+        {
+            "CONTENT_ID": "UP0031-CUSA13132_00-DLC0000000000012",
+            "NAME": "Death end re-Quest - Another",
+            "TITLE_ID": "CUSA13132"
+        },
+        {
+            "CONTENT_ID": "UP0031-CUSA13132_00-DLC0000000000011",
+            "NAME": "Death end re-Quest - Special",
+            "TITLE_ID": "CUSA13132"
+        },
+        {
+            "CONTENT_ID": "EP4060-CUSA19238_00-THEME00000000001",
+            "NAME": "Death end re-Quest 2",
+            "TITLE_ID": "CUSA19238"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA12605_00-DS00DYNAMICTHEME",
+            "NAME": "Death Stranding - Character Vignette - Dynamic",
+            "TITLE_ID": "CUSA12605"
+        },
+        {
+            "CONTENT_ID": "UP0002-CUSA00219_00-DSTROIPREORDRTHM",
+            "NAME": "Destiny - Rise of Iron - Dynamic",
+            "TITLE_ID": "CUSA00219"
+        },
+        {
+            "CONTENT_ID": "UP0002-CUSA00219_00-DESTINYTKNKNGTHM",
+            "NAME": "Destiny - The Taken King",
+            "TITLE_ID": "CUSA00219"
+        },
+        {
+            "CONTENT_ID": "EP0002-CUSA06172_00-DESTINY2PRETHM01",
+            "NAME": "Destiny 2 - Pre-Order Dynamic",
+            "TITLE_ID": "CUSA06172"
+        },
+        {
+            "CONTENT_ID": "EP0002-CUSA06172_00-DESTINY2THEME004",
+            "NAME": "Destiny 2 Forsaken - Cayde-6 - Dynamic",
+            "TITLE_ID": "CUSA06172"
+        },
+        {
+            "CONTENT_ID": "JP9200-CUSA05963_00-DESTINY2THEME005",
+            "NAME": "Destiny 2 Forsaken - Community Art",
+            "TITLE_ID": "CUSA05963"
+        },
+        {
+            "CONTENT_ID": "EP0002-CUSA06172_00-DESTINY2THEME003",
+            "NAME": "Destiny 2 Forsaken - Dynamic",
+            "TITLE_ID": "CUSA06172"
+        },
+        {
+            "CONTENT_ID": "UP0002-CUSA00219_00-DESTINYEP02THEME",
+            "NAME": "Destiny Expansion II - The House of Wolves",
+            "TITLE_ID": "CUSA00219"
+        },
+        {
+            "CONTENT_ID": "UP0002-CUSA00219_00-DESTINYPS4THEME1",
+            "NAME": "Destiny",
+            "TITLE_ID": "CUSA00219"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA00717_00-DETROITCHARTHEME",
+            "NAME": "Detroit - Become Human - Character",
+            "TITLE_ID": "CUSA00717"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA00717_00-DETROITCYBLTHEME",
+            "NAME": "Detroit - Become Human - CyberLife",
+            "TITLE_ID": "CUSA00717"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA08344_00-DETROITDYNTHME01",
+            "NAME": "Detroit - Dynamic",
+            "TITLE_ID": "CUSA08344"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA00717_00-DETROITDYNTME001",
+            "NAME": "Detroit - Pre-Order - Dynamic",
+            "TITLE_ID": "CUSA00717"
+        },
+        {
+            "CONTENT_ID": "UP0102-CUSA09407_00-DMCHDCTHEME00009",
+            "NAME": "Devil May Cry - HD Collection - Alright",
+            "TITLE_ID": "CUSA09407"
+        },
+        {
+            "CONTENT_ID": "UP0102-CUSA09407_00-DMCHDCTHEME00002",
+            "NAME": "Devil May Cry - HD Collection - Cool",
+            "TITLE_ID": "CUSA09407"
+        },
+        {
+            "CONTENT_ID": "UP0102-CUSA01671_00-DMC4SE0000000001",
+            "NAME": "Devil May Cry 4 - Special Edition",
+            "TITLE_ID": "CUSA01671"
+        },
+        {
+            "CONTENT_ID": "UP2860-CUSA08084_00-VALHALLATHEMEF01",
+            "NAME": "Die For Valhalla - Berserker",
+            "TITLE_ID": "CUSA08084"
+        },
+        {
+            "CONTENT_ID": "UP0964-CUSA04642_00-UTH0000000007125",
+            "NAME": "DinoGAF - Special - Dynamic",
+            "TITLE_ID": "CUSA04642"
+        },
+        {
+            "CONTENT_ID": "EP1003-CUSA08779_00-ETH0000000001259",
+            "NAME": "Dishonered - Death of the Outsider",
+            "TITLE_ID": "CUSA08779"
+        },
+        {
+            "CONTENT_ID": "EP1003-CUSA02230_00-STHEMEDISHONORED",
+            "NAME": "Dishonored - Definitive Edition - Static",
+            "TITLE_ID": "CUSA02230"
+        },
+        {
+            "CONTENT_ID": "UP1003-CUSA03642_00-DISHONOREDTHEME1",
+            "NAME": "Dishonored 2 - Emily & Corvo",
+            "TITLE_ID": "CUSA03642"
+        },
+        {
+            "CONTENT_ID": "UP1003-CUSA03642_00-DISHONOREDTHEME3",
+            "NAME": "Dishonored 2 - Karnaca",
+            "TITLE_ID": "CUSA03642"
+        },
+        {
+            "CONTENT_ID": "UP1003-CUSA03642_00-DISHONOREDTHEME2",
+            "NAME": "Dishonored 2 - Throne",
+            "TITLE_ID": "CUSA03642"
+        },
+        {
+            "CONTENT_ID": "EP1003-CUSA02092_00-ETH0000000000451",
+            "NAME": "Doom - PS Plus",
+            "TITLE_ID": "CUSA02092"
+        },
+        {
+            "CONTENT_ID": "EP1003-CUSA13275_00-ETH0000000003112",
+            "NAME": "DOOM Eternal - Dynamic",
+            "TITLE_ID": "CUSA13275"
+        },
+        {
+            "CONTENT_ID": "JP0700-CUSA08511_00-DBPROJECTZTHEME1",
+            "NAME": "Dragon Ball Fighter Project Z",
+            "TITLE_ID": "CUSA08511"
+        },
+        {
+            "CONTENT_ID": "UP0700-CUSA01341_00-DBXVTHEME0000007",
+            "NAME": "Dragon Ball Xenoverse - First Champions of the World Tournament",
+            "TITLE_ID": "CUSA01341"
+        },
+        {
+            "CONTENT_ID": "JP0700-CUSA01057_00-DBXVTHEME0000009",
+            "NAME": "Dragon Ball Xenoverse 2 - 2nd Tenkaichi Budokai Winner",
+            "TITLE_ID": "CUSA01057"
+        },
+        {
+            "CONTENT_ID": "UP0700-CUSA05350_00-DBXV2THEME000000",
+            "NAME": "Dragon Ball Xenoverse 2 - Pre-Order",
+            "TITLE_ID": "CUSA05350"
+        },
+        {
+            "CONTENT_ID": "JP0700-CUSA01057_00-DBXVTHEME0000002",
+            "NAME": "Dragon Ball Xenoverse V - Jump March Jacket",
+            "TITLE_ID": "CUSA01057"
+        },
+        {
+            "CONTENT_ID": "JP0082-CUSA01416_00-DQHTHEME00000001",
+            "NAME": "Dragon Quest - Metal Slime Edition",
+            "TITLE_ID": "CUSA01416"
+        },
+        {
+            "CONTENT_ID": "UP0082-CUSA06769_00-DQTHEME000000000",
+            "NAME": "Dragon Quest Heroes II",
+            "TITLE_ID": "CUSA06769"
+        },
+        {
+            "CONTENT_ID": "EP0082-CUSA08518_00-DLCPS4SYSTHEME21",
+            "NAME": "Dragon Quest XI - Party Time",
+            "TITLE_ID": "CUSA08518"
+        },
+        {
+            "CONTENT_ID": "JP0082-CUSA03540_00-DLCPS4SYSTHEME02",
+            "NAME": "Dragon Quest XI - Passing Away & Seeking Time",
+            "TITLE_ID": "CUSA03540"
+        },
+        {
+            "CONTENT_ID": "JP0102-CUSA02053_00-DDONFREETHEME000",
+            "NAME": "Dragon's Dogma Online - Season 3 - Flame Of The Lost Country",
+            "TITLE_ID": "CUSA02053"
+        },
+        {
+            "CONTENT_ID": "UP2346-CUSA06101_00-DREADDYTHEMENA02",
+            "NAME": "Dreadnought - Hangar - Dynamic",
+            "TITLE_ID": "CUSA06101"
+        },
+        {
+            "CONTENT_ID": "UP2346-CUSA06101_00-DREADDYTHEMENA01",
+            "NAME": "Dreadnought - Sinley Bay - Dynamic",
+            "TITLE_ID": "CUSA06101"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA00093_00-ETH0000000000202",
+            "NAME": "DRIVECLUB",
+            "TITLE_ID": "CUSA00093"
+        },
+        {
+            "CONTENT_ID": "EP3036-CUSA12504_00-ETH0000000002097",
+            "NAME": "Earth Defense Force 5 - Original",
+            "TITLE_ID": "CUSA12504"
+        },
+        {
+            "CONTENT_ID": "JP9002-CUSA01666_00-0010AIBOLOVESPS4",
+            "NAME": "Entertainment Robot Aibo Theme - Nice To Meet You",
+            "TITLE_ID": "CUSA01666"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA04687_00-GOLFTHEMEPREORDR",
+            "NAME": "Everybody's Golf - Dynamic",
+            "TITLE_ID": "CUSA04687"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA01501_00-EVOLVEPSPLUSTHMX",
+            "NAME": "Evolve - Goliath - PS Plus Exclusive",
+            "TITLE_ID": "CUSA01501"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA01501_00-ETH0000000000259",
+            "NAME": "Exclusive Festive",
+            "TITLE_ID": "CUSA01501"
+        },
+        {
+            "CONTENT_ID": "JP0001-CUSA04593_00-JTH0000000000000",
+            "NAME": "F1 2016",
+            "TITLE_ID": "CUSA04593"
+        },
+        {
+            "CONTENT_ID": "UP4001-CUSA10888_00-UTH0000000007458",
+            "NAME": "F1 2018",
+            "TITLE_ID": "CUSA10888"
+        },
+        {
+            "CONTENT_ID": "UP1063-CUSA23468_00-FLRDEMOTHEME0001",
+            "NAME": "Fallen Legion Revenants – Lucien",
+            "TITLE_ID": "CUSA23468"
+        },
+        {
+            "CONTENT_ID": "JP0036-CUSA09794_00-FLLGTHEMEPK10001",
+            "NAME": "Fallen Legion",
+            "TITLE_ID": "CUSA09794"
+        },
+        {
+            "CONTENT_ID": "EP1003-CUSA02961_00-ETH0000000000099",
+            "NAME": "Fallout 4 - Static",
+            "TITLE_ID": "CUSA02961"
+        },
+        {
+            "CONTENT_ID": "EP1003-CUSA12054_00-ETH0000000002131",
+            "NAME": "Fallout 76 - Official - Static",
+            "TITLE_ID": "CUSA12054"
+        },
+        {
+            "CONTENT_ID": "EP0001-CUSA00462_00-FARCR4THEMEKUKRI",
+            "NAME": "Far Cry 4 - Kukri",
+            "TITLE_ID": "CUSA00462"
+        },
+        {
+            "CONTENT_ID": "EP0001-CUSA00462_00-FARCRY4THEME0000",
+            "NAME": "Far Cry 4",
+            "TITLE_ID": "CUSA00462"
+        },
+        {
+            "CONTENT_ID": "UP0001-CUSA05904_00-FARCRY5DNMCTHEME",
+            "NAME": "Far Cry 5",
+            "TITLE_ID": "CUSA05904"
+        },
+        {
+            "CONTENT_ID": "UP4133-CUSA01541_00-FS15000000000707",
+            "NAME": "Farming Simulator 15",
+            "TITLE_ID": "CUSA01541"
+        },
+        {
+            "CONTENT_ID": "UP4133-CUSA04640_00-FARMING17THEME01",
+            "NAME": "Farming Simulator 17 - Challenger",
+            "TITLE_ID": "CUSA04640"
+        },
+        {
+            "CONTENT_ID": "UP0576-CUSA03750_00-UTH0000000007256",
+            "NAME": "Fatal Fury - Battle Archives Vol. 2",
+            "TITLE_ID": "CUSA03750"
+        },
+        {
+            "CONTENT_ID": "JP0507-CUSA03274_00-00000000THEME004",
+            "NAME": "Fate EXTELLA - Nero Claudius Bondage Bride Costume - Special",
+            "TITLE_ID": "CUSA03274"
+        },
+        {
+            "CONTENT_ID": "EP4492-CUSA06200_00-PS4THEMEEXCLUSIV",
+            "NAME": "Fate-Extella - Exclusive",
+            "TITLE_ID": "CUSA06200"
+        },
+        {
+            "CONTENT_ID": "JP0507-CUSA07274_00-PS4THEMECHARA002",
+            "NAME": "Fate-Extella Link",
+            "TITLE_ID": "CUSA07274"
+        },
+        {
+            "CONTENT_ID": "UP3332-CUSA14003_00-UTH0000000007501",
+            "NAME": "Fate-Grand Order VR - Altia Pendragon - Special",
+            "TITLE_ID": "CUSA14003"
+        },
+        {
+            "CONTENT_ID": "JP3372-CUSA09078_00-MASHTHEME0000001",
+            "NAME": "Fate-Grand Order VR 2",
+            "TITLE_ID": "CUSA09078"
+        },
+        {
+            "CONTENT_ID": "JP3372-CUSA09078_00-ALTLTHEME0000000",
+            "NAME": "Fate-Grand Order VR",
+            "TITLE_ID": "CUSA09078"
+        },
+        {
+            "CONTENT_ID": "UP2769-CUSA13315_00-UTH0000000007781",
+            "NAME": "Fell Seal - Arbiter's Mark",
+            "TITLE_ID": "CUSA13315"
+        },
+        {
+            "CONTENT_ID": "UP0082-CUSA00288_00-FFXIVEX3THEME003",
+            "NAME": "FFFVII REMAKE and FFXIV - Bonus Theme - Prelude",
+            "TITLE_ID": "CUSA00288"
+        },
+        {
+            "CONTENT_ID": "JP0177-CUSA03475_00-DFCITHEMEJP00000",
+            "NAME": "Fighting Climax Ignition",
+            "TITLE_ID": "CUSA03475"
+        },
+        {
+            "CONTENT_ID": "JP9002-CUSA01666_00-DISSIDIATHEME001",
+            "NAME": "Final Fantasy - Dissidia NT - Special",
+            "TITLE_ID": "CUSA01666"
+        },
+        {
+            "CONTENT_ID": "UP0082-CUSA07211_00-DYNAMICTIFATHEME",
+            "NAME": "Final Fantasy VII REMAKE - Tifa - Dynamic",
+            "TITLE_ID": "CUSA07211"
+        },
+        {
+            "CONTENT_ID": "UP0082-CUSA08877_00-FF9FORPS4THEME01",
+            "NAME": "Final Fantasy IX - Special",
+            "TITLE_ID": "CUSA08877"
+        },
+        {
+            "CONTENT_ID": "HP0082-CUSA16170_00-FF7REMAKETHEME01",
+            "NAME": "Final Fantasy VII REMAKE - Cloud & Sephiroth - Dynamic",
+            "TITLE_ID": "CUSA16170"
+        },
+        {
+            "CONTENT_ID": "EP0082-CUSA07187_00-THEMECLOUD000000",
+            "NAME": "Final Fantasy VII REMAKE - Cloud",
+            "TITLE_ID": "CUSA07187"
+        },
+        {
+            "CONTENT_ID": "EP0082-CUSA07187_00-THEMESCENERY0000",
+            "NAME": "Final Fantasy VII REMAKE",
+            "TITLE_ID": "CUSA07187"
+        },
+        {
+            "CONTENT_ID": "EP0082-CUSA01847_00-FF70MIDGAR0THEME",
+            "NAME": "Final Fantasy VII – Midgar Custom",
+            "TITLE_ID": "CUSA01847"
+        },
+        {
+            "CONTENT_ID": "UP0082-CUSA01227_00-FFXHDZANARKTHEME",
+            "NAME": "Final Fantasy X X-2 HD Remaster - To Zanarkand Dynamic",
+            "TITLE_ID": "CUSA01227"
+        },
+        {
+            "CONTENT_ID": "UP0082-CUSA05532_00-FFXIIERUYT000000",
+            "NAME": "Final Fantasy XII - The Zodiac Age - Eruyt Village",
+            "TITLE_ID": "CUSA05532"
+        },
+        {
+            "CONTENT_ID": "UP0082-CUSA05532_00-FFXIITZAGETHEME0",
+            "NAME": "Final Fantasy XII - The Zodiac Age",
+            "TITLE_ID": "CUSA05532"
+        },
+        {
+            "CONTENT_ID": "EP0082-CUSA00285_00-FFXIVARRTHEME001",
+            "NAME": "Final Fantasy XIV - A Realm Reborn Eorzea",
+            "TITLE_ID": "CUSA00285"
+        },
+        {
+            "CONTENT_ID": "EP0082-CUSA00285_00-ETH0000000000043",
+            "NAME": "Final Fantasy XIV - Heavensward - Pre-Order",
+            "TITLE_ID": "CUSA00285"
+        },
+        {
+            "CONTENT_ID": "UP0082-CUSA00288_00-FFXIVEX1THEME002",
+            "NAME": "Final Fantasy XIV - Heavensward",
+            "TITLE_ID": "CUSA00288"
+        },
+        {
+            "CONTENT_ID": "UP0082-CUSA01633_00-FFXVTHEME0000001",
+            "NAME": "Final Fantasy XV - Big Bang",
+            "TITLE_ID": "CUSA01633"
+        },
+        {
+            "CONTENT_ID": "UP0082-CUSA01633_00-FFXVTHEME0000002",
+            "NAME": "Final Fantasy XV - Digital Premium Edition",
+            "TITLE_ID": "CUSA01633"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA11182_00-FWSTATICTHEME000",
+            "NAME": "Firewall - Zero Hour - Squad Pose",
+            "TITLE_ID": "CUSA11182"
+        },
+        {
+            "CONTENT_ID": "EP0144-CUSA04118_00-FIREWATCHTHEME00",
+            "NAME": "Firewatch",
+            "TITLE_ID": "CUSA04118"
+        },
+        {
+            "CONTENT_ID": "EP0177-CUSA12781_00-ETH0000000002335",
+            "NAME": "Fist of the North Star - Lost Paradise - Jagi",
+            "TITLE_ID": "CUSA12781"
+        },
+        {
+            "CONTENT_ID": "EP0177-CUSA12781_00-ETH0000000002390",
+            "NAME": "Fist of the North Star - Lost Paradise - Lovers",
+            "TITLE_ID": "CUSA12781"
+        },
+        {
+            "CONTENT_ID": "EP0177-CUSA12781_00-ETH0000000002334",
+            "NAME": "Fist of the North Star - Lost Paradise - Raoh",
+            "TITLE_ID": "CUSA12781"
+        },
+        {
+            "CONTENT_ID": "EP0177-CUSA12781_00-ETH0000000002336",
+            "NAME": "Fist of the North Star - Lost Paradise - Thouzer",
+            "TITLE_ID": "CUSA12781"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA01501_00-00000000FATP2018",
+            "NAME": "For ALL the Players",
+            "TITLE_ID": "CUSA01501"
+        },
+        {
+            "CONTENT_ID": "EP0001-CUSA05264_00-ETH0000000000755",
+            "NAME": "For Honor",
+            "TITLE_ID": "CUSA05264"
+        },
+        {
+            "CONTENT_ID": "UP0964-CUSA03630_00-FREEFALL00000000",
+            "NAME": "Free Fall - Dynamic",
+            "TITLE_ID": "CUSA03630"
+        },
+        {
+            "CONTENT_ID": "UP2165-CUSA07878_00-F13JASONTHEMEXXX",
+            "NAME": "Friday the 13th - The Game - Jason Voorhees - Dynamic",
+            "TITLE_ID": "CUSA07878"
+        },
+        {
+            "CONTENT_ID": "UP0576-CUSA03784_00-UTH0000000007244",
+            "NAME": "FU'UN Super Combo",
+            "TITLE_ID": "CUSA03784"
+        },
+        {
+            "CONTENT_ID": "UP2154-CUSA06644_00-UTH0000000007254",
+            "NAME": "Full Throttled - Remastered",
+            "TITLE_ID": "CUSA06644"
+        },
+        {
+            "CONTENT_ID": "UP0319-CUSA02049_00-GALAKZPS45678910",
+            "NAME": "Galak-Z",
+            "TITLE_ID": "CUSA02049"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA01769_00-ETH0000000000444",
+            "NAME": "Game Of Thrones - Season 6",
+            "TITLE_ID": "CUSA01769"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA01769_00-GOTS7THM00000000",
+            "NAME": "Game Of Thrones - Season 7 - Dynamic",
+            "TITLE_ID": "CUSA01769"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA01501_00-ETH0000000000249",
+            "NAME": "Gauntlet - Slayer Edition",
+            "TITLE_ID": "CUSA01501"
+        },
+        {
+            "CONTENT_ID": "UP0964-CUSA03630_00-GDEX2018DYNAMIC1",
+            "NAME": "GDEX 2018 - Dynamic",
+            "TITLE_ID": "CUSA03630"
+        },
+        {
+            "CONTENT_ID": "UP0964-CUSA03630_00-UTH0000000007895",
+            "NAME": "GDEX 2019 - Dynamic",
+            "TITLE_ID": "CUSA03630"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA11456_00-GHOSTDYNAMTHEME2",
+            "NAME": "Ghost of Tsushima - Dynamic",
+            "TITLE_ID": "CUSA11456"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA11456_00-GHOSTDYNAMITHEME",
+            "NAME": "Ghost of Tsushima - Jin - Dynamic",
+            "TITLE_ID": "CUSA11456"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA11456_00-GHOSTDYNAMTHEME3",
+            "NAME": "Ghost of Tsushima - Samurai",
+            "TITLE_ID": "CUSA11456"
+        },
+        {
+            "CONTENT_ID": "UP0001-CUSA14405_00-GRBPDYNAMICTHEME",
+            "NAME": "Ghost Recon Breakpoint - Dynamic",
+            "TITLE_ID": "CUSA14405"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA01769_00-ETH0000000000533",
+            "NAME": "Ghostbusters - Dynamic",
+            "TITLE_ID": "CUSA01769"
+        },
+        {
+            "CONTENT_ID": "JP0078-CUSA14314_00-GHOULBOYTHEME000",
+            "NAME": "Ghoulboy",
+            "TITLE_ID": "CUSA14314"
+        },
+        {
+            "CONTENT_ID": "JP0700-CUSA01516_00-GEXSAOTHEME00000",
+            "NAME": "God Eater & Sword Art Online Collaboration",
+            "TITLE_ID": "CUSA01516"
+        },
+        {
+            "CONTENT_ID": "EP0700-CUSA13326_00-GE3ADDCONTENT013",
+            "NAME": "God Eater - Series",
+            "TITLE_ID": "CUSA13326"
+        },
+        {
+            "CONTENT_ID": "EP0700-CUSA13326_00-GE3ADDCONTENT009",
+            "NAME": "God Eater 3 - Original A",
+            "TITLE_ID": "CUSA13326"
+        },
+        {
+            "CONTENT_ID": "EP0700-CUSA13326_00-GE3ADDCONTENT010",
+            "NAME": "God Eater 3 - Original B",
+            "TITLE_ID": "CUSA13326"
+        },
+        {
+            "CONTENT_ID": "EP0700-CUSA13326_00-GE3ADDCONTENT014",
+            "NAME": "God Eater 3 - Original C",
+            "TITLE_ID": "CUSA13326"
+        },
+        {
+            "CONTENT_ID": "EP0700-CUSA13326_00-GE3ADDCONTENT015",
+            "NAME": "God Eater 3 - Original D",
+            "TITLE_ID": "CUSA13326"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA01715_00-GOW10ANNIVERSARY",
+            "NAME": "God of War - 10th Anniversary",
+            "TITLE_ID": "CUSA01715"
+        },
+        {
+            "CONTENT_ID": "HP9000-CUSA07413_00-DYNAMICTHEME0002",
+            "NAME": "God of War - Dynamic",
+            "TITLE_ID": "CUSA07413"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA07410_00-DYNAMICTHEME0003",
+            "NAME": "God of War - Your Journey Awaits - Dynamic",
+            "TITLE_ID": "CUSA07410"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA01623_00-GOW3THEME0000001",
+            "NAME": "God of War III - Fall of Olympus - Dynamic",
+            "TITLE_ID": "CUSA01623"
+        },
+        {
+            "CONTENT_ID": "JP0031-CUSA09906_00-ADDCONTENTDLC022",
+            "NAME": "Goddess Tower Mary Skelter 2 - Dynamic",
+            "TITLE_ID": "CUSA09906"
+        },
+        {
+            "CONTENT_ID": "JP0031-CUSA09906_00-ADDCONTENTDLC019",
+            "NAME": "Goddess Tower Mary Skelter 2 - Sukerukun",
+            "TITLE_ID": "CUSA09906"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA01501_00-0BIGINJAPANTHEME",
+            "NAME": "Golden Week feat. SHOHEI",
+            "TITLE_ID": "CUSA01501"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA03220_00-GTSPORTDTHEMEPDI",
+            "NAME": "Gran Turismo Sport - Dynamic",
+            "TITLE_ID": "CUSA03220"
+        },
+        {
+            "CONTENT_ID": "HP0177-CUSA17932_00-HPGBVSCT00000001",
+            "NAME": "Granblue Fantasy Versus - Belial",
+            "TITLE_ID": "CUSA17932"
+        },
+        {
+            "CONTENT_ID": "JP9000-CUSA00547_00-THEMEJP000000002",
+            "NAME": "Gravity Daze 2 - PlayStation Plus",
+            "TITLE_ID": "CUSA00547"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA04943_00-ETH0000000000553",
+            "NAME": "Gravity Rush 2",
+            "TITLE_ID": "CUSA04943"
+        },
+        {
+            "CONTENT_ID": "EP4133-CUSA14208_00-00GREEDFALLTHEME",
+            "NAME": "Greedfall",
+            "TITLE_ID": "CUSA14208"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA01501_00-ETH0000000000262",
+            "NAME": "Grim Fandango - Exclusive",
+            "TITLE_ID": "CUSA01501"
+        },
+        {
+            "CONTENT_ID": "EP4382-CUSA11004_00-ETH0000000002412",
+            "NAME": "Grip - Static",
+            "TITLE_ID": "CUSA11004"
+        },
+        {
+            "CONTENT_ID": "JP0700-CUSA02630_00-GBONTHEME0100000",
+            "NAME": "Gundam - Battle Operation NEXT - 01",
+            "TITLE_ID": "CUSA02630"
+        },
+        {
+            "CONTENT_ID": "JP0700-CUSA02630_00-GBONTHEME0200001",
+            "NAME": "Gundam - Battle Operation NEXT - 02",
+            "TITLE_ID": "CUSA02630"
+        },
+        {
+            "CONTENT_ID": "JP0700-CUSA02630_00-GBONTHEME0300000",
+            "NAME": "Gundam - Battle Operation NEXT - 03",
+            "TITLE_ID": "CUSA02630"
+        },
+        {
+            "CONTENT_ID": "UP0700-CUSA08790_00-GUNDAMVSTHEME001",
+            "NAME": "Gundam Versus",
+            "TITLE_ID": "CUSA08790"
+        },
+        {
+            "CONTENT_ID": "UP1725-CUSA03818_00-UTH0000000000711",
+            "NAME": "Guns, Gore & Cannoli 1",
+            "TITLE_ID": "CUSA03818"
+        },
+        {
+            "CONTENT_ID": "UP1725-CUSA08413_00-UTH0000000007449",
+            "NAME": "Guns, Gore & Cannoli 2",
+            "TITLE_ID": "CUSA08413"
+        },
+        {
+            "CONTENT_ID": "UP4497-CUSA08213_00-UTH0000000007257",
+            "NAME": "Gwent - The Witcher Card Game",
+            "TITLE_ID": "CUSA08213"
+        },
+        {
+            "CONTENT_ID": "UP0964-CUSA03630_00-HANAMIREMASTERED",
+            "NAME": "Hanami (Cherry Blossom Festival) Remastered - Dynamic",
+            "TITLE_ID": "CUSA03630"
+        },
+        {
+            "CONTENT_ID": "EP0177-CUSA06211_00-ETH0000000000786",
+            "NAME": "Hatsune Miku Project DIVA Future Tone - Colorful Tone",
+            "TITLE_ID": "CUSA06211"
+        },
+        {
+            "CONTENT_ID": "JP0177-CUSA03828_00-THEMEFSRESERVE00",
+            "NAME": "Hatsune Miku Project DIVA Future Tone - Dynamic - Version F",
+            "TITLE_ID": "CUSA03828"
+        },
+        {
+            "CONTENT_ID": "JP0177-CUSA03828_00-THEMECTRESERVE00",
+            "NAME": "Hatsune Miku Project DIVA Future Tone - Dynamic - Version T",
+            "TITLE_ID": "CUSA03828"
+        },
+        {
+            "CONTENT_ID": "EP0177-CUSA06211_00-ETH0000000000785",
+            "NAME": "Hatsune Miku Project DIVA Future Tone - Future Sound",
+            "TITLE_ID": "CUSA06211"
+        },
+        {
+            "CONTENT_ID": "JP0177-CUSA08026_00-THEME0ORIGINDX02",
+            "NAME": "Hatsune Miku Project DIVA Future Tone DX - Snow Miku",
+            "TITLE_ID": "CUSA08026"
+        },
+        {
+            "CONTENT_ID": "EP0177-CUSA06211_00-ETH0000000000948",
+            "NAME": "Hatsune Miku Project DIVA Future Tone",
+            "TITLE_ID": "CUSA06211"
+        },
+        {
+            "CONTENT_ID": "JP0106-CUSA03591_00-00DLC00230000000",
+            "NAME": "Hatsune Miku Project Diva X Dead Or Alive Xtreme 3 Collaboration Gravure",
+            "TITLE_ID": "CUSA03591"
+        },
+        {
+            "CONTENT_ID": "JP0177-CUSA02730_00-PJDXDYNAMICTHEME",
+            "NAME": "Hatsune Miku Project DIVA X HD - Dynamic",
+            "TITLE_ID": "CUSA02730"
+        },
+        {
+            "CONTENT_ID": "JP0106-CUSA03591_00-00DLC00230000000",
+            "NAME": "Hatsune Miku Project DIVA X x DEAD OR ALIVE Xtreme 3 - Collaboration Gravure",
+            "TITLE_ID": "CUSA03591"
+        },
+        {
+            "CONTENT_ID": "JP0177-CUSA02729_00-THEME00000000001",
+            "NAME": "Hatsune Miku VR Future Live",
+            "TITLE_ID": "CUSA02729"
+        },
+        {
+            "CONTENT_ID": "UP4040-CUSA04234_00-UTH0000000007252",
+            "NAME": "Hawken",
+            "TITLE_ID": "CUSA04234"
+        },
+        {
+            "CONTENT_ID": "UP3064-CUSA07511_00-HBTHE2017NT003EN",
+            "NAME": "Hellblade Senua's Sacrifice - Dynamic",
+            "TITLE_ID": "CUSA07511"
+        },
+        {
+            "CONTENT_ID": "EP0082-CUSA02369_00-ETH0000000000345",
+            "NAME": "Hitman - PlayStation Plus Exclusive",
+            "TITLE_ID": "CUSA02369"
+        },
+        {
+            "CONTENT_ID": "EP0082-CUSA02369_00-ETH0000000000055",
+            "NAME": "Hitman - Static",
+            "TITLE_ID": "CUSA02369"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA01021_00-HZDANNIVERSTHEME",
+            "NAME": "Horizon Zero Dawn - 1st Anniversary",
+            "TITLE_ID": "CUSA01021"
+        },
+        {
+            "CONTENT_ID": "HP9000-CUSA05682_00-HZDDYNAMICTHEME4",
+            "NAME": "Horizon Zero Dawn - Digital Deluxe",
+            "TITLE_ID": "CUSA05682"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA01967_00-HZDDYNAMICTHEME1",
+            "NAME": "Horizon Zero Dawn - Dynamic",
+            "TITLE_ID": "CUSA01967"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA01021_00-HZDDYNAMICTHEME7",
+            "NAME": "Horizon Zero Dawn - Exclusive",
+            "TITLE_ID": "CUSA01021"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA01967_00-HZDDYNAMICTHEME5",
+            "NAME": "Horizon Zero Dawn - Platinum",
+            "TITLE_ID": "CUSA01967"
+        },
+        {
+            "CONTENT_ID": "JP9002-CUSA02565_00-NEPTUNIATHEME001",
+            "NAME": "Hyperdimension Neptunia OVA - Original",
+            "TITLE_ID": "CUSA02565"
+        },
+        {
+            "CONTENT_ID": "UP3686-CUSA11922_00-TTH0000000007428",
+            "NAME": "Ice Cream Surfer",
+            "TITLE_ID": "CUSA11922"
+        },
+        {
+            "CONTENT_ID": "UP4040-CUSA07000_00-UTH0000000007190",
+            "NAME": "Indivisible - Dynamic",
+            "TITLE_ID": "CUSA07000"
+        },
+        {
+            "CONTENT_ID": "UP1018-CUSA05462_00-UTH0000000007127",
+            "NAME": "Injustice 2 - Pre-Order",
+            "TITLE_ID": "CUSA05462"
+        },
+        {
+            "CONTENT_ID": "UP1032-CUSA07641_00-UTH0000000007372",
+            "NAME": "InnerSpace - The Art of Flight",
+            "TITLE_ID": "CUSA07641"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA01501_00-INTWOMENSDAY2018",
+            "NAME": "International Women's Day 2018",
+            "TITLE_ID": "CUSA01501"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA01501_00-INTWOMENSDAY2019",
+            "NAME": "International Women's Day 2019",
+            "TITLE_ID": "CUSA01501"
+        },
+        {
+            "CONTENT_ID": "UP1415-CUSA03724_00-201608231500000A",
+            "NAME": "Invasion of the Zombies - Dynamic",
+            "TITLE_ID": "CUSA03724"
+        },
+        {
+            "CONTENT_ID": "EP0700-CUSA01661_00-ETH0000000000002",
+            "NAME": "J-Stars Victory Versus Plus",
+            "TITLE_ID": "CUSA01661"
+        },
+        {
+            "CONTENT_ID": "EP0006-CUSA00634_00-ETH0000000000346",
+            "NAME": "Jakku PSV",
+            "TITLE_ID": "CUSA00634"
+        },
+        {
+            "CONTENT_ID": "UP4040-CUSA03768_00-UTH0000000007096",
+            "NAME": "Joe Dever's Lone Wolf",
+            "TITLE_ID": "CUSA03768"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA00470_00-JOURNEYDYNTHEME1",
+            "NAME": "Journey - Dynamic",
+            "TITLE_ID": "CUSA00470"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA00470_00-JOURNEYSTATIC001",
+            "NAME": "Journey - Static",
+            "TITLE_ID": "CUSA00470"
+        },
+        {
+            "CONTENT_ID": "JP0177-CUSA10930_00-THEME00000000008",
+            "NAME": "Judgment - Dynamic",
+            "TITLE_ID": "CUSA10930"
+        },
+        {
+            "CONTENT_ID": "UT0016-CUSA06833_00-UTH0000000007906",
+            "NAME": "Jumanji - The Next Level - Dynamic",
+            "TITLE_ID": "CUSA06833"
+        },
+        {
+            "CONTENT_ID": "JP9002-CUSA01666_00-JUMANJIMHW180711",
+            "NAME": "Jumanji - Welcome To Monster Hunter World",
+            "TITLE_ID": "CUSA01666"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA01769_00-JUPITERASCDYTHES",
+            "NAME": "Jupiter Ascending",
+            "TITLE_ID": "CUSA01769"
+        },
+        {
+            "CONTENT_ID": "UP0082-CUSA01493_00-UTH0000000000058",
+            "NAME": "Just Cause 3",
+            "TITLE_ID": "CUSA01493"
+        },
+        {
+            "CONTENT_ID": "EP0082-CUSA09264_00-ETH0000000002485",
+            "NAME": "Just Cause 4 - Dynamic Thunder",
+            "TITLE_ID": "CUSA09264"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA00802_00-ETH0000000000529",
+            "NAME": "Kill Strain",
+            "TITLE_ID": "CUSA00802"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA01769_00-KINGARTHUR0000ES",
+            "NAME": "King Arthur - Legend Of The Sword",
+            "TITLE_ID": "CUSA01769"
+        },
+        {
+            "CONTENT_ID": "UP0576-CUSA03748_00-UTH0000000007116",
+            "NAME": "King of Fighters 2000",
+            "TITLE_ID": "CUSA03748"
+        },
+        {
+            "CONTENT_ID": "EP4062-CUSA05461_00-ETH0000000000489",
+            "NAME": "King of Fighters XIV - Dynamic - All Fighters",
+            "TITLE_ID": "CUSA05461"
+        },
+        {
+            "CONTENT_ID": "UP2611-CUSA05533_00-0000KOF14THEME03",
+            "NAME": "King of Fighters XIV - Dynamic - Gals' Fighters",
+            "TITLE_ID": "CUSA05533"
+        },
+        {
+            "CONTENT_ID": "UP2611-CUSA05533_00-THEME00000000017",
+            "NAME": "King of Fighters XIV - Original - Athena All-Stars",
+            "TITLE_ID": "CUSA05533"
+        },
+        {
+            "CONTENT_ID": "UP2611-CUSA05533_00-UTH0000000007200",
+            "NAME": "King of Fighters XIV - Original - K & Kula",
+            "TITLE_ID": "CUSA05533"
+        },
+        {
+            "CONTENT_ID": "UP2611-CUSA05533_00-UTH0000000007253",
+            "NAME": "King of Fighters XIV - Original - Kyo & Iori",
+            "TITLE_ID": "CUSA05533"
+        },
+        {
+            "CONTENT_ID": "UP2611-CUSA05533_00-UTH0000000007193",
+            "NAME": "King of Fighters XIV - Original - Mai Shiranui",
+            "TITLE_ID": "CUSA05533"
+        },
+        {
+            "CONTENT_ID": "UP2611-CUSA05533_00-UTH0000000007204",
+            "NAME": "King of Fighters XIV - Original - Mexican Fighters",
+            "TITLE_ID": "CUSA05533"
+        },
+        {
+            "CONTENT_ID": "UP2611-CUSA05533_00-UTH0000000007201",
+            "NAME": "King of Fighters XIV - Original - NESTS Girls on the Beach",
+            "TITLE_ID": "CUSA05533"
+        },
+        {
+            "CONTENT_ID": "UP2611-CUSA05533_00-UTH0000000007198",
+            "NAME": "King of Fighters XIV - Original - NESTS Girls",
+            "TITLE_ID": "CUSA05533"
+        },
+        {
+            "CONTENT_ID": "UP2611-CUSA05533_00-UTH0000000007195",
+            "NAME": "King of Fighters XIV - Original - Newcomers",
+            "TITLE_ID": "CUSA05533"
+        },
+        {
+            "CONTENT_ID": "UP2611-CUSA05533_00-UTH0000000007199",
+            "NAME": "King of Fighters XIV - Original - Psychic Girl",
+            "TITLE_ID": "CUSA05533"
+        },
+        {
+            "CONTENT_ID": "UP2611-CUSA05533_00-THEME00000000018",
+            "NAME": "King of Fighters XIV - Original - Santa Girls",
+            "TITLE_ID": "CUSA05533"
+        },
+        {
+            "CONTENT_ID": "UP2611-CUSA05533_00-UTH0000000007217",
+            "NAME": "King of Fighters XIV - Original - South American Fighters",
+            "TITLE_ID": "CUSA05533"
+        },
+        {
+            "CONTENT_ID": "UP2611-CUSA05533_00-UTH0000000007194",
+            "NAME": "King of Fighters XIV - Original - Yagami",
+            "TITLE_ID": "CUSA05533"
+        },
+        {
+            "CONTENT_ID": "UP0082-CUSA05795_00-KINGDOMSYSSOFT03",
+            "NAME": "Kingdom Hearts - Back Cover",
+            "TITLE_ID": "CUSA05795"
+        },
+        {
+            "CONTENT_ID": "UP0082-CUSA05933_00-KINGDOMHEARTBBST",
+            "NAME": "Kingdom Hearts - Birth by Sleep - Final Mix",
+            "TITLE_ID": "CUSA05933"
+        },
+        {
+            "CONTENT_ID": "UP0082-CUSA05795_00-KINGDOMSYSSOFT01",
+            "NAME": "Kingdom Hearts - Dream Drop Distance HD",
+            "TITLE_ID": "CUSA05795"
+        },
+        {
+            "CONTENT_ID": "UP0082-CUSA05933_00-KINGDOMHEART1FMT",
+            "NAME": "Kingdom Hearts - Final Mix",
+            "TITLE_ID": "CUSA05933"
+        },
+        {
+            "CONTENT_ID": "UP0082-CUSA05795_00-KINGDOMSYSSOFT02",
+            "NAME": "Kingdom Hearts 0.2 - Birth by Sleep - A Fragmentary Passage",
+            "TITLE_ID": "CUSA05795"
+        },
+        {
+            "CONTENT_ID": "UP0082-CUSA05795_00-KINGDOMPREORDER0",
+            "NAME": "Kingdom Hearts 2.8 - Pre-Order",
+            "TITLE_ID": "CUSA05795"
+        },
+        {
+            "CONTENT_ID": "UP0082-CUSA05933_00-KINGDOMHEARTSPOD",
+            "NAME": "Kingdom Hearts HD 1.5 2.5 ReMIX - Pre-Order",
+            "TITLE_ID": "CUSA05933"
+        },
+        {
+            "CONTENT_ID": "UP0082-CUSA05933_00-KINGDOMHEART2FMT",
+            "NAME": "Kingdom Hearts II - Final Mix",
+            "TITLE_ID": "CUSA05933"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA08014_00-KNACK2DYNTHEME01",
+            "NAME": "Knack 2 - Dynamic",
+            "TITLE_ID": "CUSA08014"
+        },
+        {
+            "CONTENT_ID": "EP1069-CUSA05047_00-2016062711400028",
+            "NAME": "Knot - Abstract Dynamic",
+            "TITLE_ID": "CUSA05047"
+        },
+        {
+            "CONTENT_ID": "JP0031-CUSA09906_00-ADDCONTENTDLC019",
+            "NAME": "Koi Jigokuto Mearisuketa",
+            "TITLE_ID": "CUSA09906"
+        },
+        {
+            "CONTENT_ID": "JP0122-CUSA05799_00-KOIJPTHEME000000",
+            "NAME": "KOI",
+            "TITLE_ID": "CUSA05799"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA01769_00-KONGSI00000000ES",
+            "NAME": "Kong - La Isla Calavera",
+            "TITLE_ID": "CUSA01769"
+        },
+        {
+            "CONTENT_ID": "UP1263-CUSA09370_00-UTH0000000007370",
+            "NAME": "Koschei",
+            "TITLE_ID": "CUSA09370"
+        },
+        {
+            "CONTENT_ID": "UP1063-CUSA10159_00-CUSTOM000PS40001",
+            "NAME": "Labyrinth of Refrain Coven of Dusk - Facet",
+            "TITLE_ID": "CUSA10159"
+        },
+        {
+            "CONTENT_ID": "UP1358-CUSA04305_00-UTH0000000007102",
+            "NAME": "Last Wings",
+            "TITLE_ID": "CUSA04305"
+        },
+        {
+            "CONTENT_ID": "UP2882-CUSA07348_00-LBSTATICTHEME001",
+            "NAME": "LawBreakers - Static",
+            "TITLE_ID": "CUSA07348"
+        },
+        {
+            "CONTENT_ID": "EP1555-CUSA09527_00-ETH0000000001647",
+            "NAME": "Laws of Machine",
+            "TITLE_ID": "CUSA09527"
+        },
+        {
+            "CONTENT_ID": "UP1032-CUSA04485_00-UTH0000000007371",
+            "NAME": "Layers of Fear - Gallery",
+            "TITLE_ID": "CUSA04485"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA07875_00-PSLEGACYTHEME001",
+            "NAME": "Legacy - Dynamic",
+            "TITLE_ID": "CUSA07875"
+        },
+        {
+            "CONTENT_ID": "UP1018-CUSA03372_00-UTH0000000007104",
+            "NAME": "LEGO Star Wars - The Force Awakens May 4th",
+            "TITLE_ID": "CUSA03372"
+        },
+        {
+            "CONTENT_ID": "JP0747-CUSA01803_00-THMLETITDIEJP000",
+            "NAME": "Let It Die",
+            "TITLE_ID": "CUSA01803"
+        },
+        {
+            "CONTENT_ID": "EP0082-CUSA08487_00-ETH0000000001479",
+            "NAME": "Life Is Strange - Before the Storm",
+            "TITLE_ID": "CUSA08487"
+        },
+        {
+            "CONTENT_ID": "UP0082-CUSA01442_00-UTH0000000007093",
+            "NAME": "Life Is Strange",
+            "TITLE_ID": "CUSA01442"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA01769_00-JUSTICELEAGUE0ES",
+            "NAME": "Liga De La Justicia",
+            "TITLE_ID": "CUSA01769"
+        },
+        {
+            "CONTENT_ID": "UP2429-CUSA07946_00-UTH0000000007403",
+            "NAME": "Lightfield Verticon",
+            "TITLE_ID": "CUSA07946"
+        },
+        {
+            "CONTENT_ID": "JP0031-CUSA08667_00-PANZERSTHEME0001",
+            "NAME": "Limited Temple Castle Panzers Special",
+            "TITLE_ID": "CUSA08667"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA00762_00-LBP3THEMELBP3PS4",
+            "NAME": "Little Big Planet 3",
+            "TITLE_ID": "CUSA00762"
+        },
+        {
+            "CONTENT_ID": "EP0700-CUSA05952_00-LITTLETHEME00000",
+            "NAME": "Little Nightmares - Janitor",
+            "TITLE_ID": "CUSA05952"
+        },
+        {
+            "CONTENT_ID": "UP1980-CUSA05970_00-UTH0000000007172",
+            "NAME": "LIVELOCK - WASTELAND",
+            "TITLE_ID": "CUSA05970"
+        },
+        {
+            "CONTENT_ID": "JP9000-CUSA06934_00-LR2HOLIDAYTHEME0",
+            "NAME": "Loco Roco 2",
+            "TITLE_ID": "CUSA06934"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA07286_00-LOCOROCODYNTH001",
+            "NAME": "Loco Roco Remastered - Dynamic",
+            "TITLE_ID": "CUSA07286"
+        },
+        {
+            "CONTENT_ID": "UP0964-CUSA03630_00-LOFIAUTUMNTHEME0",
+            "NAME": "LoFi Valley - Autumn - Dynamic",
+            "TITLE_ID": "CUSA03630"
+        },
+        {
+            "CONTENT_ID": "UP0964-CUSA03630_00-LOFINORTHERNHEMI",
+            "NAME": "LoFi Valley - Northern Hemisphere Seasons",
+            "TITLE_ID": "CUSA03630"
+        },
+        {
+            "CONTENT_ID": "UP0964-CUSA03630_00-LOFISOUTHERNHEMI",
+            "NAME": "LoFi Valley - Southern Hemisphere Seasons",
+            "TITLE_ID": "CUSA03630"
+        },
+        {
+            "CONTENT_ID": "UP0964-CUSA03630_00-LOFISPRINGTHEME0",
+            "NAME": "LoFi Valley - Spring Valley - Dynamic",
+            "TITLE_ID": "CUSA03630"
+        },
+        {
+            "CONTENT_ID": "UP0964-CUSA03630_00-LOFISUMMERTHEME0",
+            "NAME": "LoFi Valley - Summer - Dynamic",
+            "TITLE_ID": "CUSA03630"
+        },
+        {
+            "CONTENT_ID": "UP0964-CUSA03630_00-LOFIWINTERTHEME0",
+            "NAME": "LoFi Valley - Winter - Dynamic",
+            "TITLE_ID": "CUSA03630"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA01769_00-ETH0000000000049",
+            "NAME": "Mad Max 2",
+            "TITLE_ID": "CUSA01769"
+        },
+        {
+            "CONTENT_ID": "EP1018-CUSA00054_00-ETH0000000000135",
+            "NAME": "Mad Max",
+            "TITLE_ID": "CUSA00054"
+        },
+        {
+            "CONTENT_ID": "UP1001-CUSA03652_00-UTH0000000007100",
+            "NAME": "Mafia III - Pre-Order",
+            "TITLE_ID": "CUSA03652"
+        },
+        {
+            "CONTENT_ID": "EP4139-CUSA01400_00-ETH0000000000221",
+            "NAME": "Magicka 2 - Halloween",
+            "TITLE_ID": "CUSA01400"
+        },
+        {
+            "CONTENT_ID": "JP0404-CUSA01192_00-CUSTOM000PS40003",
+            "NAME": "Makaisenki Disgaea 5 - Seraphina",
+            "TITLE_ID": "CUSA01192"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA02299_00-SPIDERMANTHEME01",
+            "NAME": "Marvel’s Spider-Man - Battle Theme",
+            "TITLE_ID": "CUSA02299"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA02299_00-SPIDERMANTHEME00",
+            "NAME": "Marvel’s Spider-Man - Web-Slinger",
+            "TITLE_ID": "CUSA02299"
+        },
+        {
+            "CONTENT_ID": "JP0031-CUSA09906_00-ADDCONTENTDLC022",
+            "NAME": "Mary Skelter 2 - Original - Dynamic 1",
+            "TITLE_ID": "CUSA09906"
+        },
+        {
+            "CONTENT_ID": "JP0031-CUSA09906_00-ADDCONTENTDLC023",
+            "NAME": "Mary Skelter 2 - Original - Dynamic 2",
+            "TITLE_ID": "CUSA09906"
+        },
+        {
+            "CONTENT_ID": "JP0031-CUSA09906_00-ADDCONTENTDLC024",
+            "NAME": "Mary Skelter 2 - Original - Dynamic 3",
+            "TITLE_ID": "CUSA09906"
+        },
+        {
+            "CONTENT_ID": "UP0006-CUSA02684_00-ME4THEMEPREORDER",
+            "NAME": "Mass Effect Andromeda",
+            "TITLE_ID": "CUSA02684"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA12982_00-MEDIEVILDYTHEME1",
+            "NAME": "MediEvil - Dynamic",
+            "TITLE_ID": "CUSA12982"
+        },
+        {
+            "CONTENT_ID": "UP0102-CUSA10784_00-MM110000POTHEME1",
+            "NAME": "Mega Man 30th Anniversary - Dynamic",
+            "TITLE_ID": "CUSA10784"
+        },
+        {
+            "CONTENT_ID": "EP0031-CUSA03124_00-THEMEP0000000002",
+            "NAME": "Megadimension Neptunia VII - Custom",
+            "TITLE_ID": "CUSA03124"
+        },
+        {
+            "CONTENT_ID": "EP0031-CUSA03124_00-THEMEP0000000004",
+            "NAME": "Megadimension Neptunia VII - LASTATION",
+            "TITLE_ID": "CUSA03124"
+        },
+        {
+            "CONTENT_ID": "EP0031-CUSA03124_00-THEMEP0000000006",
+            "NAME": "Megadimension Neptunia VII - LEANBOX",
+            "TITLE_ID": "CUSA03124"
+        },
+        {
+            "CONTENT_ID": "EP0031-CUSA03124_00-THEMEP0000000005",
+            "NAME": "Megadimension Neptunia VII - LOWEE",
+            "TITLE_ID": "CUSA03124"
+        },
+        {
+            "CONTENT_ID": "EP0031-CUSA03124_00-THEMEP0000000003",
+            "NAME": "Megadimension Neptunia VII - PLANEPTUNE",
+            "TITLE_ID": "CUSA03124"
+        },
+        {
+            "CONTENT_ID": "UP0031-CUSA10444_00-TEM000ORG0000002",
+            "NAME": "Megadimension Neptunia VIIR - Memorial Edition",
+            "TITLE_ID": "CUSA10444"
+        },
+        {
+            "CONTENT_ID": "UP0101-CUSA01140_00-CUSTOMTHEME00001",
+            "NAME": "Metal Gear Solid V - The Phantom Pain",
+            "TITLE_ID": "CUSA01140"
+        },
+        {
+            "CONTENT_ID": "EP0576-CUSA04156_00-UTH0000000007140",
+            "NAME": "Metal Slug Anthology",
+            "TITLE_ID": "CUSA04156"
+        },
+        {
+            "CONTENT_ID": "EP4062-CUSA11407_00-ETH0000000001873",
+            "NAME": "Metro Exodus - Spring - Dynamic",
+            "TITLE_ID": "CUSA11407"
+        },
+        {
+            "CONTENT_ID": "EP4062-CUSA11407_00-ETH0000000001849",
+            "NAME": "Metro Exodus - Winter - Dynamic",
+            "TITLE_ID": "CUSA11407"
+        },
+        {
+            "CONTENT_ID": "UP2047-CUSA02495_00-UTH0000000000713",
+            "NAME": "Mighty No. 9 - Pre-Order Static",
+            "TITLE_ID": "CUSA02495"
+        },
+        {
+            "CONTENT_ID": "UP4433-CUSA00744_00-DT00000000000001",
+            "NAME": "Minecraft - Dynamic",
+            "TITLE_ID": "CUSA00744"
+        },
+        {
+            "CONTENT_ID": "EP4476-CUSA11273_00-KODOSCEEDPS40374",
+            "NAME": "Minefield - Bodrum Beach & Freedom of the Fish - Dynamic",
+            "TITLE_ID": "CUSA11273"
+        },
+        {
+            "CONTENT_ID": "EP0006-CUSA01499_00-MIRRORSEDGETHEME",
+            "NAME": "Mirror's Edge Catalyst - Dynamic",
+            "TITLE_ID": "CUSA01499"
+        },
+        {
+            "CONTENT_ID": "JP0700-CUSA11210_00-THEME00000000002",
+            "NAME": "Mobile Suit Gundam Battle Operation 2 - Theme 1",
+            "TITLE_ID": "CUSA11210"
+        },
+        {
+            "CONTENT_ID": "JP0700-CUSA11210_00-THEME00000000003",
+            "NAME": "Mobile Suit Gundam Battle Operation 2 - Theme 2",
+            "TITLE_ID": "CUSA11210"
+        },
+        {
+            "CONTENT_ID": "JP0700-CUSA11210_00-THEME00000000004",
+            "NAME": "Mobile Suit Gundam Battle Operation 2 - Theme 3",
+            "TITLE_ID": "CUSA11210"
+        },
+        {
+            "CONTENT_ID": "JP0700-CUSA11210_00-THEME00000000005",
+            "NAME": "Mobile Suit Gundam Battle Operation 2 - Theme 4",
+            "TITLE_ID": "CUSA11210"
+        },
+        {
+            "CONTENT_ID": "JP0700-CUSA11210_00-THEME00000000006",
+            "NAME": "Mobile Suit Gundam Battle Operation 2 - Theme 5",
+            "TITLE_ID": "CUSA11210"
+        },
+        {
+            "CONTENT_ID": "JP0102-CUSA06027_00-MHWIDYNTHEME0000",
+            "NAME": "Monster Hunter World - Iceborne - Velkhana - Dynamic",
+            "TITLE_ID": "CUSA06027"
+        },
+        {
+            "CONTENT_ID": "EP0102-CUSA07708_00-MHWIDYNTHEME0001",
+            "NAME": "Monster Hunter World - Nergigante - Dynamic",
+            "TITLE_ID": "CUSA07708"
+        },
+        {
+            "CONTENT_ID": "JP0102-CUSA06027_00-PS4THEME00000002",
+            "NAME": "Monster Hunter World - Theme 2",
+            "TITLE_ID": "CUSA06027"
+        },
+        {
+            "CONTENT_ID": "UP1018-CUSA11395_00-COMMUNITYART0000",
+            "NAME": "Mortal Kombat 11 - Community Art",
+            "TITLE_ID": "CUSA11395"
+        },
+        {
+            "CONTENT_ID": "UP1018-CUSA03589_00-UTH0000000007065",
+            "NAME": "Mortal Kombat XL - Scorpion",
+            "TITLE_ID": "CUSA03589"
+        },
+        {
+            "CONTENT_ID": "EP1966-CUSA09760_00-ETH0000000002651",
+            "NAME": "Moss - Quill Forest",
+            "TITLE_ID": "CUSA09760"
+        },
+        {
+            "CONTENT_ID": "JP9002-CUSA01666_00-PSPLUSTHEME17011",
+            "NAME": "Mount Fuji Dynamic Theme PS Plus Exclusive",
+            "TITLE_ID": "CUSA01666"
+        },
+        {
+            "CONTENT_ID": "UP2108-CUSA00041_00-UTH0000000000056",
+            "NAME": "N Plus Plus - Play 2015",
+            "TITLE_ID": "CUSA00041"
+        },
+        {
+            "CONTENT_ID": "UP2108-CUSA00041_00-NPPULTIMATETHEME",
+            "NAME": "N Plus Plus - Ultimate Edition",
+            "TITLE_ID": "CUSA00041"
+        },
+        {
+            "CONTENT_ID": "UP0700-CUSA02412_00-UTH0000000007141",
+            "NAME": "Naruto Shippuden - Ultimate Ninja Storm 4 - Commemorative",
+            "TITLE_ID": "CUSA02412"
+        },
+        {
+            "CONTENT_ID": "EP0700-CUSA02854_00-ETH0000000000234",
+            "NAME": "Naruto Shippuden - Ultimate Ninja Storm 4",
+            "TITLE_ID": "CUSA02854"
+        },
+        {
+            "CONTENT_ID": "JP0700-CUSA05927_00-NARBORLIVETHEME1",
+            "NAME": "Naruto To Boruto - The Live 2019 Commemoration Special",
+            "TITLE_ID": "CUSA05927"
+        },
+        {
+            "CONTENT_ID": "EP1001-CUSA02764_00-ETH0000000000088",
+            "NAME": "NBA 2K16",
+            "TITLE_ID": "CUSA02764"
+        },
+        {
+            "CONTENT_ID": "UP1001-CUSA08500_00-UTH0000000007271",
+            "NAME": "NBA 2K18 - Pre-Order",
+            "TITLE_ID": "CUSA08500"
+        },
+        {
+            "CONTENT_ID": "UP0006-CUSA01925_00-NFS16THEME000001",
+            "NAME": "Need for Speed - Most Wanted",
+            "TITLE_ID": "CUSA01925"
+        },
+        {
+            "CONTENT_ID": "UP0006-CUSA01925_00-NFS16THEME000002",
+            "NAME": "Need for Speed - Underground",
+            "TITLE_ID": "CUSA01925"
+        },
+        {
+            "CONTENT_ID": "EP4108-CUSA13213_00-ETH0000000002722",
+            "NAME": "Nelke - The Legendary Alchemists - Special",
+            "TITLE_ID": "CUSA13213"
+        },
+        {
+            "CONTENT_ID": "UP0964-CUSA03630_00-UTH0000000000671",
+            "NAME": "NeoGaf - Basic",
+            "TITLE_ID": "CUSA03630"
+        },
+        {
+            "CONTENT_ID": "UP0964-CUSA03630_00-UTH0000000000681",
+            "NAME": "NeoGaf - Dark",
+            "TITLE_ID": "CUSA03630"
+        },
+        {
+            "CONTENT_ID": "UP0964-CUSA03630_00-UTH0000000000691",
+            "NAME": "NeoGaf - Gold",
+            "TITLE_ID": "CUSA03630"
+        },
+        {
+            "CONTENT_ID": "UP0964-CUSA03630_00-NEONMETROPOLIS00",
+            "NAME": "Neon Metropolis - Dynamic",
+            "TITLE_ID": "CUSA03630"
+        },
+        {
+            "CONTENT_ID": "EP3351-CUSA08250_00-NETRUNNER4KTHEME",
+            "NAME": "Net Runner Detective - 4K - Dynamic",
+            "TITLE_ID": "CUSA08250"
+        },
+        {
+            "CONTENT_ID": "UT0007-CUSA00129_00-UTH0000000000718",
+            "NAME": "Netflix Originals - Marvels Jessica Jones Dynamic",
+            "TITLE_ID": "CUSA00129"
+        },
+        {
+            "CONTENT_ID": "UP1980-CUSA04314_00-NWTHEMEAIT000000",
+            "NAME": "Neverwinter - Acquisitions Incorporated",
+            "TITLE_ID": "CUSA04314"
+        },
+        {
+            "CONTENT_ID": "UP1980-CUSA04314_00-NWTHEMETIAMAT000",
+            "NAME": "Neverwinter - Tiamat",
+            "TITLE_ID": "CUSA04314"
+        },
+        {
+            "CONTENT_ID": "UP1980-CUSA04314_00-NWUNDERMTTHEME00",
+            "NAME": "Neverwinter - Undermountain Monster",
+            "TITLE_ID": "CUSA04314"
+        },
+        {
+            "CONTENT_ID": "UP1980-CUSA04314_00-NWUNDERMTTHEME00",
+            "NAME": "Neverwinter Undermountain - Monster",
+            "TITLE_ID": "CUSA04314"
+        },
+        {
+            "CONTENT_ID": "JP0177-CUSA13045_00-NSWTHEME002PSPLU",
+            "NAME": "New Sakura Wars - Sakura Amamiya, Mitsutake Sanshiki & Image Song",
+            "TITLE_ID": "CUSA13045"
+        },
+        {
+            "CONTENT_ID": "UP0700-CUSA07345_00-NNK2POTHEME00000",
+            "NAME": "Ni No Kuni II - Revenant Kingdom - Announcement",
+            "TITLE_ID": "CUSA07345"
+        },
+        {
+            "CONTENT_ID": "JP9002-CUSA10625_00-NEIRMCTHEMEE0001",
+            "NAME": "NieR - The Memories of Puppets",
+            "TITLE_ID": "CUSA10625"
+        },
+        {
+            "CONTENT_ID": "UP0082-CUSA04551_00-NIERFUNITTYPEB02",
+            "NAME": "NieR Automata - Flight Unit Type-B",
+            "TITLE_ID": "CUSA04551"
+        },
+        {
+            "CONTENT_ID": "UP0082-CUSA04551_00-NIERFUNITTYPES03",
+            "NAME": "NieR Automata - Flight Unit Type-S",
+            "TITLE_ID": "CUSA04551"
+        },
+        {
+            "CONTENT_ID": "UP0082-CUSA04551_00-NIERPREORDRTHEME",
+            "NAME": "NieR Automata - Forest",
+            "TITLE_ID": "CUSA04551"
+        },
+        {
+            "CONTENT_ID": "EP0082-CUSA04480_00-NIERAGOTYTHEME01",
+            "NAME": "NieR Automata - GOTY",
+            "TITLE_ID": "CUSA04480"
+        },
+        {
+            "CONTENT_ID": "UP2204-CUSA01955_00-NIGHTMARESUNHING",
+            "NAME": "Nightmares Unhinged",
+            "TITLE_ID": "CUSA01955"
+        },
+        {
+            "CONTENT_ID": "UP4108-CUSA04111_00-UTH0000000007074",
+            "NAME": "Nights of Azure - Theme 01",
+            "TITLE_ID": "CUSA04111"
+        },
+        {
+            "CONTENT_ID": "UP4108-CUSA04111_00-UTH0000000007075",
+            "NAME": "Nights of Azure - Theme 02",
+            "TITLE_ID": "CUSA04111"
+        },
+        {
+            "CONTENT_ID": "JP0761-CUSA09596_00-UTAWARERUMONOZT2",
+            "NAME": "Nihon Falcom x Aquaplus - Special Collaboration - Vol. 1",
+            "TITLE_ID": "CUSA09596"
+        },
+        {
+            "CONTENT_ID": "JP0761-CUSA09596_00-UTAWARERUMONOZT1",
+            "NAME": "Nihon Falcom x Aquaplus - Special Collaboration - Vol. 2",
+            "TITLE_ID": "CUSA09596"
+        },
+        {
+            "CONTENT_ID": "IP9100-CUSA00001_00-PLAYROOM0THEME02",
+            "NAME": "Ninja Bots",
+            "TITLE_ID": "CUSA00001"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA07113_00-NIOHPRETHEME0000",
+            "NAME": "Nioh - Bloody Grave",
+            "TITLE_ID": "CUSA07113"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA07113_00-NIOHSHOPTHEME000",
+            "NAME": "Nioh - Samurai Static",
+            "TITLE_ID": "CUSA07113"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA07113_00-NIOHPLUSTHEME000",
+            "NAME": "Nioh - Yokai Static",
+            "TITLE_ID": "CUSA07113"
+        },
+        {
+            "CONTENT_ID": "JP0106-CUSA16157_00-NIOH2DX01THEME00",
+            "NAME": "Nioh 2 - Deluxe",
+            "TITLE_ID": "CUSA16157"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA15532_00-NIOH2THEME100000",
+            "NAME": "Nioh 2 - Original",
+            "TITLE_ID": "CUSA15532"
+        },
+        {
+            "CONTENT_ID": "JP0106-CUSA04140_00-THEME00000000000",
+            "NAME": "Nobunaga's Ambition Day - Commemorative",
+            "TITLE_ID": "CUSA04140"
+        },
+        {
+            "CONTENT_ID": "JP0549-CUSA13586_00-NORATOTO2TH00001",
+            "NAME": "Nora, Princess & Crying Cat - Heart 2 - Dynamic",
+            "TITLE_ID": "CUSA13586"
+        },
+        {
+            "CONTENT_ID": "JP0549-CUSA13303_00-NORATOTOTH000001",
+            "NAME": "Nora, Princess & Stray Cat - Heart - Static",
+            "TITLE_ID": "CUSA13303"
+        },
+        {
+            "CONTENT_ID": "UP1032-CUSA07510_00-UTH0000000007344",
+            "NAME": "Observer - Hallway",
+            "TITLE_ID": "CUSA07510"
+        },
+        {
+            "CONTENT_ID": "UP4134-CUSA00329_00-UTH0000000000066",
+            "NAME": "Oddworld - New 'n Tasty",
+            "TITLE_ID": "CUSA00329"
+        },
+        {
+            "CONTENT_ID": "JP0367-CUSA14694_00-THEME00000010002",
+            "NAME": "Omega Labyrinth Life - Character Song - Berune",
+            "TITLE_ID": "CUSA14694"
+        },
+        {
+            "CONTENT_ID": "JP0367-CUSA14694_00-THEME00000010001",
+            "NAME": "Omega Labyrinth Life - Character Song - Hinata",
+            "TITLE_ID": "CUSA14694"
+        },
+        {
+            "CONTENT_ID": "JP0367-CUSA14694_00-THEME00000010006",
+            "NAME": "Omega Labyrinth Life - Character Song - Juri",
+            "TITLE_ID": "CUSA14694"
+        },
+        {
+            "CONTENT_ID": "JP0367-CUSA14694_00-THEME00000010003",
+            "NAME": "Omega Labyrinth Life - Character Song - Mei",
+            "TITLE_ID": "CUSA14694"
+        },
+        {
+            "CONTENT_ID": "JP0367-CUSA14694_00-THEME00000010004",
+            "NAME": "Omega Labyrinth Life - Character Song - Mio",
+            "TITLE_ID": "CUSA14694"
+        },
+        {
+            "CONTENT_ID": "JP0367-CUSA14694_00-THEME00000010005",
+            "NAME": "Omega Labyrinth Life - Character Song - Nanami",
+            "TITLE_ID": "CUSA14694"
+        },
+        {
+            "CONTENT_ID": "JP0367-CUSA14694_00-THEME00000010008",
+            "NAME": "Omega Labyrinth Life - Character Song - Nem",
+            "TITLE_ID": "CUSA14694"
+        },
+        {
+            "CONTENT_ID": "JP0367-CUSA14694_00-THEME00000010009",
+            "NAME": "Omega Labyrinth Life - Character Song - Pai",
+            "TITLE_ID": "CUSA14694"
+        },
+        {
+            "CONTENT_ID": "JP0367-CUSA14694_00-THEME00000010007",
+            "NAME": "Omega Labyrinth Life - Character Song - Yurika",
+            "TITLE_ID": "CUSA14694"
+        },
+        {
+            "CONTENT_ID": "JP0367-CUSA05668_00-THEME00000010050",
+            "NAME": "Omega Labyrinth Z - Marika Hikawa",
+            "TITLE_ID": "CUSA05668"
+        },
+        {
+            "CONTENT_ID": "JP0367-CUSA05668_00-THEME00000010060",
+            "NAME": "Omega Labyrinth Z - Mirei Shirogane",
+            "TITLE_ID": "CUSA05668"
+        },
+        {
+            "CONTENT_ID": "JP0367-CUSA05668_00-THEME00000010030",
+            "NAME": "Omega Labyrinth Z - Nako",
+            "TITLE_ID": "CUSA05668"
+        },
+        {
+            "CONTENT_ID": "JP0367-CUSA05668_00-THEME00000010020",
+            "NAME": "Omega Labyrinth Z - Rio Akanezaki",
+            "TITLE_ID": "CUSA05668"
+        },
+        {
+            "CONTENT_ID": "JP0700-CUSA03266_00-OPBBPS400000CT02",
+            "NAME": "One Piece - Burning Blood",
+            "TITLE_ID": "CUSA03266"
+        },
+        {
+            "CONTENT_ID": "JP0700-CUSA10951_00-OPWSK00THEME0000",
+            "NAME": "One Piece - World Seeker - Original",
+            "TITLE_ID": "CUSA10951"
+        },
+        {
+            "CONTENT_ID": "UP0700-CUSA16186_00-OPMTHEME00000001",
+            "NAME": "One Punch Man - A Hero Nobody Knows",
+            "TITLE_ID": "CUSA16186"
+        },
+        {
+            "CONTENT_ID": "UP0002-CUSA01842_00-OWPREORDERTHM000",
+            "NAME": "Overwatch",
+            "TITLE_ID": "CUSA01842"
+        },
+        {
+            "CONTENT_ID": "EP0700-CUSA04944_00-ETH0000000000581",
+            "NAME": "PAC-MAN Championship Edition 2",
+            "TITLE_ID": "CUSA04944"
+        },
+        {
+            "CONTENT_ID": "UT0014-CUSA01475_00-CDCTHEMEA0000002",
+            "NAME": "Paper Sculpture",
+            "TITLE_ID": "CUSA01475"
+        },
+        {
+            "CONTENT_ID": "UP1477-CUSA03608_00-PARAGONTHEME2XXX",
+            "NAME": "Paragon - Agora Ruins",
+            "TITLE_ID": "CUSA03608"
+        },
+        {
+            "CONTENT_ID": "UP1477-CUSA03608_00-UTH0000000007087",
+            "NAME": "Paragon - Pre-Order",
+            "TITLE_ID": "CUSA03608"
+        },
+        {
+            "CONTENT_ID": "JP9000-CUSA06932_00-PARAPPADYNTHEME1",
+            "NAME": "PaRappa The Rapper - Dynamic",
+            "TITLE_ID": "CUSA06932"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA07285_00-PATAPONDYNTHEME1",
+            "NAME": "Patapon Remastered - Dynamic",
+            "TITLE_ID": "CUSA07285"
+        },
+        {
+            "CONTENT_ID": "UP3686-CUSA12363_00-UTH0000000007521",
+            "NAME": "Path to Mnemosyne - Static",
+            "TITLE_ID": "CUSA12363"
+        },
+        {
+            "CONTENT_ID": "UP4040-CUSA01770_00-UTH0000000007381",
+            "NAME": "Payday 2 - The Master Plan",
+            "TITLE_ID": "CUSA01770"
+        },
+        {
+            "CONTENT_ID": "UP4040-CUSA01770_00-UTH0000000007291",
+            "NAME": "Payday 2",
+            "TITLE_ID": "CUSA01770"
+        },
+        {
+            "CONTENT_ID": "JP0005-CUSA01557_00-PS4THEME00000017",
+            "NAME": "Persona - 20th Anniversary",
+            "TITLE_ID": "CUSA01557"
+        },
+        {
+            "CONTENT_ID": "EP2475-CUSA12810_00-ETH0000000002702",
+            "NAME": "Persona 3 - Dancing in Moonlight - Dynamic",
+            "TITLE_ID": "CUSA12810"
+        },
+        {
+            "CONTENT_ID": "JP0005-CUSA07428_00-PERSONA3DTHEME03",
+            "NAME": "Persona 3 - Dancing Moon Night",
+            "TITLE_ID": "CUSA07428"
+        },
+        {
+            "CONTENT_ID": "HP0177-CUSA07195_00-PS4THEME00000015",
+            "NAME": "Persona 5 - Akechi",
+            "TITLE_ID": "CUSA07195"
+        },
+        {
+            "CONTENT_ID": "EP4062-CUSA06638_00-ETH0000000000951",
+            "NAME": "Persona 5 - Ann Takamaki",
+            "TITLE_ID": "CUSA06638"
+        },
+        {
+            "CONTENT_ID": "EP2475-CUSA12813_00-ETH0000000002701",
+            "NAME": "Persona 5 - Dancing in Starlight",
+            "TITLE_ID": "CUSA12813"
+        },
+        {
+            "CONTENT_ID": "JP0005-CUSA07429_00-PERSONA5DTHEME03",
+            "NAME": "Persona 5 - Dancing Star Night",
+            "TITLE_ID": "CUSA07429"
+        },
+        {
+            "CONTENT_ID": "EP4062-CUSA06638_00-ETH0000000000952",
+            "NAME": "Persona 5 - Futaba Sakura",
+            "TITLE_ID": "CUSA06638"
+        },
+        {
+            "CONTENT_ID": "HP0177-CUSA07195_00-PS4THEME00000014",
+            "NAME": "Persona 5 - Haru Okumura",
+            "TITLE_ID": "CUSA07195"
+        },
+        {
+            "CONTENT_ID": "EP4062-CUSA06638_00-ETH0000000000958",
+            "NAME": "Persona 5 - Igor and Attendants",
+            "TITLE_ID": "CUSA06638"
+        },
+        {
+            "CONTENT_ID": "HP0177-CUSA07195_00-PS4THEME00000007",
+            "NAME": "Persona 5 - Joker",
+            "TITLE_ID": "CUSA07195"
+        },
+        {
+            "CONTENT_ID": "HP0177-CUSA07195_00-PS4THEME00000012",
+            "NAME": "Persona 5 - Makoto Niijima",
+            "TITLE_ID": "CUSA07195"
+        },
+        {
+            "CONTENT_ID": "HP0177-CUSA07195_00-PS4THEME00000009",
+            "NAME": "Persona 5 - Mona",
+            "TITLE_ID": "CUSA07195"
+        },
+        {
+            "CONTENT_ID": "UP2611-CUSA05877_00-PROTAGONISTTHEME",
+            "NAME": "Persona 5 - Protaganist",
+            "TITLE_ID": "CUSA05877"
+        },
+        {
+            "CONTENT_ID": "HP0177-CUSA07195_00-PS4THEME00000008",
+            "NAME": "Persona 5 - Ryuji Sakamoto",
+            "TITLE_ID": "CUSA07195"
+        },
+        {
+            "CONTENT_ID": "UP0177-CUSA17416_00-UTH0000000007894",
+            "NAME": "Persona 5 - The Royal",
+            "TITLE_ID": "CUSA17416"
+        },
+        {
+            "CONTENT_ID": "HP0177-CUSA07195_00-PS4THEME00000011",
+            "NAME": "Persona 5 - Yusuke Kitagawa",
+            "TITLE_ID": "CUSA07195"
+        },
+        {
+            "CONTENT_ID": "UP0177-CUSA17416_00-P5RANNTHEME00000",
+            "NAME": "Persona 5 Royal - Ann Takamaki - Special",
+            "TITLE_ID": "CUSA17416"
+        },
+        {
+            "CONTENT_ID": "UP0177-CUSA17416_00-P5RFUTABATHEME00",
+            "NAME": "Persona 5 Royal - Futaba Sakura - Special",
+            "TITLE_ID": "CUSA17416"
+        },
+        {
+            "CONTENT_ID": "UP0177-CUSA17416_00-P5RAKECHITHEME00",
+            "NAME": "Persona 5 Royal - Goro Akechi - Special",
+            "TITLE_ID": "CUSA17416"
+        },
+        {
+            "CONTENT_ID": "UP0177-CUSA17416_00-P5RHARUTHEME0000",
+            "NAME": "Persona 5 Royal - Haru Okumura - Special",
+            "TITLE_ID": "CUSA17416"
+        },
+        {
+            "CONTENT_ID": "UP0177-CUSA17416_00-P5RJCTHEME000000",
+            "NAME": "Persona 5 Royal - Justine and Caroline - Special",
+            "TITLE_ID": "CUSA17416"
+        },
+        {
+            "CONTENT_ID": "UP0177-CUSA17416_00-P5RKASUMITHEME00",
+            "NAME": "Persona 5 Royal - Kasumi Yoshizawa - Special",
+            "TITLE_ID": "CUSA17416"
+        },
+        {
+            "CONTENT_ID": "UP0177-CUSA17416_00-P5RLAVENZATHEME0",
+            "NAME": "Persona 5 Royal - Lavenza - Special",
+            "TITLE_ID": "CUSA17416"
+        },
+        {
+            "CONTENT_ID": "UP0177-CUSA17416_00-P5RMAKOTOTHEME00",
+            "NAME": "Persona 5 Royal - Makoto Niijima - Special",
+            "TITLE_ID": "CUSA17416"
+        },
+        {
+            "CONTENT_ID": "UP0177-CUSA17416_00-P5RMORGANATHEME0",
+            "NAME": "Persona 5 Royal - Morgana - Special",
+            "TITLE_ID": "CUSA17416"
+        },
+        {
+            "CONTENT_ID": "UP0177-CUSA17416_00-P5RPROTAGTHEME00",
+            "NAME": "Persona 5 Royal - Protagonist - Special",
+            "TITLE_ID": "CUSA17416"
+        },
+        {
+            "CONTENT_ID": "UP0177-CUSA17416_00-P5RRYUJITHEME000",
+            "NAME": "Persona 5 Royal - Ryuji Sakamoto - Special",
+            "TITLE_ID": "CUSA17416"
+        },
+        {
+            "CONTENT_ID": "UP0177-CUSA17416_00-P5RMARUKITHEME00",
+            "NAME": "Persona 5 Royal - Takuto Maruki - Special",
+            "TITLE_ID": "CUSA17416"
+        },
+        {
+            "CONTENT_ID": "UP0177-CUSA17416_00-P5RYUSUKETHEME00",
+            "NAME": "Persona 5 Royal - Yusuke Kitagawa - Special",
+            "TITLE_ID": "CUSA17416"
+        },
+        {
+            "CONTENT_ID": "JP0177-CUSA02647_00-PSO2SYSTEMTHEME6",
+            "NAME": "Phantasy Star Online 2 - 6th Anniversary Illustration",
+            "TITLE_ID": "CUSA02647"
+        },
+        {
+            "CONTENT_ID": "JP0177-CUSA02647_00-PSO2SYSTEMTHEME8",
+            "NAME": "Phantasy Star Online 2 - 7th Anniversary Illustration",
+            "TITLE_ID": "CUSA02647"
+        },
+        {
+            "CONTENT_ID": "JP0177-CUSA02647_00-PSO2SYSTEMTHEME2",
+            "NAME": "Phantasy Star Online 2 - Character Illustration 1",
+            "TITLE_ID": "CUSA02647"
+        },
+        {
+            "CONTENT_ID": "JP0177-CUSA02647_00-PSO2SYSTEMTHEME5",
+            "NAME": "Phantasy Star Online 2 - Character Illustration 2",
+            "TITLE_ID": "CUSA02647"
+        },
+        {
+            "CONTENT_ID": "JP0177-CUSA02647_00-PSO2SYSTEMTHEME7",
+            "NAME": "Phantasy Star Online 2 - Character Illustration 3",
+            "TITLE_ID": "CUSA02647"
+        },
+        {
+            "CONTENT_ID": "JP0177-CUSA02647_00-PSO2SYSTEMTHEME1",
+            "NAME": "Phantasy Star Online 2 - EP4 Key Visual",
+            "TITLE_ID": "CUSA02647"
+        },
+        {
+            "CONTENT_ID": "JP0177-CUSA02647_00-PSO2SYSTEMTHEME4",
+            "NAME": "Phantasy Star Online 2 - EP5 Key Visual",
+            "TITLE_ID": "CUSA02647"
+        },
+        {
+            "CONTENT_ID": "UT0016-CUSA06833_00-UTH0000000007912",
+            "NAME": "PlayStation - 2019 Wrap-up",
+            "TITLE_ID": "CUSA06833"
+        },
+        {
+            "CONTENT_ID": "UT0016-CUSA06833_00-UTH0000000007492",
+            "NAME": "PlayStation - 2019 Year End - City",
+            "TITLE_ID": "CUSA06833"
+        },
+        {
+            "CONTENT_ID": "UT0016-CUSA06833_00-UTH0000000007493",
+            "NAME": "PlayStation - 2019 Year End - Map",
+            "TITLE_ID": "CUSA06833"
+        },
+        {
+            "CONTENT_ID": "UT0016-CUSA06833_00-UTH0000000007491",
+            "NAME": "PlayStation - 2019 Year End - Sketch",
+            "TITLE_ID": "CUSA06833"
+        },
+        {
+            "CONTENT_ID": "UT0016-CUSA06833_00-PS2020WRAPUPTHME",
+            "NAME": "PlayStation - 2020 Wrap-Up",
+            "TITLE_ID": "CUSA06833"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA01646_00-20THANNITHEME001",
+            "NAME": "PlayStation - 20th Anniversary",
+            "TITLE_ID": "CUSA01646"
+        },
+        {
+            "CONTENT_ID": "US0045-CUSA01751_00-UTH0000000007135",
+            "NAME": "PlayStation - Access",
+            "TITLE_ID": "CUSA01751"
+        },
+        {
+            "CONTENT_ID": "JP9002-CUSA01125_00-PS40PSAWARDS2015",
+            "NAME": "PlayStation - Awards 2015 - Original",
+            "TITLE_ID": "CUSA01125"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA01501_00-XMAS2014THEME000",
+            "NAME": "PlayStation - Christmas 2014",
+            "TITLE_ID": "CUSA01501"
+        },
+        {
+            "CONTENT_ID": "UT0016-CUSA06833_00-COUNTDOWN2LAUNCH",
+            "NAME": "PlayStation - Countdown to Launch - Dynamic",
+            "TITLE_ID": "CUSA06833"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA01087_00-PREORDERTHEME001",
+            "NAME": "PlayStation - HEROES - Pre-Order",
+            "TITLE_ID": "CUSA01087"
+        },
+        {
+            "CONTENT_ID": "UT0016-CUSA06833_00-HOLIDAYTHEME2017",
+            "NAME": "PlayStation - Holiday Theme 2017",
+            "TITLE_ID": "CUSA06833"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA01834_00-PSNOWDYNAMICTHEM",
+            "NAME": "PlayStation - Now",
+            "TITLE_ID": "CUSA01834"
+        },
+        {
+            "CONTENT_ID": "UT0016-CUSA06833_00-PSX2017THEME0001",
+            "NAME": "PlayStation Experience 2017 - Dynamic",
+            "TITLE_ID": "CUSA06833"
+        },
+        {
+            "CONTENT_ID": "UT0016-CUSA06833_00-UTH0000000007941",
+            "NAME": "PlayStation Player Celebration – Shapes EU2",
+            "TITLE_ID": "CUSA06833"
+        },
+        {
+            "CONTENT_ID": "UT0016-CUSA06833_00-UTH0000000007940",
+            "NAME": "PlayStation Player Celebration – Shapes",
+            "TITLE_ID": "CUSA06833"
+        },
+        {
+            "CONTENT_ID": "UT0016-CUSA06833_00-PSPLUSANNIVTHEME",
+            "NAME": "PlayStation Plus - 10th Anniversary",
+            "TITLE_ID": "CUSA06833"
+        },
+        {
+            "CONTENT_ID": "JP9002-CUSA01666_00-PSPLUSTHEME17001",
+            "NAME": "PlayStation Plus - Cycling",
+            "TITLE_ID": "CUSA01666"
+        },
+        {
+            "CONTENT_ID": "JP9002-CUSA01666_00-PSPLUSTHEMEDAZN1",
+            "NAME": "PlayStation Plus - DAZN Champions",
+            "TITLE_ID": "CUSA01666"
+        },
+        {
+            "CONTENT_ID": "JP9002-CUSA01666_00-PSPLUSTHEME16005",
+            "NAME": "PlayStation Plus - Earth",
+            "TITLE_ID": "CUSA01666"
+        },
+        {
+            "CONTENT_ID": "JP9002-CUSA01666_00-PSPLUSTHEME18006",
+            "NAME": "PlayStation Plus - Exclusive Toro - July 2018",
+            "TITLE_ID": "CUSA01666"
+        },
+        {
+            "CONTENT_ID": "JP9002-CUSA01666_00-PSPLUSTHEME18010",
+            "NAME": "PlayStation Plus - Exclusive Toro - Khom Loi Festival",
+            "TITLE_ID": "CUSA01666"
+        },
+        {
+            "CONTENT_ID": "JP9002-CUSA01666_00-PSPLUSTHEME19002",
+            "NAME": "PlayStation Plus - Exclusive Toro - March & April 2019",
+            "TITLE_ID": "CUSA01666"
+        },
+        {
+            "CONTENT_ID": "JP9002-CUSA01666_00-PSPLUSTHEME17002",
+            "NAME": "PlayStation Plus - Exclusive Toro - March 2017",
+            "TITLE_ID": "CUSA01666"
+        },
+        {
+            "CONTENT_ID": "JP9002-CUSA01666_00-PSPLUSTHEME17004",
+            "NAME": "PlayStation Plus - Exclusive Toro - May 2017",
+            "TITLE_ID": "CUSA01666"
+        },
+        {
+            "CONTENT_ID": "JP9002-CUSA01666_00-PSPLUSTHEME18012",
+            "NAME": "PlayStation Plus - Exclusive Toro - Winter - Dynamic - February 2018",
+            "TITLE_ID": "CUSA01666"
+        },
+        {
+            "CONTENT_ID": "JP9002-CUSA01666_00-PSPLUSTHEME17010",
+            "NAME": "PlayStation Plus - Exclusive Toro 2017 November",
+            "TITLE_ID": "CUSA01666"
+        },
+        {
+            "CONTENT_ID": "JP9002-CUSA01666_00-PSPLUSTHEME18001",
+            "NAME": "PlayStation Plus - Exclusive Toro 2018 January",
+            "TITLE_ID": "CUSA01666"
+        },
+        {
+            "CONTENT_ID": "JP9002-CUSA01666_00-PSPLUSTHEME18008",
+            "NAME": "PlayStation Plus - Exclusive Toro 2018 Sep & Oct",
+            "TITLE_ID": "CUSA01666"
+        },
+        {
+            "CONTENT_ID": "JP9002-CUSA01666_00-PSPLUSTHEME16007",
+            "NAME": "PlayStation Plus - Jellyfish",
+            "TITLE_ID": "CUSA01666"
+        },
+        {
+            "CONTENT_ID": "JP9002-CUSA01666_00-PSPLUSTHEME17003",
+            "NAME": "PlayStation Plus - Night Sky - Dynamic",
+            "TITLE_ID": "CUSA01666"
+        },
+        {
+            "CONTENT_ID": "JP9002-CUSA01666_00-PSPLUSTHEME19005",
+            "NAME": "PlayStation Plus - Special - Umbrella Festival",
+            "TITLE_ID": "CUSA01666"
+        },
+        {
+            "CONTENT_ID": "JP9002-CUSA01666_00-PSPLUSTHEME18007",
+            "NAME": "PlayStation Plus - Toro & Fireworks Festival",
+            "TITLE_ID": "CUSA01666"
+        },
+        {
+            "CONTENT_ID": "JP9002-CUSA01666_00-PSPLUSTHEME18101",
+            "NAME": "PlayStation Plus - Toro & Puppies - Dynamic",
+            "TITLE_ID": "CUSA01666"
+        },
+        {
+            "CONTENT_ID": "JP9002-CUSA01666_00-PSPLUSTHEME17006",
+            "NAME": "PlayStation Plus - Toro - Hong Kong",
+            "TITLE_ID": "CUSA01666"
+        },
+        {
+            "CONTENT_ID": "JP9002-CUSA01666_00-PSPLUSTHEME18009",
+            "NAME": "PlayStation Plus Exclusive - Spacewalk - Dynamic",
+            "TITLE_ID": "CUSA01666"
+        },
+        {
+            "CONTENT_ID": "UT0016-CUSA06833_00-UTH0000000007180",
+            "NAME": "PlayStation Store - 10th Anniversary",
+            "TITLE_ID": "CUSA06833"
+        },
+        {
+            "CONTENT_ID": "UT0016-CUSA06833_00-UTH0000000007778",
+            "NAME": "PlayStation Vue x Game of Thrones - Dragon",
+            "TITLE_ID": "CUSA06833"
+        },
+        {
+            "CONTENT_ID": "UP1733-CUSA08959_00-UTH0000000007334",
+            "NAME": "Poi",
+            "TITLE_ID": "CUSA08959"
+        },
+        {
+            "CONTENT_ID": "EP3351-CUSA08250_00-POSTAPOCALYPTICS",
+            "NAME": "Post Apocalyptic 4K",
+            "TITLE_ID": "CUSA08250"
+        },
+        {
+            "CONTENT_ID": "UP4827-CUSA15145_00-UTH0000000007549",
+            "NAME": "Power Rangers - Battle for the Grid",
+            "TITLE_ID": "CUSA15145"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA01501_00-POWERUPBDAYTHEME",
+            "NAME": "Power Up Your Play - Birthday",
+            "TITLE_ID": "CUSA01501"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA01712_00-POWERSSEAS2THEME",
+            "NAME": "Powers - Season 2 - Dynamic",
+            "TITLE_ID": "CUSA01712"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA01712_00-POWERSTHEMEPLUS1",
+            "NAME": "Powers",
+            "TITLE_ID": "CUSA01712"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA15400_00-PHGPREORDERTHEME",
+            "NAME": "Predator - Hunting Grounds - Pre-Order - Dynamic",
+            "TITLE_ID": "CUSA15400"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA01501_00-0000000PRIDE2017",
+            "NAME": "Pride 2017",
+            "TITLE_ID": "CUSA01501"
+        },
+        {
+            "CONTENT_ID": "JP0404-CUSA05163_00-MONTHLYTHEME0004",
+            "NAME": "Prinny - April",
+            "TITLE_ID": "CUSA05163"
+        },
+        {
+            "CONTENT_ID": "JP0404-CUSA05163_00-MONTHLYTHEME0008",
+            "NAME": "PRINNY - August",
+            "TITLE_ID": "CUSA05163"
+        },
+        {
+            "CONTENT_ID": "JP0404-CUSA05163_00-MONTHLYTHEME0012",
+            "NAME": "PRINNY - December",
+            "TITLE_ID": "CUSA05163"
+        },
+        {
+            "CONTENT_ID": "EP1063-CUSA16762_00-ETH0000000003257",
+            "NAME": "PRINNY - Halloween",
+            "TITLE_ID": "CUSA16762"
+        },
+        {
+            "CONTENT_ID": "EP1063-CUSA16762_00-ETH0000000003258",
+            "NAME": "PRINNY - Hot Potato",
+            "TITLE_ID": "CUSA16762"
+        },
+        {
+            "CONTENT_ID": "JP0404-CUSA05163_00-MONTHLYTHEME0007",
+            "NAME": "PRINNY - July",
+            "TITLE_ID": "CUSA05163"
+        },
+        {
+            "CONTENT_ID": "JP0404-CUSA05163_00-MONTHLYTHEME0006",
+            "NAME": "PRINNY - June",
+            "TITLE_ID": "CUSA05163"
+        },
+        {
+            "CONTENT_ID": "UP1063-CUSA15534_00-UTH0000000007830",
+            "NAME": "PRINNY - Late-to-Work",
+            "TITLE_ID": "CUSA15534"
+        },
+        {
+            "CONTENT_ID": "JP0404-CUSA05163_00-MONTHLYTHEME0005",
+            "NAME": "Prinny - May",
+            "TITLE_ID": "CUSA05163"
+        },
+        {
+            "CONTENT_ID": "UP1063-CUSA15534_00-UTH0000000007828",
+            "NAME": "PRINNY - Momotaro",
+            "TITLE_ID": "CUSA15534"
+        },
+        {
+            "CONTENT_ID": "UP1063-CUSA15534_00-UTH0000000007831",
+            "NAME": "PRINNY - Ninja",
+            "TITLE_ID": "CUSA15534"
+        },
+        {
+            "CONTENT_ID": "JP0404-CUSA05163_00-MONTHLYTHEME0011",
+            "NAME": "PRINNY - November",
+            "TITLE_ID": "CUSA05163"
+        },
+        {
+            "CONTENT_ID": "JP0404-CUSA05163_00-MONTHLYTHEME0010",
+            "NAME": "PRINNY - October",
+            "TITLE_ID": "CUSA05163"
+        },
+        {
+            "CONTENT_ID": "JP0404-CUSA05163_00-MONTHLYTHEME0009",
+            "NAME": "PRINNY - September",
+            "TITLE_ID": "CUSA05163"
+        },
+        {
+            "CONTENT_ID": "EP1063-CUSA16762_00-ETH0000000003256",
+            "NAME": "PRINNY - The Eight Dogs",
+            "TITLE_ID": "CUSA16762"
+        },
+        {
+            "CONTENT_ID": "UP1063-CUSA15534_00-UTH0000000007829",
+            "NAME": "PRINNY - Unagi",
+            "TITLE_ID": "CUSA15534"
+        },
+        {
+            "CONTENT_ID": "EP0700-CUSA04093_00-PCARS2POTHEME000",
+            "NAME": "Project CARS 2 - Official",
+            "TITLE_ID": "CUSA04093"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA01769_00-RAMPAGE0000000ES",
+            "NAME": "Proyecto Rampage",
+            "TITLE_ID": "CUSA01769"
+        },
+        {
+            "CONTENT_ID": "US0045-CUSA01751_00-UTH0000000007164",
+            "NAME": "PSN Anniversary",
+            "TITLE_ID": "CUSA01751"
+        },
+        {
+            "CONTENT_ID": "EP0177-CUSA14539_00-ETH0000000003346",
+            "NAME": "Puyo Puyo Champions",
+            "TITLE_ID": "CUSA14539"
+        },
+        {
+            "CONTENT_ID": "UP1219-CUSA04100_00-QURAREPS4THEME00",
+            "NAME": "Qurare Magic Library",
+            "TITLE_ID": "CUSA04100"
+        },
+        {
+            "CONTENT_ID": "UP3509-CUSA08507_00-UTH0000000007374",
+            "NAME": "RAID - World War 2",
+            "TITLE_ID": "CUSA08507"
+        },
+        {
+            "CONTENT_ID": "UP0001-CUSA01800_00-R6HALLOWEENTHEME",
+            "NAME": "Rainbow Six - Seige - Halloween",
+            "TITLE_ID": "CUSA01800"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA01047_00-RATCHETPS4THEME0",
+            "NAME": "Ratchet and Clank",
+            "TITLE_ID": "CUSA01047"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA01769_00-READYPLAYERONEES",
+            "NAME": "Ready Player One",
+            "TITLE_ID": "CUSA01769"
+        },
+        {
+            "CONTENT_ID": "UT0014-CUSA01474_00-CDCTHEMEA0000001",
+            "NAME": "Rectangular",
+            "TITLE_ID": "CUSA01474"
+        },
+        {
+            "CONTENT_ID": "EP1004-CUSA08519_00-ETH0000000002472",
+            "NAME": "Red Dead Redemption 2",
+            "TITLE_ID": "CUSA08519"
+        },
+        {
+            "CONTENT_ID": "JP0031-CUSA09906_00-ADDCONTENTDLC019",
+            "NAME": "Reservation Award Game Koibureuma Meal Scorpion",
+            "TITLE_ID": "CUSA09906"
+        },
+        {
+            "CONTENT_ID": "UP0964-CUSA03630_00-RESETERADYNAMIC0",
+            "NAME": "ResetEra - Dynamic",
+            "TITLE_ID": "CUSA03630"
+        },
+        {
+            "CONTENT_ID": "UP0102-CUSA00924_00-20THCUSTOMTHEME1",
+            "NAME": "Resident Evil - 20th Anniversary",
+            "TITLE_ID": "CUSA00924"
+        },
+        {
+            "CONTENT_ID": "EP0102-CUSA01815_00-BH0HDTHEME000001",
+            "NAME": "Resident Evil 0",
+            "TITLE_ID": "CUSA01815"
+        },
+        {
+            "CONTENT_ID": "EP0102-CUSA14123_00-THEME00000000001",
+            "NAME": "Resident Evil 3 - Special",
+            "TITLE_ID": "CUSA14123"
+        },
+        {
+            "CONTENT_ID": "EP0102-CUSA03842_00-BH700000THEME009",
+            "NAME": "Resident Evil 7 - Biohazard - Mia",
+            "TITLE_ID": "CUSA03842"
+        },
+        {
+            "CONTENT_ID": "UP0102-CUSA03962_00-BH700000THEME002",
+            "NAME": "Resident Evil 7 - Biohazard",
+            "TITLE_ID": "CUSA03962"
+        },
+        {
+            "CONTENT_ID": "EP0102-CUSA03842_00-BH700000THEME003",
+            "NAME": "Resident Evil 7 - Malevolence",
+            "TITLE_ID": "CUSA03842"
+        },
+        {
+            "CONTENT_ID": "JP9002-CUSA02565_00-PSVIDEO000017PS4",
+            "NAME": "Resident Evil Movie - The Final Delivery Memorial",
+            "TITLE_ID": "CUSA02565"
+        },
+        {
+            "CONTENT_ID": "EP0102-CUSA01067_00-ETH0000000000633",
+            "NAME": "Resident Evil",
+            "TITLE_ID": "CUSA01067"
+        },
+        {
+            "CONTENT_ID": "UP5203-CUSA13827_00-ROFTHEME00000000",
+            "NAME": "Resonance of Fate 4K-HD Edition - Original",
+            "TITLE_ID": "CUSA13827"
+        },
+        {
+            "CONTENT_ID": "EP0748-CUSA06338_00-REZINFINITETHEM2",
+            "NAME": "Rez Infinite - Area X - Dynamic",
+            "TITLE_ID": "CUSA06338"
+        },
+        {
+            "CONTENT_ID": "EP0748-CUSA06338_00-ETH0000000001636",
+            "NAME": "Rez Singularity - Dynamic",
+            "TITLE_ID": "CUSA06338"
+        },
+        {
+            "CONTENT_ID": "EP0149-CUSA09988_00-RICKMORTYVR00010",
+            "NAME": "Rick and Morty - Virtual Rick-ality - Dynamic",
+            "TITLE_ID": "CUSA09988"
+        },
+        {
+            "CONTENT_ID": "UP2346-CUSA05796_00-RIMEDYNTHEMENA01",
+            "NAME": "RiME - Dynamic",
+            "TITLE_ID": "CUSA05796"
+        },
+        {
+            "CONTENT_ID": "UP0964-CUSA03630_00-THERINGSOFSATURN",
+            "NAME": "Rings of Saturn - Dynamic",
+            "TITLE_ID": "CUSA03630"
+        },
+        {
+            "CONTENT_ID": "EP0290-CUSA16209_00-RISKOFRAIN2THEME",
+            "NAME": "Risk of Rain 2 - Dynamic",
+            "TITLE_ID": "CUSA16209"
+        },
+        {
+            "CONTENT_ID": "US0045-CUSA01751_00-UTH0000000000710",
+            "NAME": "Robot Chicken",
+            "TITLE_ID": "CUSA01751"
+        },
+        {
+            "CONTENT_ID": "UP8802-CUSA02084_00-UTH0000000007243",
+            "NAME": "Rock Band 4 - Rivals",
+            "TITLE_ID": "CUSA02084"
+        },
+        {
+            "CONTENT_ID": "UP2002-CUSA01163_00-RLTHEMEUS0000001",
+            "NAME": "Rocket League",
+            "TITLE_ID": "CUSA01163"
+        },
+        {
+            "CONTENT_ID": "JP0102-CUSA10711_00-RXAC1THEME000003",
+            "NAME": "Rockman X - Anniversary Collection - X Theme 1",
+            "TITLE_ID": "CUSA10711"
+        },
+        {
+            "CONTENT_ID": "JP0102-CUSA10712_00-RXAC2THEME000003",
+            "NAME": "Rockman X - Anniversary Collection - X Theme 2",
+            "TITLE_ID": "CUSA10712"
+        },
+        {
+            "CONTENT_ID": "EP0331-CUSA15138_00-ROCOPSPLUSTHEMEX",
+            "NAME": "Rogue Company",
+            "TITLE_ID": "CUSA15138"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA01769_00-ETH0000000000025",
+            "NAME": "Run All Night",
+            "TITLE_ID": "CUSA01769"
+        },
+        {
+            "CONTENT_ID": "EP2209-CUSA06754_00-ETH0000000000618",
+            "NAME": "RWBY Grimm Eclipse - Blake - Dynamic",
+            "TITLE_ID": "CUSA06754"
+        },
+        {
+            "CONTENT_ID": "UP2344-CUSA06435_00-UTH0000000007191",
+            "NAME": "RWBY Grimm Eclipse - RWBY Rose - Dynamic",
+            "TITLE_ID": "CUSA06435"
+        },
+        {
+            "CONTENT_ID": "UP0964-CUSA03630_00-SAKURASEASONS4FA",
+            "NAME": "Sakura Seasons Bloom - Autumn - Dynamic",
+            "TITLE_ID": "CUSA03630"
+        },
+        {
+            "CONTENT_ID": "UP0964-CUSA03630_00-SAKURASEASONS2HA",
+            "NAME": "Sakura Seasons Bloom - Hanami - Dynamic",
+            "TITLE_ID": "CUSA03630"
+        },
+        {
+            "CONTENT_ID": "UP0964-CUSA03630_00-SAKURASEASONS0NH",
+            "NAME": "Sakura Seasons Bloom - Northern Hemisphere - Dynamic",
+            "TITLE_ID": "CUSA03630"
+        },
+        {
+            "CONTENT_ID": "UP0964-CUSA03630_00-SAKURASEASONS0SH",
+            "NAME": "Sakura Seasons Bloom - Southern Hemisphere - Dynamic",
+            "TITLE_ID": "CUSA03630"
+        },
+        {
+            "CONTENT_ID": "UP0964-CUSA03630_00-SAKURASEASONS1SP",
+            "NAME": "Sakura Seasons Bloom - Spring - Dynamic",
+            "TITLE_ID": "CUSA03630"
+        },
+        {
+            "CONTENT_ID": "UP0964-CUSA03630_00-SAKURASEASONS3SU",
+            "NAME": "Sakura Seasons Bloom - Summer - Dynamic",
+            "TITLE_ID": "CUSA03630"
+        },
+        {
+            "CONTENT_ID": "UP0964-CUSA03630_00-SAKURASEASONS5WI",
+            "NAME": "Sakura Seasons Bloom - Winter - Dynamic",
+            "TITLE_ID": "CUSA03630"
+        },
+        {
+            "CONTENT_ID": "JP0576-CUSA12836_00-SAMUSHOTHEME0001",
+            "NAME": "Samurai Shodown - Newcomers - Dynamic",
+            "TITLE_ID": "CUSA12836"
+        },
+        {
+            "CONTENT_ID": "UP0576-CUSA08768_00-SSVSTHEME0000PS4",
+            "NAME": "Samurai Shodown V - Special",
+            "TITLE_ID": "CUSA08768"
+        },
+        {
+            "CONTENT_ID": "UP0576-CUSA03787_00-UTH0000000007221",
+            "NAME": "Samurai Shodown VI",
+            "TITLE_ID": "CUSA03787"
+        },
+        {
+            "CONTENT_ID": "UP0082-CUSA09565_00-PS4THEMENA000001",
+            "NAME": "Secret of Mana - Special",
+            "TITLE_ID": "CUSA09565"
+        },
+        {
+            "CONTENT_ID": "JP0082-CUSA09469_00-PS4WALLPAPER0001",
+            "NAME": "Secret Of Mana - Theme 1",
+            "TITLE_ID": "CUSA09469"
+        },
+        {
+            "CONTENT_ID": "JP0082-CUSA09469_00-PS4WALLPAPER0002",
+            "NAME": "Secret Of Mana - Theme 2",
+            "TITLE_ID": "CUSA09469"
+        },
+        {
+            "CONTENT_ID": "EP0002-CUSA13801_00-SEKIROTHEME00001",
+            "NAME": "Sekiro - Shadows Die Twice - Dynamic",
+            "TITLE_ID": "CUSA13801"
+        },
+        {
+            "CONTENT_ID": "EP0002-CUSA13801_00-SEKIROTHEME00002",
+            "NAME": "Sekiro - Shadows Die Twice - Hirata Estate - Dynamic",
+            "TITLE_ID": "CUSA13801"
+        },
+        {
+            "CONTENT_ID": "EP0002-CUSA13801_00-SEKIROTHEME00003",
+            "NAME": "Sekiro - Shadows Die Twice - Launch - Dynamic",
+            "TITLE_ID": "CUSA13801"
+        },
+        {
+            "CONTENT_ID": "JP0741-CUSA09647_00-SENNMOMOTHEME001",
+            "NAME": "Sen no Hatou Princess of Momoka Dye",
+            "TITLE_ID": "CUSA09647"
+        },
+        {
+            "CONTENT_ID": "JP0425-CUSA12230_00-SEN4THEMEDENGEKI",
+            "NAME": "SEN NO KISEKI - Magazine Vol. 4 - Dengeki",
+            "TITLE_ID": "CUSA12230"
+        },
+        {
+            "CONTENT_ID": "HP0425-CUSA11909_00-SEN3THEMEDPE0002",
+            "NAME": "SEN NO KISEKI III - Original - DPE",
+            "TITLE_ID": "CUSA11909"
+        },
+        {
+            "CONTENT_ID": "JP0507-CUSA06333_00-PS4THEMEMENSKAGU",
+            "NAME": "Senran Kagura - Akatsuki Boys - Special",
+            "TITLE_ID": "CUSA06333"
+        },
+        {
+            "CONTENT_ID": "JP0507-CUSA06333_00-PS4THEMEHUTOMAKI",
+            "NAME": "Senran Kagura - Asuka - Futomaki",
+            "TITLE_ID": "CUSA06333"
+        },
+        {
+            "CONTENT_ID": "JP0507-CUSA06333_00-PS4THEMEURAURANI",
+            "NAME": "Senran Kagura - Burst Re Newal - Gentle Spring Day",
+            "TITLE_ID": "CUSA06333"
+        },
+        {
+            "CONTENT_ID": "JP0507-CUSA09269_00-PS4THEMEDJDDPD39",
+            "NAME": "Senran Kagura - Burst Re Newal - Welcome Pai Caratto",
+            "TITLE_ID": "CUSA09269"
+        },
+        {
+            "CONTENT_ID": "JP0507-CUSA06333_00-PS4T0KAKUSEIHENO",
+            "NAME": "Senran Kagura - Crimson",
+            "TITLE_ID": "CUSA06333"
+        },
+        {
+            "CONTENT_ID": "JP0507-CUSA06025_00-00000PS4THEME002",
+            "NAME": "Senran Kagura - Deca Prime Cooking Battle",
+            "TITLE_ID": "CUSA06025"
+        },
+        {
+            "CONTENT_ID": "EP4492-CUSA03464_00-PS4THEME00000002",
+            "NAME": "Senran Kagura - Estival Versus - Estival Versus",
+            "TITLE_ID": "CUSA03464"
+        },
+        {
+            "CONTENT_ID": "EP4492-CUSA03464_00-PS4THEME00000003",
+            "NAME": "Senran Kagura - Estival Versus - Nyuu Nyuu",
+            "TITLE_ID": "CUSA03464"
+        },
+        {
+            "CONTENT_ID": "EP4492-CUSA03464_00-PS4THEME00000001",
+            "NAME": "Senran Kagura - Estival Versus - Sakura",
+            "TITLE_ID": "CUSA03464"
+        },
+        {
+            "CONTENT_ID": "JP0507-CUSA06333_00-PS4THEMEHALLOWEE",
+            "NAME": "Senran Kagura - Four Seasons Special - Happy Halloween",
+            "TITLE_ID": "CUSA06333"
+        },
+        {
+            "CONTENT_ID": "JP0507-CUSA06333_00-PS4THEME0NEWYEAR",
+            "NAME": "Senran Kagura - Happy New Year - Special",
+            "TITLE_ID": "CUSA06333"
+        },
+        {
+            "CONTENT_ID": "JP0507-CUSA06333_00-PS4THEMEFLOURBAT",
+            "NAME": "Senran Kagura - Haruka - Flower Bath",
+            "TITLE_ID": "CUSA06333"
+        },
+        {
+            "CONTENT_ID": "JP0507-CUSA06333_00-PS4THEMEROTENBAT",
+            "NAME": "Senran Kagura - Ikaruga - Open-Air Bath",
+            "TITLE_ID": "CUSA06333"
+        },
+        {
+            "CONTENT_ID": "JP0507-CUSA06333_00-PS4THEME19GRADUA",
+            "NAME": "Senran Kagura - Mirai - Graduation Ceremony",
+            "TITLE_ID": "CUSA06333"
+        },
+        {
+            "CONTENT_ID": "JP0507-CUSA06071_00-PS4THEMEPBSSPECI",
+            "NAME": "Senran Kagura - PBS - Special",
+            "TITLE_ID": "CUSA06071"
+        },
+        {
+            "CONTENT_ID": "JP0507-CUSA06333_00-PS4THEMEE3SPECI2",
+            "NAME": "Senran Kagura - Peach Beach Splash - E3 Special",
+            "TITLE_ID": "CUSA06333"
+        },
+        {
+            "CONTENT_ID": "JP0507-CUSA06071_00-PS4THEMEVENUSSUN",
+            "NAME": "Senran Kagura - Peach Beach Splash - Venus Sunshine",
+            "TITLE_ID": "CUSA06071"
+        },
+        {
+            "CONTENT_ID": "JP0507-CUSA06333_00-PS4THEMESAKAAGAR",
+            "NAME": "Senran Kagura - Purple Spirit",
+            "TITLE_ID": "CUSA06333"
+        },
+        {
+            "CONTENT_ID": "JP0507-CUSA06333_00-PS4THEME0RUNNING",
+            "NAME": "Senran Kagura - Renka - Running",
+            "TITLE_ID": "CUSA06333"
+        },
+        {
+            "CONTENT_ID": "JP0507-CUSA06333_00-PS4THEMEPOOLOPEN",
+            "NAME": "Senran Kagura - Ryobi - Pool Opening",
+            "TITLE_ID": "CUSA06333"
+        },
+        {
+            "CONTENT_ID": "JP0507-CUSA06333_00-PS4THEMECHRISTMA",
+            "NAME": "Senran Kagura - Yagyu - Christmas",
+            "TITLE_ID": "CUSA06333"
+        },
+        {
+            "CONTENT_ID": "UT0007-CUSA00129_00-SENSE8DYNTHEME01",
+            "NAME": "sense8 - Dynamic",
+            "TITLE_ID": "CUSA00129"
+        },
+        {
+            "CONTENT_ID": "UP4395-CUSA08171_00-SCLEANERTHEME0US",
+            "NAME": "Serial Cleaner - Dynamic",
+            "TITLE_ID": "CUSA08171"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA00951_00-SOTBDYNAMTHEMEU1",
+            "NAME": "Shadow of the Beast - Roger Dean - Dynamic",
+            "TITLE_ID": "CUSA00951"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA08034_00-0000SOTCPSXTHEME",
+            "NAME": "Shadow of The Colossus - PSX Theme",
+            "TITLE_ID": "CUSA08034"
+        },
+        {
+            "CONTENT_ID": "JP9000-CUSA06648_00-0000000000THEME5",
+            "NAME": "Shadow of the Colossus - Wanda - Dynamic",
+            "TITLE_ID": "CUSA06648"
+        },
+        {
+            "CONTENT_ID": "UP0082-CUSA10938_00-ETH0000000002008",
+            "NAME": "Shadow of the Tomb Raider",
+            "TITLE_ID": "CUSA10938"
+        },
+        {
+            "CONTENT_ID": "UP1018-CUSA04408_00-UTH0000000007246",
+            "NAME": "Shadow of War",
+            "TITLE_ID": "CUSA04408"
+        },
+        {
+            "CONTENT_ID": "UP0964-CUSA03630_00-THESHADOWSOFMARS",
+            "NAME": "Shadows of Mars - Dynamic",
+            "TITLE_ID": "CUSA03630"
+        },
+        {
+            "CONTENT_ID": "UP0177-CUSA13215_00-UTH0000000007474",
+            "NAME": "Shenmue I & II - Dynamic",
+            "TITLE_ID": "CUSA13215"
+        },
+        {
+            "CONTENT_ID": "UP0964-CUSA03630_00-UTH0000000000709",
+            "NAME": "Shinjuku Bokeh Abstract - Dynamic",
+            "TITLE_ID": "CUSA03630"
+        },
+        {
+            "CONTENT_ID": "JP0700-CUSA08782_00-NTBSSTHEME000001",
+            "NAME": "Shinobi Striker - Theme 1",
+            "TITLE_ID": "CUSA08782"
+        },
+        {
+            "CONTENT_ID": "JP0700-CUSA08782_00-NTBSSTHEME000002",
+            "NAME": "Shinobi Striker - Theme 2",
+            "TITLE_ID": "CUSA08782"
+        },
+        {
+            "CONTENT_ID": "UP2985-CUSA09588_00-UTH0000000007384",
+            "NAME": "Shooty Fruity - Luscious Lemon",
+            "TITLE_ID": "CUSA09588"
+        },
+        {
+            "CONTENT_ID": "UP2985-CUSA09588_00-UTH0000000007385",
+            "NAME": "Shooty Fruity - Melon Mayhem",
+            "TITLE_ID": "CUSA09588"
+        },
+        {
+            "CONTENT_ID": "UP2293-CUSA11587_00-SRTHEME000000001",
+            "NAME": "Slime Rancher - Dynamic",
+            "TITLE_ID": "CUSA11587"
+        },
+        {
+            "CONTENT_ID": "UP0334-CUSA02328_00-SMITETHEME1XXXXX",
+            "NAME": "SMITE",
+            "TITLE_ID": "CUSA02328"
+        },
+        {
+            "CONTENT_ID": "UP0002-CUSA02564_00-SNOOPYGRANDTHEME",
+            "NAME": "Snoopy's Grand Adventure",
+            "TITLE_ID": "CUSA02564"
+        },
+        {
+            "CONTENT_ID": "EP8070-CUSA17632_00-ETH0000000003730",
+            "NAME": "Snow Man - Winter",
+            "TITLE_ID": "CUSA17632"
+        },
+        {
+            "CONTENT_ID": "UP0964-CUSA03630_00-SOLACEDYNAMICTHM",
+            "NAME": "Solace - Dynamic",
+            "TITLE_ID": "CUSA03630"
+        },
+        {
+            "CONTENT_ID": "UP4415-CUSA05851_00-UTH0000000007395",
+            "NAME": "Songbringer",
+            "TITLE_ID": "CUSA05851"
+        },
+        {
+            "CONTENT_ID": "UP0177-CUSA07023_00-UTH0000000007303",
+            "NAME": "Sonic Mania - Heroes",
+            "TITLE_ID": "CUSA07023"
+        },
+        {
+            "CONTENT_ID": "UP0177-CUSA07023_00-UTH0000000007305",
+            "NAME": "Sonic Mania - Rolling Landscapes",
+            "TITLE_ID": "CUSA07023"
+        },
+        {
+            "CONTENT_ID": "UP0177-CUSA07023_00-UTH0000000007304",
+            "NAME": "Sonic Mania - Villains",
+            "TITLE_ID": "CUSA07023"
+        },
+        {
+            "CONTENT_ID": "EP8943-CUSA06594_00-DP3DSOURCECDC18D",
+            "NAME": "Source Code Crypto - Slide N' Go",
+            "TITLE_ID": "CUSA06594"
+        },
+        {
+            "CONTENT_ID": "UP4396-CUSA04449_00-DYNAMICTHEME0152",
+            "NAME": "Space Station One",
+            "TITLE_ID": "CUSA04449"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA01769_00-ETH0000000000232",
+            "NAME": "Spectre",
+            "TITLE_ID": "CUSA01769"
+        },
+        {
+            "CONTENT_ID": "JP9002-CUSA02565_00-SPIDERVERSE00001",
+            "NAME": "Spider-Man - Into the Spider-Verse - Original - 01",
+            "TITLE_ID": "CUSA02565"
+        },
+        {
+            "CONTENT_ID": "JP9002-CUSA02565_00-SPIDERVERSE00002",
+            "NAME": "Spider-Man - Into the Spider-Verse - Original - 02",
+            "TITLE_ID": "CUSA02565"
+        },
+        {
+            "CONTENT_ID": "UT0014-CUSA01476_00-CDCTHEMEA0000003",
+            "NAME": "Spiral",
+            "TITLE_ID": "CUSA01476"
+        },
+        {
+            "CONTENT_ID": "UP3899-CUSA13411_00-SOTNTHEMESPIRITW",
+            "NAME": "Spirit of the North",
+            "TITLE_ID": "CUSA13411"
+        },
+        {
+            "CONTENT_ID": "UP2292-CUSA09777_00-SV1THEME00000001",
+            "NAME": "Sprint Vector",
+            "TITLE_ID": "CUSA09777"
+        },
+        {
+            "CONTENT_ID": "UP0002-CUSA12125_00-SPYROTRILOGYTHM5",
+            "NAME": "Spyro Reignited Trilogy - Artisans Meadows",
+            "TITLE_ID": "CUSA12125"
+        },
+        {
+            "CONTENT_ID": "UP0002-CUSA12125_00-SPYROTRILOGYTHM6",
+            "NAME": "Spyro Reignited Trilogy - Fiery Return",
+            "TITLE_ID": "CUSA12125"
+        },
+        {
+            "CONTENT_ID": "UP0002-CUSA12125_00-SPYROTRILOGYTHM2",
+            "NAME": "Spyro Reignited Trilogy - Hero",
+            "TITLE_ID": "CUSA12125"
+        },
+        {
+            "CONTENT_ID": "UP0002-CUSA12125_00-SPYROTRILOGYTHM3",
+            "NAME": "Spyro Reignited Trilogy - Idol Springs",
+            "TITLE_ID": "CUSA12125"
+        },
+        {
+            "CONTENT_ID": "UP0002-CUSA12125_00-SPYROTRILOGYTHM1",
+            "NAME": "Spyro Reignited Trilogy - Pre-Order",
+            "TITLE_ID": "CUSA12125"
+        },
+        {
+            "CONTENT_ID": "UP0002-CUSA12125_00-SPYROTRILOGYTHM4",
+            "NAME": "Spyro Reignited Trilogy - Ride With Spyro",
+            "TITLE_ID": "CUSA12125"
+        },
+        {
+            "CONTENT_ID": "JP9002-CUSA01666_00-SQEXMUSICTHEME02",
+            "NAME": "Square Enix Music - Akari - Dynamic",
+            "TITLE_ID": "CUSA01666"
+        },
+        {
+            "CONTENT_ID": "JP9002-CUSA01666_00-SQEXMUSICTHEME01",
+            "NAME": "Square Enix Music - Shizuka - Dynamic",
+            "TITLE_ID": "CUSA01666"
+        },
+        {
+            "CONTENT_ID": "UP0082-CUSA03246_00-STAROCEANIAFTHEM",
+            "NAME": "Star Ocean - Integrity and Faithlessness - Dynamic",
+            "TITLE_ID": "CUSA03246"
+        },
+        {
+            "CONTENT_ID": "EP1965-CUSA05744_00-STOTHEMES1600000",
+            "NAME": "Star Trek Online - Mirror Universe",
+            "TITLE_ID": "CUSA05744"
+        },
+        {
+            "CONTENT_ID": "UP1980-CUSA05752_00-RISEOFDISCTHEME0",
+            "NAME": "Star Trek Online - Rise of Discovery",
+            "TITLE_ID": "CUSA05752"
+        },
+        {
+            "CONTENT_ID": "UP1032-CUSA17811_00-UTH0000000007930",
+            "NAME": "Star Wars - Jedi Knight - Jedi Academy - Dynamic",
+            "TITLE_ID": "CUSA17811"
+        },
+        {
+            "CONTENT_ID": "US0045-CUSA01751_00-UTH0000000000015",
+            "NAME": "Star Wars - The Digital Movie Collection - Millenium Falcon",
+            "TITLE_ID": "CUSA01751"
+        },
+        {
+            "CONTENT_ID": "UP0006-CUSA05770_00-THEME03000000000",
+            "NAME": "Star Wars Battlefront 2 - Iden",
+            "TITLE_ID": "CUSA05770"
+        },
+        {
+            "CONTENT_ID": "UP0006-CUSA05770_00-THEME02000000000",
+            "NAME": "Star Wars Battlefront 2",
+            "TITLE_ID": "CUSA05770"
+        },
+        {
+            "CONTENT_ID": "JP9002-CUSA01666_00-STARSHIPTROOPER1",
+            "NAME": "Starship Troopers - Theme 01",
+            "TITLE_ID": "CUSA01666"
+        },
+        {
+            "CONTENT_ID": "JP9002-CUSA01666_00-STARSHIPTROOPER2",
+            "NAME": "Starship Troopers - Theme 02",
+            "TITLE_ID": "CUSA01666"
+        },
+        {
+            "CONTENT_ID": "EP0001-CUSA05526_00-ETH0000000000539",
+            "NAME": "Steep",
+            "TITLE_ID": "CUSA05526"
+        },
+        {
+            "CONTENT_ID": "EP4350-CUSA00127_00-ETH0000000003166",
+            "NAME": "Stranger Things 3",
+            "TITLE_ID": "CUSA00127"
+        },
+        {
+            "CONTENT_ID": "EP0102-CUSA01222_00-SFVSSNPASS2018TH",
+            "NAME": "Street Fighter V - Character Pass 2018",
+            "TITLE_ID": "CUSA01222"
+        },
+        {
+            "CONTENT_ID": "EP0102-CUSA01222_00-SFVPSNPREORDERTH",
+            "NAME": "Street Fighter V - Pre-Order",
+            "TITLE_ID": "CUSA01222"
+        },
+        {
+            "CONTENT_ID": "EP0102-CUSA01222_00-SFVSSNPASS2016TH",
+            "NAME": "Street Fighter V - Season Pass 2016",
+            "TITLE_ID": "CUSA01222"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA01501_00-ETH0000000000276",
+            "NAME": "Street Fighter V",
+            "TITLE_ID": "CUSA01501"
+        },
+        {
+            "CONTENT_ID": "UP5245-CUSA13529_00-SUBDYNAMICTHEME1",
+            "NAME": "Subnautica - Dynamic",
+            "TITLE_ID": "CUSA13529"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA01769_00-ETH0000000000549",
+            "NAME": "Suicide Squad",
+            "TITLE_ID": "CUSA01769"
+        },
+        {
+            "CONTENT_ID": "UP2204-CUSA01955_00-SUNSETCITYTHEME0",
+            "NAME": "Sunset City",
+            "TITLE_ID": "CUSA01955"
+        },
+        {
+            "CONTENT_ID": "EP0177-CUSA16182_00-ETH0000000003231",
+            "NAME": "Super Monkey Ball - Banana Blitz HD",
+            "TITLE_ID": "CUSA16182"
+        },
+        {
+            "CONTENT_ID": "UP0031-CUSA12059_00-THEME00000000001",
+            "NAME": "Super Neptunia RPG - Dynamic",
+            "TITLE_ID": "CUSA12059"
+        },
+        {
+            "CONTENT_ID": "UP3686-CUSA15030_00-UTH0000000007543",
+            "NAME": "Super Skelemania",
+            "TITLE_ID": "CUSA15030"
+        },
+        {
+            "CONTENT_ID": "JP0700-CUSA17352_00-TH00000000000007",
+            "NAME": "Sword Art Online - 10th Anniversary & Aricization Lycoris Release Commemoration",
+            "TITLE_ID": "CUSA17352"
+        },
+        {
+            "CONTENT_ID": "EP0700-CUSA18228_00-TH00000000000008",
+            "NAME": "Sword Art Online - Alicization Lycoris - Dynamic",
+            "TITLE_ID": "CUSA18228"
+        },
+        {
+            "CONTENT_ID": "UP0700-CUSA10093_00-TH00000000000005",
+            "NAME": "Sword Art Online - Fatal Bullet Complete Edition - Dynamic",
+            "TITLE_ID": "CUSA10093"
+        },
+        {
+            "CONTENT_ID": "JP9002-CUSA01666_00-PLUSTHEMESAO1712",
+            "NAME": "Sword Art Online - Ordinal Scale - Delivery Memorial",
+            "TITLE_ID": "CUSA01666"
+        },
+        {
+            "CONTENT_ID": "JP9002-CUSA01666_00-SWORDARTMOVIE001",
+            "NAME": "Sword Art Online - Ordinal Scale",
+            "TITLE_ID": "CUSA01666"
+        },
+        {
+            "CONTENT_ID": "JP0700-CUSA08969_00-TH00000000000006",
+            "NAME": "Sword Art Online x Dengeki Comics Collaboration - Original",
+            "TITLE_ID": "CUSA08969"
+        },
+        {
+            "CONTENT_ID": "EP4295-CUSA05545_00-ETH0000000000575",
+            "NAME": "Syberia 3 - Dynamic",
+            "TITLE_ID": "CUSA05545"
+        },
+        {
+            "CONTENT_ID": "UT0016-CUSA06833_00-LIVEREWARDSCDTLR",
+            "NAME": "Symbols In the Sky - Quest Rewards",
+            "TITLE_ID": "CUSA06833"
+        },
+        {
+            "CONTENT_ID": "UT0016-CUSA06833_00-SYMBOLSTARSTHEME",
+            "NAME": "Symbols in the Stars - Dynamic",
+            "TITLE_ID": "CUSA06833"
+        },
+        {
+            "CONTENT_ID": "UP0964-CUSA03630_00-SYNTHWAVESIDEA02",
+            "NAME": "Synthwave - A-Side - Canyon Run - Dynamic",
+            "TITLE_ID": "CUSA03630"
+        },
+        {
+            "CONTENT_ID": "UP0964-CUSA03630_00-SYNTHWAVESIDEA00",
+            "NAME": "Synthwave - A-Side - Dynamic",
+            "TITLE_ID": "CUSA03630"
+        },
+        {
+            "CONTENT_ID": "UP0964-CUSA03630_00-SYNTHWAVESIDEA04",
+            "NAME": "Synthwave - A-Side - Grid - Dynamic",
+            "TITLE_ID": "CUSA03630"
+        },
+        {
+            "CONTENT_ID": "UP0964-CUSA03630_00-SYNTHWAVESIDEA05",
+            "NAME": "Synthwave - A-Side - Rubicon - Dynamic",
+            "TITLE_ID": "CUSA03630"
+        },
+        {
+            "CONTENT_ID": "UP0964-CUSA03630_00-SYNTHWAVESIDEA01",
+            "NAME": "Synthwave - A-Side - Waves - Dynamic",
+            "TITLE_ID": "CUSA03630"
+        },
+        {
+            "CONTENT_ID": "UP0964-CUSA03630_00-SYNTHWAVESIDEA03",
+            "NAME": "Synthwave - A-Side - Wormhole - Dynamic",
+            "TITLE_ID": "CUSA03630"
+        },
+        {
+            "CONTENT_ID": "UP0964-CUSA03630_00-SYNTHWAVESIDEB00",
+            "NAME": "Synthwave - B-Side - Dynamic",
+            "TITLE_ID": "CUSA03630"
+        },
+        {
+            "CONTENT_ID": "UP0964-CUSA03630_00-SYNTHWAVESIDEB05",
+            "NAME": "Synthwave - B-Side - Highway - Dynamic",
+            "TITLE_ID": "CUSA03630"
+        },
+        {
+            "CONTENT_ID": "UP0964-CUSA03630_00-SYNTHWAVESIDEB01",
+            "NAME": "Synthwave - B-Side - Metropolis - Dynamic",
+            "TITLE_ID": "CUSA03630"
+        },
+        {
+            "CONTENT_ID": "UP0964-CUSA03630_00-SYNTHWAVESIDEB04",
+            "NAME": "Synthwave - B-Side - Mindscape - Dynamic",
+            "TITLE_ID": "CUSA03630"
+        },
+        {
+            "CONTENT_ID": "UP0964-CUSA03630_00-SYNTHWAVESIDEB03",
+            "NAME": "Synthwave - B-Side - River - Dynamic",
+            "TITLE_ID": "CUSA03630"
+        },
+        {
+            "CONTENT_ID": "UP0964-CUSA03630_00-SYNTHWAVESIDEB02",
+            "NAME": "Synthwave - B-Side - Star Child - Dynamic",
+            "TITLE_ID": "CUSA03630"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA01501_00-ETH0000000000095",
+            "NAME": "Tales From Utopia",
+            "TITLE_ID": "CUSA01501"
+        },
+        {
+            "CONTENT_ID": "UP0700-CUSA05258_00-PS4TOBTHM0000007",
+            "NAME": "Tales of Berseria - Complete Cast",
+            "TITLE_ID": "CUSA05258"
+        },
+        {
+            "CONTENT_ID": "UP0700-CUSA05258_00-PS4TOBTHM0000006",
+            "NAME": "Tales of Berseria - Eizen",
+            "TITLE_ID": "CUSA05258"
+        },
+        {
+            "CONTENT_ID": "UP0700-CUSA05258_00-PS4TOBTHM0000004",
+            "NAME": "Tales of Berseria - Eleanor",
+            "TITLE_ID": "CUSA05258"
+        },
+        {
+            "CONTENT_ID": "UP0700-CUSA05258_00-PS4TOBTHM0000000",
+            "NAME": "Tales of Berseria - In-Game Menu",
+            "TITLE_ID": "CUSA05258"
+        },
+        {
+            "CONTENT_ID": "UP0700-CUSA05258_00-PS4TOBTHM0000002",
+            "NAME": "Tales of Berseria - Laphicet",
+            "TITLE_ID": "CUSA05258"
+        },
+        {
+            "CONTENT_ID": "UP0700-CUSA05258_00-PS4TOBTHM0000005",
+            "NAME": "Tales of Berseria - Magilou",
+            "TITLE_ID": "CUSA05258"
+        },
+        {
+            "CONTENT_ID": "UP0700-CUSA05258_00-PS4TOBTHM0000003",
+            "NAME": "Tales of Berseria - Rokurou",
+            "TITLE_ID": "CUSA05258"
+        },
+        {
+            "CONTENT_ID": "UP0700-CUSA05258_00-PS4TOBTHM0000001",
+            "NAME": "Tales of Berseria - Velvet",
+            "TITLE_ID": "CUSA05258"
+        },
+        {
+            "CONTENT_ID": "UP0700-CUSA02510_00-0TOZ20THTHEMEPS4",
+            "NAME": "Tales of Phantasia - 20th Anniversary",
+            "TITLE_ID": "CUSA02510"
+        },
+        {
+            "CONTENT_ID": "UP0700-CUSA02510_00-00TOZPSNTHEMEPS4",
+            "NAME": "Tales of Zestiria - Pre-Order",
+            "TITLE_ID": "CUSA02510"
+        },
+        {
+            "CONTENT_ID": "EP0700-CUSA02461_00-ETH0000000000100",
+            "NAME": "Tales of Zestiria",
+            "TITLE_ID": "CUSA02461"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA01607_00-TEARUNFOLDTHEME0",
+            "NAME": "Tearaway Unfolded - The Gopher Show - Dynamic",
+            "TITLE_ID": "CUSA01607"
+        },
+        {
+            "CONTENT_ID": "UP4396-CUSA04449_00-DYNAMICTHEME0107",
+            "NAME": "Tears of the Rose",
+            "TITLE_ID": "CUSA04449"
+        },
+        {
+            "CONTENT_ID": "UP0002-CUSA01843_00-TMNTMIMPREORDTHM",
+            "NAME": "Teenage Mutant Ninja Turtles - Mutants in Manhattan",
+            "TITLE_ID": "CUSA01843"
+        },
+        {
+            "CONTENT_ID": "EP0700-CUSA06014_00-PS4TK7THEME00003",
+            "NAME": "Tekken 7 - Original - Alisa",
+            "TITLE_ID": "CUSA06014"
+        },
+        {
+            "CONTENT_ID": "EP0700-CUSA06014_00-PS4TK7THEME00006",
+            "NAME": "Tekken 7 - Original - Over 3 Million",
+            "TITLE_ID": "CUSA06014"
+        },
+        {
+            "CONTENT_ID": "EP0700-CUSA06014_00-T7FREETHEME00001",
+            "NAME": "TEKKEN 7",
+            "TITLE_ID": "CUSA06014"
+        },
+        {
+            "CONTENT_ID": "EP4918-CUSA15739_00-ETH0000000003221",
+            "NAME": "Telefrag VR - Static",
+            "TITLE_ID": "CUSA15739"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA01769_00-ETH0000000000089",
+            "NAME": "Tembo - The Badass Elephant",
+            "TITLE_ID": "CUSA01769"
+        },
+        {
+            "CONTENT_ID": "UP2492-CUSA06412_00-UTH0000000007564",
+            "NAME": "TERA - Anniversary",
+            "TITLE_ID": "CUSA06412"
+        },
+        {
+            "CONTENT_ID": "UP0751-CUSA13594_00-TETRISEFFECTDYN2",
+            "NAME": "Tetris Effect - Metamorphosis - Dynamic",
+            "TITLE_ID": "CUSA13594"
+        },
+        {
+            "CONTENT_ID": "UP0751-CUSA13594_00-TETRISEFFECTDYN1",
+            "NAME": "Tetris Effect - Yours Forever - Dynamic",
+            "TITLE_ID": "CUSA13594"
+        },
+        {
+            "CONTENT_ID": "JP0536-CUSA08508_00-CALIGULAODTHE104",
+            "NAME": "The Caligula Effect - Overdose - Sadistic Queen",
+            "TITLE_ID": "CUSA08508"
+        },
+        {
+            "CONTENT_ID": "EP0700-CUSA14102_00-TDPMOMPS4TH00001",
+            "NAME": "The Dark Pictures - Man of Medan",
+            "TITLE_ID": "CUSA14102"
+        },
+        {
+            "CONTENT_ID": "UP1003-CUSA00132_00-TESOSTATICTHEME1",
+            "NAME": "The Elder Scrolls Online",
+            "TITLE_ID": "CUSA00132"
+        },
+        {
+            "CONTENT_ID": "UP1003-CUSA06166_00-UTH0000000007294",
+            "NAME": "The Evil Within 2 - Dynamic",
+            "TITLE_ID": "CUSA06166"
+        },
+        {
+            "CONTENT_ID": "UP4395-CUSA07205_00-UTH0000000007236",
+            "NAME": "The Flame in the Flood - Dynamic",
+            "TITLE_ID": "CUSA07205"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA01769_00-HOBBIT2014STTHES",
+            "NAME": "The Hobbit - The Battle of the Five Armies",
+            "TITLE_ID": "CUSA01769"
+        },
+        {
+            "CONTENT_ID": "JP0746-CUSA16039_00-FATAMORGANATHEME",
+            "NAME": "The House in Fata Morgana - Dreams of the Revenants Edition",
+            "TITLE_ID": "CUSA16039"
+        },
+        {
+            "CONTENT_ID": "JP9000-CUSA09681_00-TIDYNAMICTHEME01",
+            "NAME": "The Inpatient",
+            "TITLE_ID": "CUSA09681"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA03745_00-CUSTOMTHEMEEU001",
+            "NAME": "The Last Guardian - The Boy and Trico",
+            "TITLE_ID": "CUSA03745"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA03627_00-CUSTOMTHEMEUS000",
+            "NAME": "The Last Guardian",
+            "TITLE_ID": "CUSA03627"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA00552_00-OUTBREAKDAYTHEME",
+            "NAME": "The Last of Us - Outbreak Day - Dynamic",
+            "TITLE_ID": "CUSA00552"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA10249_00-TLOUIIBURNINGCAR",
+            "NAME": "The Last of Us Part 2 - Burning Car",
+            "TITLE_ID": "CUSA10249"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA07820_00-TLOUPART2DUALITY",
+            "NAME": "The Last of Us Part 2 - Duality - Dynamic",
+            "TITLE_ID": "CUSA07820"
+        },
+        {
+            "CONTENT_ID": "JP9000-CUSA13986_00-TLOUPIIOUTBREAK1",
+            "NAME": "The Last of Us Part 2 - Ellie",
+            "TITLE_ID": "CUSA13986"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA10249_00-TLOU2OUTBREAKD19",
+            "NAME": "The Last of Us Part 2 - Grunge",
+            "TITLE_ID": "CUSA10249"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA10249_00-TLOUPIISTOPSIGN1",
+            "NAME": "The Last of Us Part 2 - Stop Sign",
+            "TITLE_ID": "CUSA10249"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA07820_00-TLOUIIBEACHTHEME",
+            "NAME": "The Last of US Part II - Beach Theme",
+            "TITLE_ID": "CUSA07820"
+        },
+        {
+            "CONTENT_ID": "JP9000-CUSA13986_00-TLOUPIIOUTBREAK1",
+            "NAME": "The Last of Us Part II - Ellie - Dynamic",
+            "TITLE_ID": "CUSA13986"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA07820_00-TLOUPARTIITHEME1",
+            "NAME": "The Last of Us Part II - Premium Dynamic",
+            "TITLE_ID": "CUSA07820"
+        },
+        {
+            "CONTENT_ID": "EP1063-CUSA13198_00-LIARPRINCESSTHME",
+            "NAME": "The Liar Princess and the Blind Prince",
+            "TITLE_ID": "CUSA13198"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA00670_00-TO1886GAMETHEME2",
+            "NAME": "The Order 1886 - Airship",
+            "TITLE_ID": "CUSA00670"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA00785_00-TO1886GAMETHEME1",
+            "NAME": "The Order 1886 - Dynamic",
+            "TITLE_ID": "CUSA00785"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA00785_00-TO1886GAMETHEME4",
+            "NAME": "The Order 1886 - Mayfair",
+            "TITLE_ID": "CUSA00785"
+        },
+        {
+            "CONTENT_ID": "EP0082-CUSA11736_00-TQMTHEME00000000",
+            "NAME": "The Quiet Man - Dynamic",
+            "TITLE_ID": "CUSA11736"
+        },
+        {
+            "CONTENT_ID": "EP0006-CUSA09216_00-THESIMS4THEME002",
+            "NAME": "The Sims 4 - City Living",
+            "TITLE_ID": "CUSA09216"
+        },
+        {
+            "CONTENT_ID": "EP0006-CUSA09216_00-THESIMS4THEME004",
+            "NAME": "The Sims 4 - Get To Work",
+            "TITLE_ID": "CUSA09216"
+        },
+        {
+            "CONTENT_ID": "EP0006-CUSA09216_00-THESIMS4THEME003",
+            "NAME": "The Sims 4 - Get Together",
+            "TITLE_ID": "CUSA09216"
+        },
+        {
+            "CONTENT_ID": "JP9000-CUSA06648_00-0000000000THEME5",
+            "NAME": "The Theme Of Wanda and The Colossus Movie",
+            "TITLE_ID": "CUSA06648"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA01361_00-TTCTHEME00000001",
+            "NAME": "The Tomorrow Children - Theme 1",
+            "TITLE_ID": "CUSA01361"
+        },
+        {
+            "CONTENT_ID": "JP9000-CUSA00108_00-TTCTHEME00000002",
+            "NAME": "The Tomorrow Children - Theme 2",
+            "TITLE_ID": "CUSA00108"
+        },
+        {
+            "CONTENT_ID": "UP4382-CUSA07084_00-UTH0000000007295",
+            "NAME": "The Town of Light",
+            "TITLE_ID": "CUSA07084"
+        },
+        {
+            "CONTENT_ID": "UP4235-CUSA02906_00-UTH0000000000071",
+            "NAME": "The Treasures of Montezuma 4",
+            "TITLE_ID": "CUSA02906"
+        },
+        {
+            "CONTENT_ID": "EP2026-CUSA09461_00-ETH0000000001639",
+            "NAME": "The Walking Dead - The Telltale Series Collection - Dynamic",
+            "TITLE_ID": "CUSA09461"
+        },
+        {
+            "CONTENT_ID": "UP4497-CUSA00527_00-UTH0000000007094",
+            "NAME": "The Witcher 3 - Wild Hunt - Expansions",
+            "TITLE_ID": "CUSA00527"
+        },
+        {
+            "CONTENT_ID": "UP4497-CUSA00527_00-UTH0000000000060",
+            "NAME": "The Witcher 3 - Wild Hunt - Geralt & Yennefer",
+            "TITLE_ID": "CUSA00527"
+        },
+        {
+            "CONTENT_ID": "UP4497-CUSA00527_00-UTH0000000000061",
+            "NAME": "The Witcher 3 - Wild Hunt - Geralt vs Ciri",
+            "TITLE_ID": "CUSA00527"
+        },
+        {
+            "CONTENT_ID": "UP4497-CUSA00527_00-UTH0000000007098",
+            "NAME": "The Witcher 3 - Wild Hunt - Geralt vs Monsters",
+            "TITLE_ID": "CUSA00527"
+        },
+        {
+            "CONTENT_ID": "UP4497-CUSA00527_00-UTH0000000000012",
+            "NAME": "The Witcher 3 - Wild Hunt - Landscapes",
+            "TITLE_ID": "CUSA00527"
+        },
+        {
+            "CONTENT_ID": "UP4497-CUSA00527_00-UTH0000000000009",
+            "NAME": "The Witcher 3 - Wild Hunt - Monsters",
+            "TITLE_ID": "CUSA00527"
+        },
+        {
+            "CONTENT_ID": "UP4497-CUSA13472_00-UTH0000000007534",
+            "NAME": "Thronebreaker - The Witcher Tales",
+            "TITLE_ID": "CUSA13472"
+        },
+        {
+            "CONTENT_ID": "UP0700-CUSA12474_00-MKDTHEME00000001",
+            "NAME": "TOKYO GHOUL-re [CALL to EXIST] - Theme 1",
+            "TITLE_ID": "CUSA12474"
+        },
+        {
+            "CONTENT_ID": "UP0700-CUSA12474_00-MKDTHEME00000002",
+            "NAME": "TOKYO GHOUL-re [CALL to EXIST] - Theme 2",
+            "TITLE_ID": "CUSA12474"
+        },
+        {
+            "CONTENT_ID": "EP0001-CUSA02819_00-ETH0000000000361",
+            "NAME": "Tom Clancy's - Ghost Recon Wildlands",
+            "TITLE_ID": "CUSA02819"
+        },
+        {
+            "CONTENT_ID": "UP0001-CUSA01800_00-RAINBOWSIXTHEME1",
+            "NAME": "Tom Clancy's - Rainbow Six Seige - Static",
+            "TITLE_ID": "CUSA01800"
+        },
+        {
+            "CONTENT_ID": "EP0001-CUSA01788_00-ETH0000000001670",
+            "NAME": "Tom Clancy's - Rainbow Six Seige - White Noise",
+            "TITLE_ID": "CUSA01788"
+        },
+        {
+            "CONTENT_ID": "EP0001-CUSA01788_00-RAINBOW6SIEGEOPS",
+            "NAME": "Tom Clancy's - Rainbow Six Siege",
+            "TITLE_ID": "CUSA01788"
+        },
+        {
+            "CONTENT_ID": "EP0001-CUSA01262_00-ETH0000000000344",
+            "NAME": "Tom Clancy's - The Division - PS Plus Exclusive",
+            "TITLE_ID": "CUSA01262"
+        },
+        {
+            "CONTENT_ID": "UP0001-CUSA01810_00-UTH0000000000042",
+            "NAME": "Tom Clancy's - The Division - Static",
+            "TITLE_ID": "CUSA01810"
+        },
+        {
+            "CONTENT_ID": "EP0001-CUSA12630_00-ETH0000000002141",
+            "NAME": "Tom Clancy's - The Division 2",
+            "TITLE_ID": "CUSA12630"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA01769_00-TOMBRAIDER0000ES",
+            "NAME": "Tomb Raider",
+            "TITLE_ID": "CUSA01769"
+        },
+        {
+            "CONTENT_ID": "UP1032-CUSA09584_00-UTH0000000007408",
+            "NAME": "Torn - The Mansion",
+            "TITLE_ID": "CUSA09584"
+        },
+        {
+            "CONTENT_ID": "UP1063-CUSA05257_00-TGRBBTHEME000001",
+            "NAME": "Touhou Genso Rondo",
+            "TITLE_ID": "CUSA05257"
+        },
+        {
+            "CONTENT_ID": "UP1063-CUSA06521_00-ETH0000000001003",
+            "NAME": "Touhou Genso Wanderer - Special",
+            "TITLE_ID": "CUSA06521"
+        },
+        {
+            "CONTENT_ID": "JP0704-CUSA06612_00-KBT4THEME0000004",
+            "NAME": "Touhou Kobuto V Burst Battle - X-Mas",
+            "TITLE_ID": "CUSA06612"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA01501_00-ETH0000000000258",
+            "NAME": "Toy Robot - Dynamic",
+            "TITLE_ID": "CUSA01501"
+        },
+        {
+            "CONTENT_ID": "EP4484-CUSA00642_00-ETH0000000000009",
+            "NAME": "Transistor",
+            "TITLE_ID": "CUSA00642"
+        },
+        {
+            "CONTENT_ID": "EP0999-CUSA05198_00-ETH0000000000541",
+            "NAME": "Tricky Towers",
+            "TITLE_ID": "CUSA05198"
+        },
+        {
+            "CONTENT_ID": "JP0746-CUSA14882_00-TRICOLOURTHEME01",
+            "NAME": "Tricolour Love Story",
+            "TITLE_ID": "CUSA14882"
+        },
+        {
+            "CONTENT_ID": "UP1082-CUSA02346_00-UTH0000000007136",
+            "NAME": "TRON - Run-R - Dynamic",
+            "TITLE_ID": "CUSA02346"
+        },
+        {
+            "CONTENT_ID": "UP2025-CUSA04598_00-UTH0000000007258",
+            "NAME": "Trove",
+            "TITLE_ID": "CUSA04598"
+        },
+        {
+            "CONTENT_ID": "EP0001-CUSA01788_00-ETH0000000001456",
+            "NAME": "Ubisoft",
+            "TITLE_ID": "CUSA01788"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA01501_00-UEFACHAMPTHEME01",
+            "NAME": "UEFA Champions League - Dynamic",
+            "TITLE_ID": "CUSA01501"
+        },
+        {
+            "CONTENT_ID": "US0045-CUSA01751_00-UTH0000000000003",
+            "NAME": "UFC 181 - Hendricks vs. Lawler II",
+            "TITLE_ID": "CUSA01751"
+        },
+        {
+            "CONTENT_ID": "US0045-CUSA01751_00-UTH0000000000703",
+            "NAME": "UFC 193 - Rousey vs Holm",
+            "TITLE_ID": "CUSA01751"
+        },
+        {
+            "CONTENT_ID": "UT0016-CUSA00658_00-00A1000000000000",
+            "NAME": "UFC 194 - Aldo vs McGregor",
+            "TITLE_ID": "CUSA00658"
+        },
+        {
+            "CONTENT_ID": "EP0102-CUSA03086_00-UMBRELLACORTHE01",
+            "NAME": "Umbrella Corps",
+            "TITLE_ID": "CUSA03086"
+        },
+        {
+            "CONTENT_ID": "UP1260-CUSA07938_00-UTH0000000007286",
+            "NAME": "Unbox",
+            "TITLE_ID": "CUSA07938"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA07737_00-UNCHARTED10THANN",
+            "NAME": "Uncharted - 10th Anniversary",
+            "TITLE_ID": "CUSA07737"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA02320_00-UDFDYNAMICTHEME1",
+            "NAME": "Uncharted - Drake's Fortune - Remastered - Dynamic",
+            "TITLE_ID": "CUSA02320"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA07737_00-U4TLLDYNAMICTHEM",
+            "NAME": "Uncharted - The Lost Legacy - Dynamic",
+            "TITLE_ID": "CUSA07737"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA02344_00-UCOLLECTIONTHEME",
+            "NAME": "Uncharted - The Nathan Drake Collection - Dynamic",
+            "TITLE_ID": "CUSA02344"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA02320_00-UATDYNAMICTHEME1",
+            "NAME": "Uncharted 2 - Among Thieves - Remastered - Dynamic",
+            "TITLE_ID": "CUSA02320"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA00341_00-UNCHARTED4FIRE00",
+            "NAME": "Uncharted 4 - A Thief's End - Fire - Dynamic",
+            "TITLE_ID": "CUSA00341"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA00341_00-UNCHARTED4INKFLO",
+            "NAME": "Uncharted 4 - A Thief's End - Ink - Dynamic",
+            "TITLE_ID": "CUSA00341"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA00341_00-U4DYNAMICTHEME00",
+            "NAME": "Uncharted 4 - A Thief's End - Mountain Vista - Dynamic",
+            "TITLE_ID": "CUSA00341"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA00917_00-ETH0000000000172",
+            "NAME": "Uncharted 4 - Libertalia Collector's Edition",
+            "TITLE_ID": "CUSA00917"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA00341_00-UNCHARTED4SHIPWR",
+            "NAME": "Uncharted 4 - Shipwreck - Dynamic",
+            "TITLE_ID": "CUSA00341"
+        },
+        {
+            "CONTENT_ID": "UP3893-CUSA08801_00-UTH0000000007331",
+            "NAME": "Undertale - Dynamic",
+            "TITLE_ID": "CUSA08801"
+        },
+        {
+            "CONTENT_ID": "UP0006-CUSA10483_00-UNRAVEL2THEME000",
+            "NAME": "Unravel 2",
+            "TITLE_ID": "CUSA10483"
+        },
+        {
+            "CONTENT_ID": "UP9000-CUSA00359_00-ETH0000000000217",
+            "NAME": "Until Dawn",
+            "TITLE_ID": "CUSA00359"
+        },
+        {
+            "CONTENT_ID": "UP3971-CUSA23079_00-WATCHOUTTHEGOOSE",
+            "NAME": "Untitled Goose Game - Dynamic",
+            "TITLE_ID": "CUSA23079"
+        },
+        {
+            "CONTENT_ID": "UP1981-CUSA05234_00-ETH0000000000517",
+            "NAME": "Valentino Rossi The Game - Theme 1",
+            "TITLE_ID": "CUSA05234"
+        },
+        {
+            "CONTENT_ID": "UP1981-CUSA05234_00-ETH0000000000518",
+            "NAME": "Valentino Rossi The Game - Theme 2",
+            "TITLE_ID": "CUSA05234"
+        },
+        {
+            "CONTENT_ID": "UP0177-CUSA06810_00-UTH0000000007268",
+            "NAME": "Valkyria Revolution - Vanargand",
+            "TITLE_ID": "CUSA06810"
+        },
+        {
+            "CONTENT_ID": "UP1263-CUSA04303_00-UTH0000000007369",
+            "NAME": "Van Helsing",
+            "TITLE_ID": "CUSA04303"
+        },
+        {
+            "CONTENT_ID": "UT0016-CUSA06833_00-UTH0000000007904",
+            "NAME": "VETs - Dynamic",
+            "TITLE_ID": "CUSA06833"
+        },
+        {
+            "CONTENT_ID": "UP3493-CUSA07861_00-1980SVHSVIDEO80S",
+            "NAME": "VHS Video - Dynamic",
+            "TITLE_ID": "CUSA07861"
+        },
+        {
+            "CONTENT_ID": "UP2097-CUSA00080_00-UTH0000000007088",
+            "NAME": "Warframe - Excalibur - Dynamic",
+            "TITLE_ID": "CUSA00080"
+        },
+        {
+            "CONTENT_ID": "EP2097-CUSA00106_00-UTH0000000000010",
+            "NAME": "Warframe - Fortuna - Dynamic",
+            "TITLE_ID": "CUSA00106"
+        },
+        {
+            "CONTENT_ID": "UP2097-CUSA00080_00-UTH0000000007282",
+            "NAME": "Warframe - Octavia - Dynamic",
+            "TITLE_ID": "CUSA00080"
+        },
+        {
+            "CONTENT_ID": "UP2097-CUSA00080_00-UTH0000000000007",
+            "NAME": "Warframe",
+            "TITLE_ID": "CUSA00080"
+        },
+        {
+            "CONTENT_ID": "UP4008-CUSA13072_00-WHCBSIEATHEME000",
+            "NAME": "Warhammer - Chaosbane",
+            "TITLE_ID": "CUSA13072"
+        },
+        {
+            "CONTENT_ID": "UP0001-CUSA04459_00-WATCHDOG2THEME01",
+            "NAME": "Watch Dogs 2 - Marcus",
+            "TITLE_ID": "CUSA04459"
+        },
+        {
+            "CONTENT_ID": "EP0001-CUSA04294_00-ETH0000000000394",
+            "NAME": "Watch Dogs 2 - Static",
+            "TITLE_ID": "CUSA04294"
+        },
+        {
+            "CONTENT_ID": "EP0001-CUSA04294_00-ETH0000000000363",
+            "NAME": "Watch Dogs 2",
+            "TITLE_ID": "CUSA04294"
+        },
+        {
+            "CONTENT_ID": "UP0292-CUSA09406_00-UTH0000000007349",
+            "NAME": "We Happy Few - Static",
+            "TITLE_ID": "CUSA09406"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA08748_00-VRPG0000THEME1EU",
+            "NAME": "Welcome to Badman's Lair - Chillest Conquest",
+            "TITLE_ID": "CUSA08748"
+        },
+        {
+            "CONTENT_ID": "EP2135-CUSA01827_00-ETH0000000000053",
+            "NAME": "Whispering Willows - Main",
+            "TITLE_ID": "CUSA01827"
+        },
+        {
+            "CONTENT_ID": "EP9000-CUSA01769_00-WONDERWOMAN002ES",
+            "NAME": "Wonder Woman",
+            "TITLE_ID": "CUSA01769"
+        },
+        {
+            "CONTENT_ID": "UP0082-CUSA04647_00-WOFFPS40THEME001",
+            "NAME": "World of Final Fantasy - All Aboard the Cactuar Express",
+            "TITLE_ID": "CUSA04647"
+        },
+        {
+            "CONTENT_ID": "UP0680-CUSA02724_00-UTH0000000007069",
+            "NAME": "World of Tanks (Japanese)",
+            "TITLE_ID": "CUSA02724"
+        },
+        {
+            "CONTENT_ID": "UP0680-CUSA02724_00-UTH0000000007068",
+            "NAME": "World of Tanks",
+            "TITLE_ID": "CUSA02724"
+        },
+        {
+            "CONTENT_ID": "EP1001-CUSA02693_00-ETH0000000000154",
+            "NAME": "WWE 2K16",
+            "TITLE_ID": "CUSA02693"
+        },
+        {
+            "CONTENT_ID": "EP1001-CUSA04530_00-ETH0000000001704",
+            "NAME": "XCOM 2 - Dynamic",
+            "TITLE_ID": "CUSA04530"
+        },
+        {
+            "CONTENT_ID": "EP1001-CUSA04530_00-ETH0000000001705",
+            "NAME": "XCOM 2 - War of the Chosen - Dynamic",
+            "TITLE_ID": "CUSA04530"
+        },
+        {
+            "CONTENT_ID": "UP0177-CUSA05070_00-UTH0000000007287",
+            "NAME": "Yakuza 0 - Red",
+            "TITLE_ID": "CUSA05070"
+        },
+        {
+            "CONTENT_ID": "JP0425-CUSA11835_00-YSCELCETAFREETHE",
+            "NAME": "Ys - Foliage Ocean in Celceta - Kai",
+            "TITLE_ID": "CUSA11835"
+        },
+        {
+            "CONTENT_ID": "UP1063-CUSA08565_00-UTH0000000007401",
+            "NAME": "Ys VIII - Lacrimosa of DANA - Duel Destinies",
+            "TITLE_ID": "CUSA08565"
+        },
+        {
+            "CONTENT_ID": "UP3550-CUSA08535_00-0ZOOSECRETTHEME1",
+            "NAME": "Zoos Secret - Theme 1",
+            "TITLE_ID": "CUSA08535"
+        }
+    ]
+}
