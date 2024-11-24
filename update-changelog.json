@@ -4,7 +4,7 @@
 			"latestVersion": "3.7.20",
 			"latestVersionCode": 3,
 			"releaseNotes": [
-				"- First public release - Payload sender - Install/Update Pkg/Cheats/Patches - Pkg view - Support Theme/Dlc/App/Game for install/uninstall/check - Edit/BackUp/Restore PS4 User Profile name/avatar - Create/Format USB with goldhen.bin or exfathax_pico.img (with root) - Enable/Disable GoldHEN Patches - GoldHEN klog viewer - Support latest GoldHEN 2.4b18 - Support for PPPwn exploit (with root and OTG-LAN adapter) or psfree (ps4 FW 9.00)"
+				"- First public release - Payload sender - Install/Update Pkg/Cheats/Patches - Pkg view - Support Theme/Dlc/App/Game for install/uninstall/check - Edit/BackUp/Restore PS4 User Profile name/avatar - Create/Format USB with goldhen.bin or exfathax_pico.img (with root) - Enable/Disable GoldHEN Patches - GoldHEN klog viewer - Support latest GoldHEN 2.4b18 - Support for PPPwn exploit and DNS blocker (with root and OTG-LAN adapter) or psfree (ps4 FW 9.00)"
 			]
         }		
     ]
