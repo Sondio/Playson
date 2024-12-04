@@ -1,10 +1,10 @@
 {
     "Playson": [
         {
-			"latestVersion": "3.7.20",
+			"latestVersion": "3.7.21",
 			"latestVersionCode": 3,
 			"releaseNotes": [
-				"- First public release - Payload sender - Install/Update Pkg/Cheats/Patches - Pkg view - Support Theme/Dlc/App/Game for install/uninstall/check - Edit/BackUp/Restore PS4 User Profile name/avatar - Create/Format USB with goldhen.bin or exfathax_pico.img (with root) - Enable/Disable GoldHEN Patches - GoldHEN klog viewer - Support latest GoldHEN 2.4b18 - Support for PPPwn exploit and DNS blocker (with root and OTG-LAN adapter) or psfree (ps4 FW 9.00)"
+				"- #04/12/2024 - - Support local passthrough using the android wifi IP and desired port (1337, 2121, 3232, 9090, etc) and also support chiaky (PS Remote) - Added news letter at the top of the home screen for possible communication from me to everyone who uses the app - #24/11/2024 - - First public release - Payload sender - Install/Update Pkg/Cheats/Patches - Pkg view - Support Theme/Dlc/App/Game for install/uninstall/check - Edit/BackUp/Restore PS4 User Profile name/avatar - Create/Format USB with goldhen.bin or exfathax_pico.img (with root) - Enable/Disable GoldHEN Patches - GoldHEN klog viewer - Support latest GoldHEN 2.4b18 - Support for PPPwn exploit and DNS blocker (with root and OTG-LAN adapter) or psfree (ps4 FW 9.00)"
 			]
         }		
     ]
