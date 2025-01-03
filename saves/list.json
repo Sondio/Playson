@@ -5,7 +5,8 @@
             "FILE": "CUSA11993-01.zip",
             "INFO": "100% Game Completed\nAll Secondary Mission Completed",
             "TITLE": "Marvel's Spider-Man",
-            "TITLE_ID": "CUSA11993"
+            "TITLE_ID": "CUSA11993",
+			"ALTERNATIVE": ["CUSA11994", "CUSA11995", "CUSA02299", "CUSA09893", "CUSA09751"]
         }
     ]
 }
