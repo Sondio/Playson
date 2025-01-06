@@ -1,3 +1,3 @@
-03/01/2025
+07/01/2025
 https://tse1.mm.bing.net/th?id=OIP.DrZ-VLuXjQ7BTc-1WMATYQHaHa&pid=Api
 🔧A small HotFix will be released soon,\nit will include:\n\n- the linuxloader payloads for standard ps4 with fw 9.00,\n\n- the ps4debug payload 1.1.17,\n\n- support for .jpg images and\nthe addition of an image editor inside the "Edit Profile" tool\n(Thanks to user ~SHIKI~ for his feedback)\n\nI remind you that if you want,\nyou can contribute\nto the creation of a\nnew database for PS4 saves\nthat will be available to anyone\nuses the app by sending me the save file extracted using the tool "Saves".\n\n❤️️Thanks to all supporters, especially the active ones (listed in the info section).\n
