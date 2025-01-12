@@ -1,11 +1,10 @@
 {
-  "date": "06/01/2025",
-  "link": "https://tse1.mm.bing.net/th?id=OIP.DrZ-VLuXjQ7BTc-1WMATYQHaHa&pid=Api",
-  "message": {
-    "en": "I remind you that if you want,\\nyou can contribute to the creation of a\\nnew database for PS4 saves\\nthat will be available to anyone\\nwho uses the app by sending me the save file extracted using the tool 'Saves'.\\n\\n❤️️Thanks to all supporters, especially the active ones (listed in the info section).\\n",
-    "it": "Ti ricordo che, se vuoi,\\npuoi contribuire alla creazione di un\\nnuovo database per i salvataggi PS4\\nche sarà disponibile per chiunque\\nusi l'app inviandomi il file di salvataggio\\nestratto utilizzando lo strumento 'Saves'.\\n\\n❤️️Grazie a tutti i sostenitori, soprattutto a quelli attivi (elencati nella sezione info).\\n",
-    "es": "Te recuerdo que, si quieres,\\npuedes contribuir a la creación de\\nuna nueva base de datos para los guardados de PS4\\nque estará disponible para cualquiera\\nque use la app enviándome el archivo de guardado\\nextraído utilizando la herramienta 'Saves'.\\n\\n❤️️Gracias a todos los seguidores, especialmente a los activos (enumerados en la sección de información).\\n",
-    "fr": "Je vous rappelle que, si vous le souhaitez,\\nvous pouvez contribuer à la création d'une\\nnouvelle base de données pour les sauvegardes PS4\\nqui sera disponible pour tous ceux\\nqui utilisent l'application en m'envoyant le fichier de sauvegarde\\nextrait à l'aide de l'outil 'Saves'.\\n\\n❤️️Merci à tous les soutiens, en particulier les actifs (listés dans la section info).\\n"
-  }
+    "date": "12/01/2025",
+    "link": "https://thumbs.dreamstime.com/b/ciao-saluto-italiano-word-cloud-diverse-lingue-del-world-background-concept-203280196.jpg",
+    "message": {
+        "en": "New version released\\nwith support for \\nEnglish, Italian, Spanish and French languages\\n\\nI remind you that if you want,\\nyou can contribute to the creation of a\\nnew database for PS4 saves\\nthat will be available to anyone\\nwho uses the app by sending me the save file extracted using the tool 'Saves'.\\n\\n❤️️Thanks to all supporters, especially the active ones (listed in the info section).\\n",
+        "es": "Nueva versión lanzada\\ncon soporte para los idiomas\\ninglés, italiano, español y francés\\n\\nTe recuerdo que, si quieres,\\npuedes contribuir a la creación de\\nuna nueva base de datos para los guardados de PS4\\nque estará disponible para cualquiera\\nque use la app enviándome el archivo de guardado\\nextraído utilizando la herramienta 'Saves'.\\n\\n❤️️Gracias a todos los seguidores, especialmente a los activos (enumerados en la sección de información).\\n",
+        "fr": "Nouvelle version publiée\\navec prise en charge\\nde l'anglais, de l'italien, de l'espagnol et du français\\n\\nJe vous rappelle que, si vous le souhaitez,\\nvous pouvez contribuer à la création d'une\\nnouvelle base de données pour les sauvegardes PS4\\nqui sera disponible pour tous ceux\\nqui utilisent l'application en m'envoyant le fichier de sauvegarde\\nextrait à l'aide de l'outil 'Saves'.\\n\\n❤️️Merci à tous les soutiens, en particulier les actifs (listés dans la section info).\\n",
+        "it": "Nuova versione rilasciata\\ncon supporto per le lingue\\nInglese, Italiano, Spagnolo e Francese\\n\\nTi ricordo che, se vuoi,\\npuoi contribuire alla creazione di un\\nnuovo database per i salvataggi PS4\\nche sarà disponibile per chiunque\\nusi l'app inviandomi il file di salvataggio\\nestratto utilizzando lo strumento 'Saves'.\\n\\n❤️️Grazie a tutti i sostenitori, soprattutto a quelli attivi (elencati nella sezione info).\\n"
+    }
 }
-
