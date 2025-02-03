@@ -6,15 +6,31 @@
             "INFO": "100% Game Completed\nAll Secondary Mission Completed",
             "TITLE": "Marvel's Spider-Man",
             "TITLE_ID": "CUSA11993",
-	    "ALTERNATIVE": ["CUSA11994", "CUSA11995", "CUSA02299", "CUSA09893", "CUSA09751"]
+			"ALTERNATIVE": ["CUSA11994", "CUSA11995", "CUSA02299", "CUSA09893", "CUSA09751"]
         },
-	{
+		{
             "APP_VER": "01.00",
             "FILE": "CUSA02299-01.zip",
             "INFO": "100% District\nSome suits",
             "TITLE": "Marvel's Spider-Man",
             "TITLE_ID": "CUSA02299",
-	    "ALTERNATIVE": ["CUSA11993", "CUSA11994", "CUSA11995", "CUSA09893", "CUSA09751"]
+			"ALTERNATIVE": ["CUSA11993", "CUSA11994", "CUSA11995", "CUSA09893", "CUSA09751"]
+        },
+		{
+            "APP_VER": "01.44",
+            "FILE": "CUSA05350-01.zip",
+            "INFO": "Modded Giant Namekian\nUnlocked All in the entire game on All CaCs\nMax Zeni & Tp\nModded SSJ3 Hair + Mask + Black Eyes (CaCs)\nEverything Completed Max and Z (Missions)\nModded QQ Bang all Max up to 5+\nAll Mentors (Including the 15 New Mentors Unlocked)\nAll Characters , Skills, Clothes, Accessories, Super Souls Unlocked",
+            "TITLE": "Dragon Ball Z Xenoverse 2",
+            "TITLE_ID": "CUSA05350",
+			"ALTERNATIVE": [""]
+        },
+		{
+            "APP_VER": "01.44",
+            "FILE": "CUSA05088-01.zip",
+            "INFO": "Modded Giant Namekian\nUnlocked All in the entire game on All CaCs\nMax Zeni & Tp\nModded SSJ3 Hair + Mask + Black Eyes (CaCs)\nEverything Completed Max and Z (Missions)\nModded QQ Bang all Max up to 5+\nAll Mentors (Including the 15 New Mentors Unlocked)\nAll Characters , Skills, Clothes, Accessories, Super Souls Unlocked",
+            "TITLE": "Dragon Ball Z Xenoverse 2",
+            "TITLE_ID": "CUSA05088",
+			"ALTERNATIVE": [""]
         }
     ]
 }
