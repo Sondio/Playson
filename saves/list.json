@@ -47,6 +47,22 @@
             "TITLE": "Horizon Zero Dawn™: Complete Edition",
             "TITLE_ID": "CUSA10211",
 			"ALTERNATIVE": ["CUSA10212", "CUSA10213", "CUSA10218", "CUSA10234"]
+        },
+		{
+            "APP_VER": "01.11",
+            "FILE": "CUSA00556-01.zip",
+            "INFO": "100% Completed\n105 Collectables",
+            "TITLE": "The Last of Us™ Remastered",
+            "TITLE_ID": "CUSA00556",
+			"ALTERNATIVE": ["CUSA00552", "CUSA00557", "CUSA00559"]
+        },
+		{
+            "APP_VER": "01.09",
+            "FILE": "CUSA10249-01.zip",
+            "INFO": "100% Completed\n136 Collectables",
+            "TITLE": "The Last of Us™ Part II",
+            "TITLE_ID": "CUSA10249",
+			"ALTERNATIVE": ["CUSA07820", "CUSA13986", "CUSA14006"]
         }
     ]
 }
