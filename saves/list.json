@@ -31,6 +31,22 @@
             "TITLE": "Dragon Ball Z Xenoverse 2",
             "TITLE_ID": "CUSA05088",
 			"ALTERNATIVE": [""]
+        },
+		{
+            "APP_VER": "01.52",
+            "FILE": "CUSA10211-01.zip",
+            "INFO": "* USE IT WITH REPLACE MODE *\nStart with New Game+\nMax Level Aloy\nAll Unlocked",
+            "TITLE": "Horizon Zero Dawn™: Complete Edition",
+            "TITLE_ID": "CUSA10211",
+			"ALTERNATIVE": ["CUSA10212", "CUSA10213", "CUSA10218", "CUSA10234"]
+        },
+		{
+            "APP_VER": "01.52",
+            "FILE": "CUSA10211-02.zip",
+            "INFO": "* USE IT WITH REPLACE MODE *\nStart before latest main quest\nAll DataPoints (Audio, Text, Holograms, Glyphs)\nMax Level Aloy\nAll Unlocked",
+            "TITLE": "Horizon Zero Dawn™: Complete Edition",
+            "TITLE_ID": "CUSA10211",
+			"ALTERNATIVE": ["CUSA10212", "CUSA10213", "CUSA10218", "CUSA10234"]
         }
     ]
 }
