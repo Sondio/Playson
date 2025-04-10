@@ -1,0 +1,156 @@
+{
+    "name": "Marvel's SpiderMan: Miles Morales",
+    "id": "CUSA17776",
+    "version": "01.14",
+    "process": "eboot.bin",
+    "mods": [
+        {
+            "name": "Infinite Health",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "4B82800",
+                    "on": "81BBCC0000000000803F750FC7838800000000001643E92DD934FDC5FA119388000000E920D934FD",
+                    "off": "00000000000000000000000000000000000000000000000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "1ED0140",
+                    "on": "E9BB26CB02909090",
+                    "off": "C5FA119388000000"
+                }
+            ]
+        },
+        {
+            "name": "Infinite Venom",
+			"hint": "Activate only after defeating Rhino",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "4B82830",
+                    "on": "41C784C50C0100000000C842E95F50C6FB",
+                    "off": "0000000000000000000000000000000000"
+                },
+                {
+                    "offset": "7E7896",
+                    "on": "E995AF39049090909090",
+                    "off": "C4C17A11A4C50C010000"
+                }
+            ]
+        },
+        {
+            "name": "Infinite Gadget Use",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "4B82849",
+                    "on": "29D841C6473810E9E81338FD",
+                    "off": "000000000000000000000000"
+                },
+                {
+                    "offset": "1F03C37",
+                    "on": "E90DECC70290",
+                    "off": "29D841894738"
+                }
+            ]
+        },
+		{
+            "name": "Timer Freeze",
+			"hint": "Works on some challenge, activate only after load the challenge and deactivate after complete the challenge",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "4B8285D",
+                    "on": "51B900006C42660F6EC159C5FA114364E9A427A4FB",
+                    "off": "000000000000000000000000000000000000000000"
+                },
+                {
+                    "offset": "5C5011",
+                    "on": "E947D85B04",
+                    "off": "C5FA114364"
+                }
+            ]
+        },
+		{
+            "name": "Instant Challenge",
+			"hint": "Works on some challenge, activate only after load the challenge and deactivate after complete the challenge",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "1A47198",
+                    "on": "9090909090",
+                    "off": "C4C17A1007"
+                }
+            ]
+        },
+		{
+            "name": "Challenge Timer Bypass",
+			"hint": "Works on some challenge, activate only after load the challenge and deactivate after complete the challenge",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "4B8287A",
+                    "on": "41C70120000000C4C17A1001E94F4EECFC",
+                    "off": "0000000000000000000000000000000000"
+                },
+                {
+                    "offset": "1A476D5",
+                    "on": "E9A0B11303",
+                    "off": "C4C17A1101"
+                }
+            ]
+        },
+        {
+            "name": "Max XP",
+			"hint": "Activate Once",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "4B82893",
+                    "on": "41C786F0B900003C6D0100E9FD5802FC",
+                    "off": "00000000000000000000000000000000"
+                },
+                {
+                    "offset": "BA8199",
+                    "on": "E9F5A6FD039090",
+                    "off": "41899EF0B90000"
+                }
+            ]
+        },
+        {
+            "name": "Infinite Skill Points",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "4B828AB",
+                    "on": "66C781F8B90000E703E9E53302FC",
+                    "off": "0000000000000000000000000000"
+                },
+                {
+                    "offset": "BA5C98",
+                    "on": "E90ECCFD0390",
+                    "off": "2981F8B90000"
+                }
+            ]
+        },
+        {
+            "name": "Infinite Resources",
+			"hint": "Activate only after the tutorial",
+            "type": "checkbox",
+            "memory": [
+                {
+                    "offset": "4B828C1",
+                    "on": "E8245938FD66C74038E703E9F5FC38FD",
+                    "off": "00000000000000000000000000000000"
+                },
+                {
+                    "offset": "1F125BD",
+                    "on": "E9FF02C70290909090",
+                    "off": "E82E5CFFFF44896838"
+                }
+            ]
+        }
+    ],
+    "credits": [
+        "Sondio"
+    ]
+}

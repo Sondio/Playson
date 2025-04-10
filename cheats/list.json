@@ -59,6 +59,12 @@
             "title": "CUSA25000",
             "version": "02.08",
             "url": "CUSA25000_02.08.json"
+        },
+        {
+            "name": "Marvel's SpiderMan: Miles Morales",
+            "title": "CUSA17776",
+            "version": "01.14",
+            "url": "CUSA17776_01.14.json"
         }
     ]
 }
