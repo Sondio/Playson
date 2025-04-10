@@ -22,7 +22,7 @@
         },
         {
             "name": "Infinite Venom",
-			"hint": "Activate only after defeating Rhino",
+			"description": "Activate only after defeating Rhino",
             "type": "checkbox",
             "memory": [
                 {
@@ -55,7 +55,7 @@
         },
 		{
             "name": "Timer Freeze",
-			"hint": "Works on some challenge, activate only after load the challenge and deactivate after complete the challenge",
+			"description": "Works on some challenge, activate only after load the challenge and deactivate after complete the challenge",
             "type": "checkbox",
             "memory": [
                 {
@@ -72,7 +72,7 @@
         },
 		{
             "name": "Instant Challenge",
-			"hint": "Works on some challenge, activate only after load the challenge and deactivate after complete the challenge",
+			"description": "Works on some challenge, activate only after load the challenge and deactivate after complete the challenge",
             "type": "checkbox",
             "memory": [
                 {
@@ -84,7 +84,7 @@
         },
 		{
             "name": "Challenge Timer Bypass",
-			"hint": "Works on some challenge, activate only after load the challenge and deactivate after complete the challenge",
+			"description": "Works on some challenge, activate only after load the challenge and deactivate after complete the challenge",
             "type": "checkbox",
             "memory": [
                 {
@@ -101,7 +101,7 @@
         },
         {
             "name": "Max XP",
-			"hint": "Activate Once",
+			"description": "Activate Once",
             "type": "checkbox",
             "memory": [
                 {
@@ -134,7 +134,7 @@
         },
         {
             "name": "Infinite Resources",
-			"hint": "Activate only after the tutorial",
+			"description": "Activate only after the tutorial",
             "type": "checkbox",
             "memory": [
                 {
