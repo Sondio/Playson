@@ -63,6 +63,14 @@
             "TITLE": "The Last of Us™ Part II",
             "TITLE_ID": "CUSA10249",
 			"ALTERNATIVE": ["CUSA07820", "CUSA13986", "CUSA14006"]
+        },
+		{
+            "APP_VER": "01.14",
+            "FILE": "CUSA17776-01.zip",
+            "INFO": "100% Completed\nAll Collectables\nNG+ unlocked",
+            "TITLE": "Marvel's Spider-Man: Miles Morales",
+            "TITLE_ID": "CUSA17776",
+			"ALTERNATIVE": ["CUSA17722", "CUSA17839", "CUSA18748", "CUSA20177"]
         }
     ]
 }
