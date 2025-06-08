@@ -1,10 +1,10 @@
 {
-    "date": "28/03/2025",
+    "date": "08/06/2025",
     "link": "https://raw.githubusercontent.com/Sondio/Playson/refs/heads/main/icon.png",
     "message": {
-        "en": "New release!✌\\n\\nI remind you that if you want,\\nyou can contribute to the creation of a\\nnew database for PS4 saves\\nthat will be available to anyone\\nwho uses the app by sending me the save file extracted using the tool 'Saves'.\\n\\n❤️️Thanks to all supporters, especially the active ones (listed in the info section).\\n",
-        "es": "Nuevo lanzamiento!✌\\n\\nTe recuerdo que, si quieres,\\npuedes contribuir a la creación de\\nuna nueva base de datos para los guardados de PS4\\nque estará disponible para cualquiera\\nque use la app enviándome el archivo de guardado\\nextraído utilizando la herramienta 'Saves'.\\n\\n❤️️Gracias a todos los seguidores, especialmente a los activos (enumerados en la sección de información).\\n",
-        "fr": "Nouvelle sortie!✌\\n\\nJe vous rappelle que, si vous le souhaitez,\\nvous pouvez contribuer à la création d'une\\nnouvelle base de données pour les sauvegardes PS4\\nqui sera disponible pour tous ceux\\nqui utilisent l'application en m'envoyant le fichier de sauvegarde\\nextrait à l'aide de l'outil 'Saves'.\\n\\n❤️️Merci à tous les soutiens, en particulier les actifs (listés dans la section info).\\n",
-        "it": "Nuova release!✌\\n\\nTi ricordo che, se vuoi,\\npuoi contribuire alla creazione di un\\nnuovo database per i salvataggi PS4\\nche sarà disponibile per chiunque\\nusi l'app inviandomi il file di salvataggio\\nestratto utilizzando lo strumento 'Saves'.\\n\\n❤️️Grazie a tutti i sostenitori, soprattutto a quelli attivi (elencati nella sezione info).\\n"
+        "en": "https://mega.nz/file/lMlDHBQZ#P7A3p7PxqwAAjdzeZiAqCnK-2hLEoV-5Ch-3OLsiKIYNew \\n\\nIn the next update, support for PS4 fw 7.00 <-> 9.60 with psfree+lapse\\nWarning it is not 100% stable,\\nit can cause problems like black screen/corrupted saves with some apps/games.\\n",
+        "es": "https://mega.nz/file/lMlDHBQZ#P7A3p7PxqwAAjdzeZiAqCnK-2hLEoV-5Ch-3OLsiKIYNuevo \\n\\nEn la próxima actualización, compatibilidad con PS4 fw 7.00 <-> 9.60 con psfree+lapse. Advertencia: no es 100 % estable. Puede causar problemas como pantalla negra o partidas guardadas corruptas con algunas aplicaciones o juegos..\\n",
+        "fr": "https://mega.nz/file/lMlDHBQZ#P7A3p7PxqwAAjdzeZiAqCnK-2hLEoV-5Ch-3OLsiKIYNouvelle \\n\\nDans la prochaine mise à jour, prise en charge du firmware PS4 7.00 <-> 9.60 avec psfree+lapse\\nAttention, ce n'est pas stable à 100 %,\\nce cela peut entraîner des problèmes tels qu'un écran noir/des sauvegardes corrompues avec certaines applications/certains jeux.\\n",
+        "it": "https://mega.nz/file/lMlDHBQZ#P7A3p7PxqwAAjdzeZiAqCnK-2hLEoV-5Ch-3OLsiKIYNuova \\n\\nNel prossimo aggiornamento, supporto per PS4 fw 7.00 <-> 9.60 con psfree+lapse\\nAttenzione non è stabile al 100%,\\npuò causare problemi tipo schermata nera/salvataggi corrotti con alcune app/giochi.\\n"
     }
 }
