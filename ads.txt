@@ -1,10 +1,10 @@
 {
     "date": "08/06/2025",
-    "link": "https://mega.nz/file/lMlDHBQZ#P7A3p7PxqwAAjdzeZiAqCnK-2hLEoV-5Ch-3OLsiKIY",
+    "link": "https://raw.githubusercontent.com/Sondio/Playson/refs/heads/main/icon.png",
     "message": {
-        "en": "https://mega.nz/file/lMlDHBQZ#P7A3p7PxqwAAjdzeZiAqCnK-2hLEoV-5Ch-3OLsiKIY \\n\\nIn the next update, support for PS4 fw 7.00 <-> 9.60 with psfree+lapse\\nWarning it is not 100% stable,\\nit can cause problems like black screen/corrupted saves with some apps/games.\\n",
-        "es": "https://mega.nz/file/lMlDHBQZ#P7A3p7PxqwAAjdzeZiAqCnK-2hLEoV-5Ch-3OLsiKIY \\n\\nEn la próxima actualización, compatibilidad con PS4 fw 7.00 <-> 9.60 con psfree+lapse. Advertencia: no es 100 % estable. Puede causar problemas como pantalla negra o partidas guardadas corruptas con algunas aplicaciones o juegos..\\n",
-        "fr": "https://mega.nz/file/lMlDHBQZ#P7A3p7PxqwAAjdzeZiAqCnK-2hLEoV-5Ch-3OLsiKIY \\n\\nDans la prochaine mise à jour, prise en charge du firmware PS4 7.00 <-> 9.60 avec psfree+lapse\\nAttention, ce n'est pas stable à 100 %,\\nce cela peut entraîner des problèmes tels qu'un écran noir/des sauvegardes corrompues avec certaines applications/certains jeux.\\n",
-        "it": "https://mega.nz/file/lMlDHBQZ#P7A3p7PxqwAAjdzeZiAqCnK-2hLEoV-5Ch-3OLsiKIY \\n\\nNel prossimo aggiornamento, supporto per PS4 fw 7.00 <-> 9.60 con psfree+lapse\\nAttenzione non è stabile al 100%,\\npuò causare problemi tipo schermata nera/salvataggi corrotti con alcune app/giochi.\\n"
+        "en": "<a href=\"https://mega.nz/file/lMlDHBQZ#P7A3p7PxqwAAjdzeZiAqCnK-2hLEoV-5Ch-3OLsiKIY\">Video</a> \\n\\nIn the next update, support for PS4 fw 7.00 <-> 9.60 with psfree+lapse\\nWarning it is not 100% stable,\\nit can cause problems like black screen/corrupted saves with some apps/games.\\n",
+        "es": "<a href=\"https://mega.nz/file/lMlDHBQZ#P7A3p7PxqwAAjdzeZiAqCnK-2hLEoV-5Ch-3OLsiKIY\">Video</a> \\n\\nEn la próxima actualización, compatibilidad con PS4 fw 7.00 <-> 9.60 con psfree+lapse. Advertencia: no es 100 % estable. Puede causar problemas como pantalla negra o partidas guardadas corruptas con algunas aplicaciones o juegos..\\n",
+        "fr": "<a href=\"https://mega.nz/file/lMlDHBQZ#P7A3p7PxqwAAjdzeZiAqCnK-2hLEoV-5Ch-3OLsiKIY\">Vidéo</a> \\n\\nDans la prochaine mise à jour, prise en charge du firmware PS4 7.00 <-> 9.60 avec psfree+lapse\\nAttention, ce n'est pas stable à 100 %,\\nce cela peut entraîner des problèmes tels qu'un écran noir/des sauvegardes corrompues avec certaines applications/certains jeux.\\n",
+        "it": "<a href=\"https://mega.nz/file/lMlDHBQZ#P7A3p7PxqwAAjdzeZiAqCnK-2hLEoV-5Ch-3OLsiKIY\">Video</a> \\n\\nNel prossimo aggiornamento, supporto per PS4 fw 7.00 <-> 9.60 con psfree+lapse\\nAttenzione non è stabile al 100%,\\npuò causare problemi tipo schermata nera/salvataggi corrotti con alcune app/giochi.\\n"
     }
 }
