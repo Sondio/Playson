@@ -1,5 +1,11 @@
 {
     "cheats": [
+		{
+            "name": "Dead Island 2 Gold Edition",
+            "title": "CUSA27043",
+            "version": "01.10",
+            "url": "CUSA27043_01.10.json"
+        },
         {
             "name": "The Last of Us™ Part II",
             "title": "CUSA10249",
