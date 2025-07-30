@@ -71,6 +71,18 @@
             "title": "CUSA17776",
             "version": "01.14",
             "url": "CUSA17776_01.14.json"
+        },
+        {
+            "name": "DeadCraft",
+            "title": "CUSA29850",
+            "version": "01.04",
+            "url": "CUSA29850_01.04.json"
+        },
+        {
+            "name": "Grounded",
+            "title": "CUSA42556",
+            "version": "01.14",
+            "url": "CUSA42556_01.14.json"
         }
     ]
 }
