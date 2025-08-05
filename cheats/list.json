@@ -83,6 +83,12 @@
             "title": "CUSA42556",
             "version": "01.14",
             "url": "CUSA42556_01.14.json"
+        },
+        {
+            "name": "Metal Gear Solid - Master Collection Version",
+            "title": "CUSA41300",
+            "version": "01.03",
+            "url": "CUSA41300_01.03.json"
         }
     ]
 }
