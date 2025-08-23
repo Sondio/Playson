@@ -89,6 +89,12 @@
             "title": "CUSA41300",
             "version": "01.03",
             "url": "CUSA41300_01.03.json"
+        },
+        {
+            "name": "Legacy of Kain Soul Reaver 1&2 Remastered",
+            "title": "CUSA44836",
+            "version": "01.03",
+            "url": "CUSA44836_01.03.json"
         }
     ]
 }
