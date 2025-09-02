@@ -5,7 +5,7 @@
         "en": "<a href=\"https://ko-fi.com/s/a89f831c81\">SiSTRo Ko-fi</a>\\n\\nA new version of GoldHEN 2.4b18.6 has been released,\\nand it's already in the app!\\nPlease support my friend SiSTRo\\nfor his continued dedication to developing this homebrew!!\\n",
         "es": "<a href=\"https://ko-fi.com/s/a89f831c81\">SiSTRo Ko-fi</a>\\n\\nYa está disponible la nueva versión de GoldHEN 2.4b18.6\\nen la app!\\nApoya a mi amigo SiSTRo\\npor su continua dedicación al desarrollo de este homebrew!!\\n",
         "fr": "<a href=\"https://ko-fi.com/s/a89f831c81\">SiSTRo Ko-fi</a>\\n\\nUne nouvelle version de GoldHEN 2.4b18.6 est disponible\\net est déjà intégrée à l'application!\\nSoutenir mon ami SiSTRo\\npour son dévouement constant au développement de ce homebrew!!\\n",
-        "it": "<a href=\"https://ko-fi.com/s/a89f831c81\">SiSTRo Ko-fi</a>\\n\\Rilasciata una nuova versione di GoldHEN 2.4b18.6,\\ngià presente nell'app!\\nSupportate il mio amico SiSTRo\\nper la sua costante dedizione nello sviluppo di questo homebrew!!\\n",
-		"ar": "<a href=\"https://ko-fi.com/s/a89f831c81\">SiSTRo Ko-fi</a>\\n\\تم إصدار إصدار جديد من GoldHEN 2.4b18.6، وهو متوفر بالفعل في التطبيق! أرجو منكم دعم صديقي SiSTRo على تفانيه المستمر في تطوير هذه النسخة المنزلية!\\n"
+        "it": "<a href=\"https://ko-fi.com/s/a89f831c81\">SiSTRo Ko-fi</a>\\n\\nRilasciata una nuova versione di GoldHEN 2.4b18.6,\\ngià presente nell'app!\\nSupportate il mio amico SiSTRo\\nper la sua costante dedizione nello sviluppo di questo homebrew!!\\n",
+		"ar": "<a href=\"https://ko-fi.com/s/a89f831c81\">SiSTRo Ko-fi</a>\\n\\nتم إصدار إصدار جديد من GoldHEN 2.4b18.6، وهو متوفر بالفعل في التطبيق! أرجو منكم دعم صديقي SiSTRo على تفانيه المستمر في تطوير هذه النسخة المنزلية!\\n"
     }
 }
