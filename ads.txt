@@ -1,10 +1,11 @@
 {
-    "date": "25/06/2025",
-    "link": "https://raw.githubusercontent.com/Sondio/Playson/refs/heads/main/icon.png",
+    "date": "02/09/2025",
+    "link": "https://www.biteyourconsole.net/wp-content/uploads/GoldHENPS4IA.webp",
     "message": {
-        "en": "<a href=\"https://mega.nz/file/lMlDHBQZ#P7A3p7PxqwAAjdzeZiAqCnK-2hLEoV-5Ch-3OLsiKIY\">Video</a> \\n\\nAdded support for PS4 fw 7.00 <-> 9.60 with psfree+lapse\\nWarning it is not 100% stable,\\nit can cause problems like black screen/corrupted saves with some apps/games.\\n",
-        "es": "<a href=\"https://mega.nz/file/lMlDHBQZ#P7A3p7PxqwAAjdzeZiAqCnK-2hLEoV-5Ch-3OLsiKIY\">Video</a> \\n\\nAñadido compatibilidad con PS4 fw 7.00 <-> 9.60 con psfree+lapse. Advertencia: no es 100 % estable. Puede causar problemas como pantalla negra o partidas guardadas corruptas con algunas aplicaciones o juegos..\\n",
-        "fr": "<a href=\"https://mega.nz/file/lMlDHBQZ#P7A3p7PxqwAAjdzeZiAqCnK-2hLEoV-5Ch-3OLsiKIY\">Vidéo</a> \\n\\nAjouté prise en charge du firmware PS4 7.00 <-> 9.60 avec psfree+lapse\\nAttention, ce n'est pas stable à 100 %,\\nce cela peut entraîner des problèmes tels qu'un écran noir/des sauvegardes corrompues avec certaines applications/certains jeux.\\n",
-        "it": "<a href=\"https://mega.nz/file/lMlDHBQZ#P7A3p7PxqwAAjdzeZiAqCnK-2hLEoV-5Ch-3OLsiKIY\">Video</a> \\n\\Aggiunto supporto per PS4 fw 7.00 <-> 9.60 con psfree+lapse\\nAttenzione non è stabile al 100%,\\npuò causare problemi tipo schermata nera/salvataggi corrotti con alcune app/giochi.\\n"
+        "en": "<a href=\"https://ko-fi.com/s/a89f831c81\">SiSTRo Ko-fi</a>\\n\\nA new version of GoldHEN 2.4b18.6 has been released,\\nand it's already in the app!\\nPlease support my friend SiSTRo\\nfor his continued dedication to developing this homebrew!!\\n",
+        "es": "<a href=\"https://ko-fi.com/s/a89f831c81\">SiSTRo Ko-fi</a>\\n\\nYa está disponible la nueva versión de GoldHEN 2.4b18.6\\nen la app!\\nApoya a mi amigo SiSTRo\\npor su continua dedicación al desarrollo de este homebrew!!\\n",
+        "fr": "<a href=\"https://ko-fi.com/s/a89f831c81\">SiSTRo Ko-fi</a>\\n\\nUne nouvelle version de GoldHEN 2.4b18.6 est disponible\\net est déjà intégrée à l'application!\\nSoutenir mon ami SiSTRo\\npour son dévouement constant au développement de ce homebrew!!\\n",
+        "it": "<a href=\"https://ko-fi.com/s/a89f831c81\">SiSTRo Ko-fi</a>\\n\\Rilasciata una nuova versione di GoldHEN 2.4b18.6,\\ngià presente nell'app!\\nSupportate il mio amico SiSTRo\\nper la sua costante dedizione nello sviluppo di questo homebrew!!\\n",
+		"ar": "<a href=\"https://ko-fi.com/s/a89f831c81\">SiSTRo Ko-fi</a>\\n\\تم إصدار إصدار جديد من GoldHEN 2.4b18.6، وهو متوفر بالفعل في التطبيق! أرجو منكم دعم صديقي SiSTRo على تفانيه المستمر في تطوير هذه النسخة المنزلية!\\n"
     }
 }
