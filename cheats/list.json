@@ -95,6 +95,18 @@
             "title": "CUSA44836",
             "version": "01.03",
             "url": "CUSA44836_01.03.json"
+        },
+        {
+            "name": "Metal Gear Solid V: The Phantom Pain",
+            "title": "CUSA01154",
+            "version": "01.16",
+            "url": "CUSA01154_01.16.json"
+        },
+        {
+            "name": "Borderlands GOTY",
+            "title": "CUSA10455",
+            "version": "01.07",
+            "url": "CUSA10455_01.07.json"
         }
     ]
 }
