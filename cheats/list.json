@@ -107,6 +107,12 @@
             "title": "CUSA10455",
             "version": "01.07",
             "url": "CUSA10455_01.07.json"
+        },
+        {
+            "name": "Slitterhead",
+            "title": "CUSA47980",
+            "version": "01.02",
+            "url": "CUSA47980_01.02.json"
         }
     ]
 }
