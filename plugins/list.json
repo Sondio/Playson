@@ -1,31 +1,50 @@
 {
-    "repo": [
-        {
-            "name": "GoldHEN Plugins",
-            "version": "1.155",
-            "info": "https://github.com/GoldHEN/GoldHEN_Plugins_Repository"
-        }
-    ],
-    "plugins": [
-        {
-            "name": "afr.prx",
-            "hash": "5d39326745ecd0d4d674de5513481e50"
-        },
-        {
-            "name": "button_swap.prx",
-            "hash": "627f73ee282853731806885f4bfa719b"
-        },
-        {
-            "name": "fliprate_remover.prx",
-            "hash": "2fa11aad5cc39b8ff83b425ad0019955"
-        },
-        {
-            "name": "game_patch.prx",
-            "hash": "4648e7120e59490bc5fe18ab1a942946"
-        },
-        {
-            "name": "no_share_watermark.prx",
-            "hash": "524d26d311d1adb24b28d86b6b2eac6b"
-        }
-    ]
+  "repo": [
+    {
+      "name": "GoldHEN Plugins",
+      "version": "1.188",
+      "info": "https://github.com/GoldHEN/GoldHEN_Plugins_Repository",
+      "rev": "1.0"
+    }
+  ],
+  "plugins": [{
+    "name": "afr.prx",
+    "hash": "413c61da1a7929d9612d8d8dfa74ac03"
+  },{
+    "name": "aio_fix_505.prx",
+    "hash": "e9ec197fc22c488eb282e42dcb048398"
+  },{
+    "name": "button_swap.prx",
+    "hash": "ef2a10919aed3fcd7c6da1421c6c540b"
+  },{
+    "name": "fliprate_remover.prx",
+    "hash": "3165bd7cf711583fe9bf9eb8e310f7eb"
+  },{
+    "name": "force_1080p_display.prx",
+    "hash": "0275ef08681e30335bef250b01ffaa12"
+  },{
+    "name": "force_30_fps.prx",
+    "hash": "8ac8829c5efd648757fdb6f09c525c92"
+  },{
+    "name": "frame_logger.prx",
+    "hash": "5d10f8dce6faf52763f9d94dfcab3931"
+  },{
+    "name": "game_patch.prx",
+    "hash": "70cb489035657167a273dec03f88dce1"
+  },{
+    "name": "gamepad_helper.prx",
+    "hash": "bdab8cbc1f3f714079cab73056b3852c"
+  },{
+    "name": "no_share_watermark.prx",
+    "hash": "59c054aabd620097cb295d2dac2a4504"
+  },{
+    "name": "plugin_loader.prx",
+    "hash": "4f25ba8a6e8dc3612a7fe1e866fdca13"
+  },{
+    "name": "plugin_template.prx",
+    "hash": "e168e9e88d76a850fece98e61d026587"
+  },{
+    "name": "yt_adblock.prx",
+    "hash": "02e56dd449f13bd8750b84e254971c3c"
+  }    ]
 }
