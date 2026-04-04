@@ -1406,6 +1406,11 @@
             "TITLE_ID": "CUSA08213"
         },
         {
+            "CONTENT_ID":"UP9000-CUSA03780_00-PDCREHALLOWEENDT",
+            "NAME":"Halloween - Dynamic",
+            "TITLE_ID":"CUSA03780"
+		},		
+        {
             "CONTENT_ID": "UP0964-CUSA03630_00-HANAMIREMASTERED",
             "NAME": "Hanami (Cherry Blossom Festival) Remastered - Dynamic",
             "TITLE_ID": "CUSA03630"
@@ -2906,6 +2911,11 @@
             "TITLE_ID": "CUSA01769"
         },
         {
+            "CONTENT_ID": "UP0001-PSTC99999_00-PSTCTHEME0100000",
+            "NAME": "PS5 THEME",
+            "TITLE_ID": "PSTC99999"
+        },
+        {
             "CONTENT_ID": "US0045-CUSA01751_00-UTH0000000007164",
             "NAME": "PSN Anniversary",
             "TITLE_ID": "CUSA01751"
@@ -3510,6 +3520,11 @@
             "NAME": "Star Wars Battlefront 2",
             "TITLE_ID": "CUSA05770"
         },
+		{
+            "CONTENT_ID":"UP2131-CUSA01736_00-DPSTARRYNIGHT15D",
+			"NAME":"Starry Night - Dynamic",
+            "TITLE_ID":"CUSA01736"
+        }
         {
             "CONTENT_ID": "JP9002-CUSA01666_00-STARSHIPTROOPER1",
             "NAME": "Starship Troopers - Theme 01",
@@ -3815,6 +3830,11 @@
             "NAME": "The Elder Scrolls Online",
             "TITLE_ID": "CUSA00132"
         },
+		{
+            "CONTENT_ID": "UP0001-CUSA90989_00-TEOETHEME0100000",
+            "NAME": "The End of Evangelion - Dynamic Theme",
+            "TITLE_ID": "CUSA90989"
+		},
         {
             "CONTENT_ID": "UP1003-CUSA06166_00-UTH0000000007294",
             "NAME": "The Evil Within 2 - Dynamic",
